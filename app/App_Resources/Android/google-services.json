@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "489820938204",
+    "firebase_url": "https://univerlife-e5d38.firebaseio.com",
+    "project_id": "univerlife-e5d38",
+    "storage_bucket": "univerlife-e5d38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489820938204:android:13b5a4e4a5453c92",
+        "android_client_info": {
+          "package_name": "org.nativescript.UniverLife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489820938204-u3qols8a4i2m1dov2laomp2e6kgliea7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNnRkWhspjDJofjiG0YKwRw6WXIbSnsx0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

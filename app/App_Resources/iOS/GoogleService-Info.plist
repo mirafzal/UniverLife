@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>489820938204-jkikaqhd2akb9tg5kij18pl9vdvtr893.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.489820938204-jkikaqhd2akb9tg5kij18pl9vdvtr893</string>
+	<key>API_KEY</key>
+	<string>AIzaSyARWiQ151d3D2q2SIhLbAIAXRA7ycLnxCg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>489820938204</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.nativescript.UniverLife</string>
+	<key>PROJECT_ID</key>
+	<string>univerlife-e5d38</string>
+	<key>STORAGE_BUCKET</key>
+	<string>univerlife-e5d38.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:489820938204:ios:13b5a4e4a5453c92</string>
+	<key>DATABASE_URL</key>
+	<string>https://univerlife-e5d38.firebaseio.com</string>
+</dict>
+</plist>

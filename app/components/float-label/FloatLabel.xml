@@ -1,0 +1,9 @@
+<GridLayout rows="30, auto" marginBottom="5" loaded="onLoaded">
+    <Label row="1" opacity="0.4" fontSize="14" class="input"></Label>
+    <TextField row="1" focus="onFocus" blur="onBlur" borderBottomWidth="3" borderBottomColor="#cec8c8"
+        padding="2"
+        class="input" editable="{{ editable }}" text="{{ email }}" keyboardType="email"
+         autocorrect="true" autocapitalizationType="none" returnKeyType="done"></TextField>
+    
+    
+</GridLayout>

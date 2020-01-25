@@ -1,0 +1,7910 @@
+{
+  "Freshman SOCIE": [
+    {
+      "ID": "U1810001",
+      "SURNAME": "Abed",
+      "NAME": "Abdulaziz",
+      "GROUP": "CIE18-7"
+    },
+    {
+      "ID": "U1810002",
+      "SURNAME": "Kim",
+      "NAME": "Aleksandra",
+      "GROUP": "CIE18-7"
+    },
+    {
+      "ID": "U1810003",
+      "SURNAME": "Turaev",
+      "NAME": "Shokhrukh",
+      "GROUP": "CIE18-12"
+    },
+    {
+      "ID": "U1810004",
+      "SURNAME": "Odilov",
+      "NAME": "Farrukh",
+      "GROUP": "CIE18-12"
+    },
+    {
+      "ID": "U1810005",
+      "SURNAME": "Jumanazarov",
+      "NAME": "Akbarbek",
+      "GROUP": "CIE18-12"
+    },
+    {
+      "ID": "U1810006",
+      "SURNAME": "Isroilov",
+      "NAME": "Abduvohid",
+      "GROUP": "CIE18-1"
+    },
+    {
+      "ID": "U1810007",
+      "SURNAME": "Muzrafkulov",
+      "NAME": "Al-Xafis",
+      "GROUP": "CIE18-7"
+    },
+    {
+      "ID": "U1810008",
+      "SURNAME": "Sayliev",
+      "NAME": "Fayzidin",
+      "GROUP": "CIE18-12"
+    },
+    {
+      "ID": "U1810009",
+      "SURNAME": "Khujamov",
+      "NAME": "Khumoyun",
+      "GROUP": "CIE18-12"
+    },
+    {
+      "ID": "U1810010",
+      "SURNAME": "Khamraev",
+      "NAME": "Akhror",
+      "GROUP": "CIE18-12"
+    },
+    {
+      "ID": "U1810012",
+      "SURNAME": "Abdukarimova",
+      "NAME": "Nurziyo",
+      "GROUP": "CIE18-12"
+    },
+    {
+      "ID": "U1810013",
+      "SURNAME": "Ruziyev",
+      "NAME": "Khakimjon",
+      "GROUP": "CIE18-12"
+    },
+    {
+      "ID": "U1810014",
+      "SURNAME": "Smirnova",
+      "NAME": "Ekaterina",
+      "GROUP": "CIE18-12"
+    },
+    {
+      "ID": "U1810015",
+      "SURNAME": "Abdullaeva",
+      "NAME": "Sarvinoz",
+      "GROUP": "CIE18-12"
+    },
+    {
+      "ID": "U1810016",
+      "SURNAME": "Gofirov",
+      "NAME": "Azizjon",
+      "GROUP": "CIE18-12"
+    },
+    {
+      "ID": "U1810017",
+      "SURNAME": "Arifdjanov",
+      "NAME": "Sarvar",
+      "GROUP": "CIE18-12"
+    },
+    {
+      "ID": "U1810018",
+      "SURNAME": "Abrorova",
+      "NAME": "Riskiya",
+      "GROUP": "CIE18-12"
+    },
+    {
+      "ID": "U1810019",
+      "SURNAME": "Tilavov",
+      "NAME": "Asilbek",
+      "GROUP": "CIE18-12"
+    },
+    {
+      "ID": "U1810020",
+      "SURNAME": "Kurbankulova",
+      "NAME": "Mukhlisa",
+      "GROUP": "CIE18-7"
+    },
+    {
+      "ID": "U1810021",
+      "SURNAME": "Kahramonov",
+      "NAME": "Lazizbek",
+      "GROUP": "CIE18-13"
+    },
+    {
+      "ID": "U1810022",
+      "SURNAME": "Bayramov",
+      "NAME": "Sardor",
+      "GROUP": "CIE18-13"
+    },
+    {
+      "ID": "U1810023",
+      "SURNAME": "Koraboev",
+      "NAME": "Oyatullo",
+      "GROUP": "CIE18-7"
+    },
+    {
+      "ID": "U1810024",
+      "SURNAME": "Alisherova",
+      "NAME": "Madinabonu",
+      "GROUP": "CIE18-1"
+    },
+    {
+      "ID": "U1810025",
+      "SURNAME": "Khamraev",
+      "NAME": "Shukhrat",
+      "GROUP": "CIE18-13"
+    },
+    {
+      "ID": "U1810026",
+      "SURNAME": "Nuraliev",
+      "NAME": "Nurbek",
+      "GROUP": "CIE18-13"
+    },
+    {
+      "ID": "U1810028",
+      "SURNAME": "Burkhoniy",
+      "NAME": "Umarjon",
+      "GROUP": "CIE18-1"
+    },
+    {
+      "ID": "U1810029",
+      "SURNAME": "Suleymanova",
+      "NAME": "Firuza",
+      "GROUP": "CIE18-7"
+    },
+    {
+      "ID": "U1810030",
+      "SURNAME": "Azizova",
+      "NAME": "Shakhzodakhon",
+      "GROUP": "CIE18-13"
+    },
+    {
+      "ID": "U1810031",
+      "SURNAME": "Kamilov",
+      "NAME": "Mirodil",
+      "GROUP": "CIE18-13"
+    },
+    {
+      "ID": "U1810032",
+      "SURNAME": "Allanazarov",
+      "NAME": "Madiyorbek",
+      "GROUP": "CIE18-14"
+    },
+    {
+      "ID": "U1810033",
+      "SURNAME": "Veliev",
+      "NAME": "Edem",
+      "GROUP": "CIE18-7"
+    },
+    {
+      "ID": "U1810034",
+      "SURNAME": "Mirzajonov",
+      "NAME": "Furkatjon",
+      "GROUP": "CIE18-1"
+    },
+    {
+      "ID": "U1810035",
+      "SURNAME": "Abdullaev",
+      "NAME": "Akmalbek",
+      "GROUP": "CIE18-14"
+    },
+    {
+      "ID": "U1810036",
+      "SURNAME": "Rustamov",
+      "NAME": "Kamronbek",
+      "GROUP": "CIE18-14"
+    },
+    {
+      "ID": "U1810037",
+      "SURNAME": "Akhrorov",
+      "NAME": "Islomkhuja",
+      "GROUP": "CIE18-1"
+    },
+    {
+      "ID": "U1810038",
+      "SURNAME": "Abdullaev",
+      "NAME": "Jaloliddin",
+      "GROUP": "CIE18-14"
+    },
+    {
+      "ID": "U1810039",
+      "SURNAME": "Gofurov",
+      "NAME": "Ismoiljon",
+      "GROUP": "CIE18-14"
+    },
+    {
+      "ID": "U1810040",
+      "SURNAME": "Abdukadirov",
+      "NAME": "Jakhongir",
+      "GROUP": "CIE18-14"
+    },
+    {
+      "ID": "U1810041",
+      "SURNAME": "Zikirov",
+      "NAME": "Firdavs",
+      "GROUP": "CIE18-14"
+    },
+    {
+      "ID": "U1810042",
+      "SURNAME": "Kosimkhujaev",
+      "NAME": "Saidazimkhon",
+      "GROUP": "CIE18-14"
+    },
+    {
+      "ID": "U1810043",
+      "SURNAME": "Talipova",
+      "NAME": "Zilola",
+      "GROUP": "CIE18-14"
+    },
+    {
+      "ID": "U1810044",
+      "SURNAME": "Davronov",
+      "NAME": "Ruslan",
+      "GROUP": "CIE18-14"
+    },
+    {
+      "ID": "U1810045",
+      "SURNAME": "Abdushukurov",
+      "NAME": "Azimiddinkhuja",
+      "GROUP": "CIE18-7"
+    },
+    {
+      "ID": "U1810046",
+      "SURNAME": "Mamatkulov",
+      "NAME": "Jasurbek",
+      "GROUP": "CIE18-14"
+    },
+    {
+      "ID": "U1810047",
+      "SURNAME": "Kuchkorov",
+      "NAME": "Doniyorjon",
+      "GROUP": "CIE18-1"
+    },
+    {
+      "ID": "U1810048",
+      "SURNAME": "Makhamadaliev",
+      "NAME": "Ibrokhimjon",
+      "GROUP": "CIE18-14"
+    },
+    {
+      "ID": "U1810049",
+      "SURNAME": "Makhmudov",
+      "NAME": "Murodjon",
+      "GROUP": "CIE18-14"
+    },
+    {
+      "ID": "U1810050",
+      "SURNAME": "Gapurova",
+      "NAME": "Zarnigor",
+      "GROUP": "CIE18-14"
+    },
+    {
+      "ID": "U1810051",
+      "SURNAME": "Sirojiddinov",
+      "NAME": "Mukhiddin",
+      "GROUP": "CIE18-14"
+    },
+    {
+      "ID": "U1810052",
+      "SURNAME": "Abubakirov",
+      "NAME": "Ulugbek",
+      "GROUP": "CIE18-14"
+    },
+    {
+      "ID": "U1810053",
+      "SURNAME": "Nabijonov",
+      "NAME": "Kamoliddin",
+      "GROUP": "CIE18-7"
+    },
+    {
+      "ID": "U1810054",
+      "SURNAME": "Sadullaev",
+      "NAME": "Sobirjon",
+      "GROUP": "CIE18-14"
+    },
+    {
+      "ID": "U1810055",
+      "SURNAME": "Rakhmonov",
+      "NAME": "Sardorbek",
+      "GROUP": "CIE18-1"
+    },
+    {
+      "ID": "U1810056",
+      "SURNAME": "Abirov",
+      "NAME": "Ulugbek",
+      "GROUP": "CIE18-14"
+    },
+    {
+      "ID": "U1810057",
+      "SURNAME": "Abduvaliev",
+      "NAME": "Khumoyunbek",
+      "GROUP": "CIE18-14"
+    },
+    {
+      "ID": "U1810058",
+      "SURNAME": "Abdurasulov",
+      "NAME": "Olimbek",
+      "GROUP": "CIE18-14"
+    },
+    {
+      "ID": "U1810059",
+      "SURNAME": "Khakimov",
+      "NAME": "Bunyod",
+      "GROUP": "CIE18-14"
+    },
+    {
+      "ID": "U1810060",
+      "SURNAME": "Ortikov",
+      "NAME": "Abdukodir",
+      "GROUP": "CIE18-14"
+    },
+    {
+      "ID": "U1810061",
+      "SURNAME": "Rasulov",
+      "NAME": "Javokhir",
+      "GROUP": "CIE18-15"
+    },
+    {
+      "ID": "U1810062",
+      "SURNAME": "Karimov",
+      "NAME": "Otabek",
+      "GROUP": "CIE18-7"
+    },
+    {
+      "ID": "U1810063",
+      "SURNAME": "Yakubov",
+      "NAME": "Ilkham",
+      "GROUP": "CIE18-15"
+    },
+    {
+      "ID": "U1810064",
+      "SURNAME": "Akhtamov",
+      "NAME": "Amal",
+      "GROUP": "CIE18-15"
+    },
+    {
+      "ID": "U1810065",
+      "SURNAME": "Kozimjonov",
+      "NAME": "Soyibbek",
+      "GROUP": "CIE18-1"
+    },
+    {
+      "ID": "U1810066",
+      "SURNAME": "Sharipov",
+      "NAME": "Saydullokhon",
+      "GROUP": "CIE18-16"
+    },
+    {
+      "ID": "U1810067",
+      "SURNAME": "Dadamyants",
+      "NAME": "David",
+      "GROUP": "CIE18-16"
+    },
+    {
+      "ID": "U1810068",
+      "SURNAME": "Rikhsiboev",
+      "NAME": "Akhror",
+      "GROUP": "CIE18-16"
+    },
+    {
+      "ID": "U1810069",
+      "SURNAME": "Safarov",
+      "NAME": "Otamurod",
+      "GROUP": "CIE18-16"
+    },
+    {
+      "ID": "U1810070",
+      "SURNAME": "Shavkatbekov",
+      "NAME": "Sardorbek",
+      "GROUP": "CIE18-16"
+    },
+    {
+      "ID": "U1810071",
+      "SURNAME": "Shavkatov",
+      "NAME": "Temur",
+      "GROUP": "CIE18-16"
+    },
+    {
+      "ID": "U1810072",
+      "SURNAME": "Musaev",
+      "NAME": "Abdulaziz",
+      "GROUP": "CIE18-16"
+    },
+    {
+      "ID": "U1810073",
+      "SURNAME": "Nasirov",
+      "NAME": "Kudrat",
+      "GROUP": "CIE18-16"
+    },
+    {
+      "ID": "U1810074",
+      "SURNAME": "Sultonova",
+      "NAME": "Anora",
+      "GROUP": "CIE18-1"
+    },
+    {
+      "ID": "U1810075",
+      "SURNAME": "Rajabov",
+      "NAME": "Javokhirbek",
+      "GROUP": "CIE18-16"
+    },
+    {
+      "ID": "U1810076",
+      "SURNAME": "Kurbonov",
+      "NAME": "Anis",
+      "GROUP": "CIE18-16"
+    },
+    {
+      "ID": "U1810077",
+      "SURNAME": "Rakhimboev",
+      "NAME": "Sarvarbek",
+      "GROUP": "CIE18-7"
+    },
+    {
+      "ID": "U1810078",
+      "SURNAME": "Karimov",
+      "NAME": "Akbar",
+      "GROUP": "CIE18-1"
+    },
+    {
+      "ID": "U1810079",
+      "SURNAME": "Jalolov",
+      "NAME": "Mukhiddin",
+      "GROUP": "CIE18-16"
+    },
+    {
+      "ID": "U1810080",
+      "SURNAME": "Murodkulov",
+      "NAME": "Doniyor",
+      "GROUP": "CIE18-16"
+    },
+    {
+      "ID": "U1810081",
+      "SURNAME": "Raufov",
+      "NAME": "Abboskhon",
+      "GROUP": "CIE18-16"
+    },
+    {
+      "ID": "U1810082",
+      "SURNAME": "Sultonbekov",
+      "NAME": "Sarvarbek",
+      "GROUP": "CIE18-16"
+    },
+    {
+      "ID": "U1810083",
+      "SURNAME": "Muzaffarov",
+      "NAME": "Jurabek",
+      "GROUP": "CIE18-16"
+    },
+    {
+      "ID": "U1810084",
+      "SURNAME": "Buriev",
+      "NAME": "Shakhzod",
+      "GROUP": "CIE18-16"
+    },
+    {
+      "ID": "U1810085",
+      "SURNAME": "Berdieva",
+      "NAME": "Manzura",
+      "GROUP": "CIE18-1"
+    },
+    {
+      "ID": "U1810086",
+      "SURNAME": "Rasulov",
+      "NAME": "Sherzod",
+      "GROUP": "CIE18-4"
+    },
+    {
+      "ID": "U1810087",
+      "SURNAME": "Akhmedov",
+      "NAME": "Fazliddin",
+      "GROUP": "CIE18-16"
+    },
+    {
+      "ID": "U1810088",
+      "SURNAME": "Mukhtorov",
+      "NAME": "Anvarkhon",
+      "GROUP": "CIE18-17"
+    },
+    {
+      "ID": "U1810089",
+      "SURNAME": "Azimkhodjaeva",
+      "NAME": "Munisa",
+      "GROUP": "CIE18-17"
+    },
+    {
+      "ID": "U1810090",
+      "SURNAME": "Pirmukhamedov",
+      "NAME": "Asrorjon",
+      "GROUP": "CIE18-7"
+    },
+    {
+      "ID": "U1810091",
+      "SURNAME": "Mirzakhanov",
+      "NAME": "Akhrorboy",
+      "GROUP": "CIE18-1"
+    },
+    {
+      "ID": "U1810092",
+      "SURNAME": "Kodirjonov",
+      "NAME": "Kobiljon",
+      "GROUP": "CIE18-17"
+    },
+    {
+      "ID": "U1810093",
+      "SURNAME": "Rasulov",
+      "NAME": "Rakhmatullokh",
+      "GROUP": "CIE18-17"
+    },
+    {
+      "ID": "U1810094",
+      "SURNAME": "Rashidov",
+      "NAME": "Uktam",
+      "GROUP": "CIE18-17"
+    },
+    {
+      "ID": "U1810095",
+      "SURNAME": "Nuriddinov",
+      "NAME": "Jamshidjon",
+      "GROUP": "CIE18-17"
+    },
+    {
+      "ID": "U1810096",
+      "SURNAME": "Mirzaakhmedov",
+      "NAME": "Nurislom",
+      "GROUP": "CIE18-17"
+    },
+    {
+      "ID": "U1810097",
+      "SURNAME": "Khamidullaev",
+      "NAME": "Ibratillo",
+      "GROUP": "CIE18-7"
+    },
+    {
+      "ID": "U1810098",
+      "SURNAME": "Makhmudov",
+      "NAME": "Nurullokh",
+      "GROUP": "CIE18-17"
+    },
+    {
+      "ID": "U1810099",
+      "SURNAME": "Ravshanov",
+      "NAME": "Azizbek",
+      "GROUP": "CIE18-18"
+    },
+    {
+      "ID": "U1810100",
+      "SURNAME": "Ikromov",
+      "NAME": "Azamat",
+      "GROUP": "CIE18-1"
+    },
+    {
+      "ID": "U1810101",
+      "SURNAME": "Vilyamov",
+      "NAME": "Damir",
+      "GROUP": "CIE18-18"
+    },
+    {
+      "ID": "U1810102",
+      "SURNAME": "Mirakhmatov",
+      "NAME": "Mirzoanvar",
+      "GROUP": "CIE18-18"
+    },
+    {
+      "ID": "U1810103",
+      "SURNAME": "Tsoy",
+      "NAME": "Sergey",
+      "GROUP": "CIE18-7"
+    },
+    {
+      "ID": "U1810104",
+      "SURNAME": "Sagdullaev",
+      "NAME": "Jakhongir",
+      "GROUP": "CIE18-18"
+    },
+    {
+      "ID": "U1810105",
+      "SURNAME": "Fozilov",
+      "NAME": "Boburjon",
+      "GROUP": "CIE18-8"
+    },
+    {
+      "ID": "U1810106",
+      "SURNAME": "Makhkamov",
+      "NAME": "Jakhongir",
+      "GROUP": "CIE18-18"
+    },
+    {
+      "ID": "U1810107",
+      "SURNAME": "Ergashjonova",
+      "NAME": "Shakhzoda",
+      "GROUP": "CIE18-18"
+    },
+    {
+      "ID": "U1810108",
+      "SURNAME": "Anvarkhujaev",
+      "NAME": "Saidkamol",
+      "GROUP": "CIE18-18"
+    },
+    {
+      "ID": "U1810109",
+      "SURNAME": "Karomatova",
+      "NAME": "Shakhrizoda",
+      "GROUP": "CIE18-18"
+    },
+    {
+      "ID": "U1810110",
+      "SURNAME": "Ivaev",
+      "NAME": "Zafar",
+      "GROUP": "CIE18-18"
+    },
+    {
+      "ID": "U1810111",
+      "SURNAME": "Usmanova",
+      "NAME": "Sabina",
+      "GROUP": "CIE18-18"
+    },
+    {
+      "ID": "U1810112",
+      "SURNAME": "Xudoyberdiyeva",
+      "NAME": "Sugdiyona",
+      "GROUP": "CIE18-8"
+    },
+    {
+      "ID": "U1810113",
+      "SURNAME": "Mirzakhalilova",
+      "NAME": "Madina",
+      "GROUP": "CIE18-8"
+    },
+    {
+      "ID": "U1810114",
+      "SURNAME": "Burkhonov",
+      "NAME": "Shakhzod",
+      "GROUP": "CIE18-18"
+    },
+    {
+      "ID": "U1810115",
+      "SURNAME": "Shukurullaev",
+      "NAME": "Abboskhon",
+      "GROUP": "CIE18-18"
+    },
+    {
+      "ID": "U1810116",
+      "SURNAME": "Musaev",
+      "NAME": "Umid",
+      "GROUP": "CIE18-18"
+    },
+    {
+      "ID": "U1810117",
+      "SURNAME": "Juraboev",
+      "NAME": "Khusniddin",
+      "GROUP": "CIE18-18"
+    },
+    {
+      "ID": "U1810118",
+      "SURNAME": "Olimov",
+      "NAME": "Boburbek",
+      "GROUP": "CIE18-18"
+    },
+    {
+      "ID": "U1810119",
+      "SURNAME": "Salyamov",
+      "NAME": "Sarvar",
+      "GROUP": "CIE18-1"
+    },
+    {
+      "ID": "U1810120",
+      "SURNAME": "Rustamov",
+      "NAME": "Dostonbek",
+      "GROUP": "CIE18-18"
+    },
+    {
+      "ID": "U1810121",
+      "SURNAME": "Akramov",
+      "NAME": "Khumoyun",
+      "GROUP": "CIE18-8"
+    },
+    {
+      "ID": "U1810122",
+      "SURNAME": "Khujaev",
+      "NAME": "Bekhzodkhon",
+      "GROUP": "CIE18-18"
+    },
+    {
+      "ID": "U1810123",
+      "SURNAME": "Asrolkhujaeva",
+      "NAME": "Barnokhon",
+      "GROUP": "CIE18-18"
+    },
+    {
+      "ID": "U1810124",
+      "SURNAME": "Rakhimjonov",
+      "NAME": "Sardorjon",
+      "GROUP": "CIE18-1"
+    },
+    {
+      "ID": "U1810125",
+      "SURNAME": "Kobilov",
+      "NAME": "Khurshidbek",
+      "GROUP": "CIE18-18"
+    },
+    {
+      "ID": "U1810126",
+      "SURNAME": "Umidjonov",
+      "NAME": "Iskandar",
+      "GROUP": "CIE18-18"
+    },
+    {
+      "ID": "U1810127",
+      "SURNAME": "Rizokulov",
+      "NAME": "Mukhriddin",
+      "GROUP": "CIE18-4"
+    },
+    {
+      "ID": "U1810128",
+      "SURNAME": "Rustamkhonov",
+      "NAME": "Mukhammad-Rakhimkhon",
+      "GROUP": "CIE18-18"
+    },
+    {
+      "ID": "U1810129",
+      "SURNAME": "Akhmatov",
+      "NAME": "Shakhboz",
+      "GROUP": "CIE18-1"
+    },
+    {
+      "ID": "U1810130",
+      "SURNAME": "Meliev",
+      "NAME": "Abdukhabib",
+      "GROUP": "CIE18-18"
+    },
+    {
+      "ID": "U1810131",
+      "SURNAME": "Khursandov",
+      "NAME": "Sarvar",
+      "GROUP": "CIE18-18"
+    },
+    {
+      "ID": "U1810132",
+      "SURNAME": "Zokirov",
+      "NAME": "Farrukhbek",
+      "GROUP": "CIE18-1"
+    },
+    {
+      "ID": "U1810133",
+      "SURNAME": "Aripova",
+      "NAME": "Kamila",
+      "GROUP": "CIE18-18"
+    },
+    {
+      "ID": "U1810134",
+      "SURNAME": "Kasimova",
+      "NAME": "Komila",
+      "GROUP": "CIE18-1"
+    },
+    {
+      "ID": "U1810135",
+      "SURNAME": "Burxonov",
+      "NAME": "Otajon",
+      "GROUP": "CIE18-19"
+    },
+    {
+      "ID": "U1810136",
+      "SURNAME": "Abdullaev",
+      "NAME": "Jamshidbek",
+      "GROUP": "CIE18-19"
+    },
+    {
+      "ID": "U1810137",
+      "SURNAME": "Turdiev",
+      "NAME": "Farrukh",
+      "GROUP": "CIE18-8"
+    },
+    {
+      "ID": "U1810138",
+      "SURNAME": "Aralov",
+      "NAME": "Mansurjon",
+      "GROUP": "CIE18-19"
+    },
+    {
+      "ID": "U1810139",
+      "SURNAME": "Ilkhomov",
+      "NAME": "Shokhamid",
+      "GROUP": "CIE18-19"
+    },
+    {
+      "ID": "U1810140",
+      "SURNAME": "Yormukhamedova",
+      "NAME": "Shakhnoza",
+      "GROUP": "CIE18-19"
+    },
+    {
+      "ID": "U1810141",
+      "SURNAME": "Ziyautdinov",
+      "NAME": "Javokhir",
+      "GROUP": "CIE18-20"
+    },
+    {
+      "ID": "U1810142",
+      "SURNAME": "Kuchkarov",
+      "NAME": "Utkirbek",
+      "GROUP": "CIE18-8"
+    },
+    {
+      "ID": "U1810143",
+      "SURNAME": "Boltobaev",
+      "NAME": "Abdukhamid",
+      "GROUP": "CIE18-20"
+    },
+    {
+      "ID": "U1810144",
+      "SURNAME": "Azamov",
+      "NAME": "Shoakbar",
+      "GROUP": "CIE18-20"
+    },
+    {
+      "ID": "U1810145",
+      "SURNAME": "Akobirov",
+      "NAME": "Jamshedkhon",
+      "GROUP": "CIE18-20"
+    },
+    {
+      "ID": "U1810146",
+      "SURNAME": "Rakhmatov",
+      "NAME": "Shokhrukh",
+      "GROUP": "CIE18-21"
+    },
+    {
+      "ID": "U1810147",
+      "SURNAME": "Tursunov",
+      "NAME": "Davronbek",
+      "GROUP": "CIE18-21"
+    },
+    {
+      "ID": "U1810148",
+      "SURNAME": "Karimov",
+      "NAME": "Bunyod",
+      "GROUP": "CIE18-8"
+    },
+    {
+      "ID": "U1810149",
+      "SURNAME": "Juraeva",
+      "NAME": "Sabokhat",
+      "GROUP": "CIE18-21"
+    },
+    {
+      "ID": "U1810150",
+      "SURNAME": "Olimov",
+      "NAME": "Akbarjon",
+      "GROUP": "CIE18-1"
+    },
+    {
+      "ID": "U1810151",
+      "SURNAME": "Mardonova",
+      "NAME": "Mubina",
+      "GROUP": "CIE18-21"
+    },
+    {
+      "ID": "U1810152",
+      "SURNAME": "Anvarov",
+      "NAME": "Khondamir",
+      "GROUP": "CIE18-8"
+    },
+    {
+      "ID": "U1810153",
+      "SURNAME": "Tursunov",
+      "NAME": "Jamshid",
+      "GROUP": "CIE18-21"
+    },
+    {
+      "ID": "U1810154",
+      "SURNAME": "Gofurov",
+      "NAME": "Shokhrukh",
+      "GROUP": "CIE18-21"
+    },
+    {
+      "ID": "U1810155",
+      "SURNAME": "Sapaev",
+      "NAME": "Shukurillo",
+      "GROUP": "CIE18-21"
+    },
+    {
+      "ID": "U1810156",
+      "SURNAME": "Bekmirzayev",
+      "NAME": "Masrurbek",
+      "GROUP": "CIE18-1"
+    },
+    {
+      "ID": "U1810157",
+      "SURNAME": "Salimov",
+      "NAME": "Otabek",
+      "GROUP": "CIE18-21"
+    },
+    {
+      "ID": "U1810158",
+      "SURNAME": "Akhmedov",
+      "NAME": "Dilkhayot",
+      "GROUP": "CIE18-1"
+    },
+    {
+      "ID": "U1810159",
+      "SURNAME": "Azzamov",
+      "NAME": "Makhsudjon",
+      "GROUP": "CIE18-2"
+    },
+    {
+      "ID": "U1810161",
+      "SURNAME": "Mamaradjabov",
+      "NAME": "Shokhzod",
+      "GROUP": "CIE18-2"
+    },
+    {
+      "ID": "U1810162",
+      "SURNAME": "Siddikov",
+      "NAME": "Khalillokhon",
+      "GROUP": "CIE18-21"
+    },
+    {
+      "ID": "U1810163",
+      "SURNAME": "Kodirov",
+      "NAME": "Tokhirjon",
+      "GROUP": "CIE18-21"
+    },
+    {
+      "ID": "U1810164",
+      "SURNAME": "Trokoz",
+      "NAME": "Konstantin",
+      "GROUP": "CIE18-21"
+    },
+    {
+      "ID": "U1810165",
+      "SURNAME": "Utkurov",
+      "NAME": "Ubaydullokh",
+      "GROUP": "CIE18-8"
+    },
+    {
+      "ID": "U1810166",
+      "SURNAME": "Gaybullaev",
+      "NAME": "Asadbek",
+      "GROUP": "CIE18-9"
+    },
+    {
+      "ID": "U1810167",
+      "SURNAME": "Yuldashev",
+      "NAME": "Nuriddin",
+      "GROUP": "CIE18-21"
+    },
+    {
+      "ID": "U1810168",
+      "SURNAME": "Khabibullaev",
+      "NAME": "Kamranbek",
+      "GROUP": "CIE18-9"
+    },
+    {
+      "ID": "U1810169",
+      "SURNAME": "Karimov",
+      "NAME": "Khusanjon",
+      "GROUP": "CIE18-21"
+    },
+    {
+      "ID": "U1810170",
+      "SURNAME": "Shoumarov",
+      "NAME": "Bositkhon",
+      "GROUP": "CIE18-21"
+    },
+    {
+      "ID": "U1810171",
+      "SURNAME": "Isroilov",
+      "NAME": "Tukhtamurod",
+      "GROUP": "CIE18-22"
+    },
+    {
+      "ID": "U1810172",
+      "SURNAME": "Zufarov",
+      "NAME": "Sardor",
+      "GROUP": "CIE18-22"
+    },
+    {
+      "ID": "U1810173",
+      "SURNAME": "Ikromov",
+      "NAME": "Akbar",
+      "GROUP": "CIE18-22"
+    },
+    {
+      "ID": "U1810174",
+      "SURNAME": "Raimov",
+      "NAME": "Shakhzod",
+      "GROUP": "CIE18-4"
+    },
+    {
+      "ID": "U1810175",
+      "SURNAME": "Tursunov",
+      "NAME": "Shokhrukhbek",
+      "GROUP": "CIE18-9"
+    },
+    {
+      "ID": "U1810176",
+      "SURNAME": "Karimov",
+      "NAME": "Khasanjon",
+      "GROUP": "CIE18-9"
+    },
+    {
+      "ID": "U1810177",
+      "SURNAME": "Bakhbaev",
+      "NAME": "Timur",
+      "GROUP": "CIE18-22"
+    },
+    {
+      "ID": "U1810178",
+      "SURNAME": "Eshmurodov",
+      "NAME": "Alisher",
+      "GROUP": "CIE18-2"
+    },
+    {
+      "ID": "U1810179",
+      "SURNAME": "Khusainov",
+      "NAME": "Khusniddin",
+      "GROUP": "CIE18-22"
+    },
+    {
+      "ID": "U1810180",
+      "SURNAME": "Khaydarov",
+      "NAME": "Mirrakhmon",
+      "GROUP": "CIE18-9"
+    },
+    {
+      "ID": "U1810181",
+      "SURNAME": "Azimkulova",
+      "NAME": "Diyora",
+      "GROUP": "CIE18-4"
+    },
+    {
+      "ID": "U1810182",
+      "SURNAME": "Umarbekov",
+      "NAME": "Kobilbek",
+      "GROUP": "CIE18-22"
+    },
+    {
+      "ID": "U1810183",
+      "SURNAME": "Muyinov",
+      "NAME": "Zubayd",
+      "GROUP": "CIE18-22"
+    },
+    {
+      "ID": "U1810184",
+      "SURNAME": "Koraev",
+      "NAME": "Farrukh",
+      "GROUP": "CIE18-23"
+    },
+    {
+      "ID": "U1810185",
+      "SURNAME": "Abduraupov",
+      "NAME": "Uktamjon",
+      "GROUP": "CIE18-23"
+    },
+    {
+      "ID": "U1810186",
+      "SURNAME": "Akhmedov",
+      "NAME": "Boburjon",
+      "GROUP": "CIE18-9"
+    },
+    {
+      "ID": "U1810187",
+      "SURNAME": "Rakhimov",
+      "NAME": "Azizjon",
+      "GROUP": "CIE18-23"
+    },
+    {
+      "ID": "U1810188",
+      "SURNAME": "Bakhramov",
+      "NAME": "Jasurkhon",
+      "GROUP": "CIE18-23"
+    },
+    {
+      "ID": "U1810189",
+      "SURNAME": "Akhmedova",
+      "NAME": "Ziyodakhon",
+      "GROUP": "CIE18-24"
+    },
+    {
+      "ID": "U1810190",
+      "SURNAME": "Khujaniyozov",
+      "NAME": "Jaloliddin",
+      "GROUP": "CIE18-10"
+    },
+    {
+      "ID": "U1810191",
+      "SURNAME": "Tyan",
+      "NAME": "Viktor",
+      "GROUP": "CIE18-24"
+    },
+    {
+      "ID": "U1810192",
+      "SURNAME": "Ulugbekov",
+      "NAME": "Ulugbek",
+      "GROUP": "CIE18-24"
+    },
+    {
+      "ID": "U1810193",
+      "SURNAME": "Rasulov",
+      "NAME": "Makhmudbek",
+      "GROUP": "CIE18-4"
+    },
+    {
+      "ID": "U1810194",
+      "SURNAME": "Khaitboev",
+      "NAME": "Olimjon",
+      "GROUP": "CIE18-24"
+    },
+    {
+      "ID": "U1810195",
+      "SURNAME": "Sobirov",
+      "NAME": "Islom",
+      "GROUP": "CIE18-2"
+    },
+    {
+      "ID": "U1810196",
+      "SURNAME": "Yuldoshev",
+      "NAME": "Komronbek",
+      "GROUP": "CIE18-24"
+    },
+    {
+      "ID": "U1810197",
+      "SURNAME": "Mirjonov",
+      "NAME": "Mirshodjon",
+      "GROUP": "CIE18-24"
+    },
+    {
+      "ID": "U1810198",
+      "SURNAME": "Makhmudov",
+      "NAME": "Nurmukhammad",
+      "GROUP": "CIE18-24"
+    },
+    {
+      "ID": "U1810199",
+      "SURNAME": "Kurbonov",
+      "NAME": "Tokhir",
+      "GROUP": "CIE18-3"
+    },
+    {
+      "ID": "U1810200",
+      "SURNAME": "Makhsudov",
+      "NAME": "Jasur",
+      "GROUP": "CIE18-24"
+    },
+    {
+      "ID": "U1810201",
+      "SURNAME": "Alimov",
+      "NAME": "Bekhzod",
+      "GROUP": "CIE18-24"
+    },
+    {
+      "ID": "U1810202",
+      "SURNAME": "Makhamatov",
+      "NAME": "Jamol",
+      "GROUP": "CIE18-3"
+    },
+    {
+      "ID": "U1810203",
+      "SURNAME": "Mukhamedov",
+      "NAME": "Bekzod",
+      "GROUP": "CIE18-24"
+    },
+    {
+      "ID": "U1810204",
+      "SURNAME": "Inomkhojaev",
+      "NAME": "Nurillakhon",
+      "GROUP": "CIE18-24"
+    },
+    {
+      "ID": "U1810205",
+      "SURNAME": "Sultonov",
+      "NAME": "Umid",
+      "GROUP": "CIE18-24"
+    },
+    {
+      "ID": "U1810206",
+      "SURNAME": "Solikhonov",
+      "NAME": "Kobulkhon",
+      "GROUP": "CIE18-3"
+    },
+    {
+      "ID": "U1810207",
+      "SURNAME": "Ochilov",
+      "NAME": "Murodjon",
+      "GROUP": "CIE18-3"
+    },
+    {
+      "ID": "U1810208",
+      "SURNAME": "Nurullaev",
+      "NAME": "Nasrullo",
+      "GROUP": "CIE18-3"
+    },
+    {
+      "ID": "U1810209",
+      "SURNAME": "Khasanboev",
+      "NAME": "Bobur",
+      "GROUP": "CIE18-10"
+    },
+    {
+      "ID": "U1810210",
+      "SURNAME": "Abdukhamidov",
+      "NAME": "Saidazim",
+      "GROUP": "CIE18-10"
+    },
+    {
+      "ID": "U1810211",
+      "SURNAME": "Boybekov",
+      "NAME": "Abdullokh",
+      "GROUP": "CIE18-25"
+    },
+    {
+      "ID": "U1810212",
+      "SURNAME": "Irgashev",
+      "NAME": "Sardor",
+      "GROUP": "CIE18-25"
+    },
+    {
+      "ID": "U1810213",
+      "SURNAME": "Yandashov",
+      "NAME": "Shakhzod",
+      "GROUP": "CIE18-25"
+    },
+    {
+      "ID": "U1810214",
+      "SURNAME": "Abdufattokhov",
+      "NAME": "Javokhir",
+      "GROUP": "CIE18-4"
+    },
+    {
+      "ID": "U1810215",
+      "SURNAME": "Matmusaev",
+      "NAME": "Azamat",
+      "GROUP": "CIE18-10"
+    },
+    {
+      "ID": "U1810216",
+      "SURNAME": "Anvarkhonov",
+      "NAME": "Abboskhon",
+      "GROUP": "CIE18-25"
+    },
+    {
+      "ID": "U1810217",
+      "SURNAME": "Utkirov",
+      "NAME": "Samar",
+      "GROUP": "CIE18-26"
+    },
+    {
+      "ID": "U1810218",
+      "SURNAME": "Egamberdiev",
+      "NAME": "Javlonkhon",
+      "GROUP": "CIE18-3"
+    },
+    {
+      "ID": "U1810219",
+      "SURNAME": "Begmatov",
+      "NAME": "Sokhibjon",
+      "GROUP": "CIE18-26"
+    },
+    {
+      "ID": "U1810220",
+      "SURNAME": "Jurabekov",
+      "NAME": "Komronbek",
+      "GROUP": "CIE18-4"
+    },
+    {
+      "ID": "U1810221",
+      "SURNAME": "Komilova",
+      "NAME": "Makhbuba",
+      "GROUP": "CIE18-26"
+    },
+    {
+      "ID": "U1810222",
+      "SURNAME": "Obidov",
+      "NAME": "Eldorjon",
+      "GROUP": "CIE18-3"
+    },
+    {
+      "ID": "U1810223",
+      "SURNAME": "Khamdamov",
+      "NAME": "Abdukhalil",
+      "GROUP": "CIE18-3"
+    },
+    {
+      "ID": "U1810224",
+      "SURNAME": "Ubaydullaev",
+      "NAME": "Abdulatif",
+      "GROUP": "CIE18-26"
+    },
+    {
+      "ID": "U1810225",
+      "SURNAME": "Liyuriy",
+      "NAME": "Dmitriy",
+      "GROUP": "CIE18-26"
+    },
+    {
+      "ID": "U1810226",
+      "SURNAME": "Ismatullaev",
+      "NAME": "Sardor",
+      "GROUP": "CIE18-26"
+    },
+    {
+      "ID": "U1810227",
+      "SURNAME": "Maksudov",
+      "NAME": "Sarvar",
+      "GROUP": "CIE18-10"
+    },
+    {
+      "ID": "U1810228",
+      "SURNAME": "Khamrokulov",
+      "NAME": "Nodirjon",
+      "GROUP": "CIE18-10"
+    },
+    {
+      "ID": "U1810229",
+      "SURNAME": "Erkinov",
+      "NAME": "Sardorbek",
+      "GROUP": "CIE18-26"
+    },
+    {
+      "ID": "U1810230",
+      "SURNAME": "Berdieva",
+      "NAME": "Janonakhon",
+      "GROUP": "CIE18-26"
+    },
+    {
+      "ID": "U1810231",
+      "SURNAME": "An",
+      "NAME": "Jeong-Ae",
+      "GROUP": "CIE18-3"
+    },
+    {
+      "ID": "U1810232",
+      "SURNAME": "Oblakulov",
+      "NAME": "Sardorjon",
+      "GROUP": "CIE18-26"
+    },
+    {
+      "ID": "U1810233",
+      "SURNAME": "Ruziev",
+      "NAME": "Dilmurod",
+      "GROUP": "CIE18-3"
+    },
+    {
+      "ID": "U1810234",
+      "SURNAME": "Alijanov",
+      "NAME": "Sardor",
+      "GROUP": "CIE18-26"
+    },
+    {
+      "ID": "U1810235",
+      "SURNAME": "Olimov",
+      "NAME": "Odilbek",
+      "GROUP": "CIE18-3"
+    },
+    {
+      "ID": "U1810236",
+      "SURNAME": "Abdullajonov",
+      "NAME": "Sherzod",
+      "GROUP": "CIE18-10"
+    },
+    {
+      "ID": "U1810239",
+      "SURNAME": "Numonov",
+      "NAME": "Akromjon",
+      "GROUP": "CIE18-3"
+    },
+    {
+      "ID": "U1810240",
+      "SURNAME": "Uzakov",
+      "NAME": "Jurabek",
+      "GROUP": "CIE18-10"
+    },
+    {
+      "ID": "U1810241",
+      "SURNAME": "Usmonov",
+      "NAME": "Temurbek",
+      "GROUP": "CIE18-3"
+    },
+    {
+      "ID": "U1810242",
+      "SURNAME": "Abdulkhatov",
+      "NAME": "Abdulaziz",
+      "GROUP": "CIE18-26"
+    },
+    {
+      "ID": "U1810243",
+      "SURNAME": "Pardaeva",
+      "NAME": "Sarvinoz",
+      "GROUP": "CIE18-4"
+    },
+    {
+      "ID": "U1810244",
+      "SURNAME": "Kuzaev",
+      "NAME": "Ivan",
+      "GROUP": "CIE18-10"
+    },
+    {
+      "ID": "U1810245",
+      "SURNAME": "Avezov",
+      "NAME": "Shamsiddin",
+      "GROUP": "CIE18-26"
+    },
+    {
+      "ID": "U1810246",
+      "SURNAME": "Azizkhujayev",
+      "NAME": "Muhammadrasulxuja",
+      "GROUP": "CIE18-26"
+    },
+    {
+      "ID": "U1810247",
+      "SURNAME": "Tursunkhujaev",
+      "NAME": "Nodirkhuja",
+      "GROUP": "CIE18-27"
+    },
+    {
+      "ID": "U1810248",
+      "SURNAME": "Nematjonov",
+      "NAME": "Temurbek",
+      "GROUP": "CIE18-5"
+    },
+    {
+      "ID": "U1810249",
+      "SURNAME": "Bakhodirov",
+      "NAME": "Bobur",
+      "GROUP": "CIE18-27"
+    },
+    {
+      "ID": "U1810250",
+      "SURNAME": "Azizov",
+      "NAME": "Muzaffar",
+      "GROUP": "CIE18-27"
+    },
+    {
+      "ID": "U1810251",
+      "SURNAME": "Akhmadjonov",
+      "NAME": "Azizjon",
+      "GROUP": "CIE18-27"
+    },
+    {
+      "ID": "U1810252",
+      "SURNAME": "Askarov",
+      "NAME": "Bekzod",
+      "GROUP": "CIE18-27"
+    },
+    {
+      "ID": "U1810253",
+      "SURNAME": "Ismailova",
+      "NAME": "Sevilya",
+      "GROUP": "CIE18-27"
+    },
+    {
+      "ID": "U1810254",
+      "SURNAME": "Tokhirov",
+      "NAME": "Doniyorbek",
+      "GROUP": "CIE18-28"
+    },
+    {
+      "ID": "U1810255",
+      "SURNAME": "Maksudov",
+      "NAME": "Abdumalik",
+      "GROUP": "CIE18-28"
+    },
+    {
+      "ID": "U1810256",
+      "SURNAME": "Khasanov",
+      "NAME": "Alisher",
+      "GROUP": "CIE18-28"
+    },
+    {
+      "ID": "U1810257",
+      "SURNAME": "Jasurbekova",
+      "NAME": "Kamolakhon",
+      "GROUP": "CIE18-28"
+    },
+    {
+      "ID": "U1810258",
+      "SURNAME": "Abomuslimov",
+      "NAME": "Bobur",
+      "GROUP": "CIE18-28"
+    },
+    {
+      "ID": "U1810259",
+      "SURNAME": "Karimova",
+      "NAME": "Mukambar",
+      "GROUP": "CIE18-28"
+    },
+    {
+      "ID": "U1810260",
+      "SURNAME": "Azizov",
+      "NAME": "Nodirbek",
+      "GROUP": "CIE18-28"
+    },
+    {
+      "ID": "U1810261",
+      "SURNAME": "Shin",
+      "NAME": "Tatyana",
+      "GROUP": "CIE18-28"
+    },
+    {
+      "ID": "U1810262",
+      "SURNAME": "Khakimov",
+      "NAME": "Imron",
+      "GROUP": "CIE18-28"
+    },
+    {
+      "ID": "U1810263",
+      "SURNAME": "Ibrokhimov",
+      "NAME": "Bekhruz",
+      "GROUP": "CIE18-28"
+    },
+    {
+      "ID": "U1810264",
+      "SURNAME": "Khusniddinov",
+      "NAME": "Shamsiddin",
+      "GROUP": "CIE18-28"
+    },
+    {
+      "ID": "U1810265",
+      "SURNAME": "Rakhimov",
+      "NAME": "Javokhir",
+      "GROUP": "CIE18-28"
+    },
+    {
+      "ID": "U1810266",
+      "SURNAME": "Mansurov",
+      "NAME": "Jonibek",
+      "GROUP": "CIE18-28"
+    },
+    {
+      "ID": "U1810267",
+      "SURNAME": "Shopayziev",
+      "NAME": "Nodirbek",
+      "GROUP": "CIE18-28"
+    },
+    {
+      "ID": "U1810268",
+      "SURNAME": "Abdullaev",
+      "NAME": "Oybek",
+      "GROUP": "CIE18-28"
+    },
+    {
+      "ID": "U1810269",
+      "SURNAME": "Kuziboev",
+      "NAME": "Anvarbek",
+      "GROUP": "CIE18-28"
+    },
+    {
+      "ID": "U1810270",
+      "SURNAME": "Sim",
+      "NAME": "Aleksandr",
+      "GROUP": "CIE18-28"
+    },
+    {
+      "ID": "U1810271",
+      "SURNAME": "Tsoy",
+      "NAME": "Georgiy",
+      "GROUP": "CIE18-28"
+    },
+    {
+      "ID": "U1810272",
+      "SURNAME": "Raimov",
+      "NAME": "Alisher",
+      "GROUP": "CIE18-28"
+    },
+    {
+      "ID": "U1810273",
+      "SURNAME": "Yokubov",
+      "NAME": "Bakhtiyor",
+      "GROUP": "CIE18-28"
+    },
+    {
+      "ID": "U1810274",
+      "SURNAME": "Lee",
+      "NAME": "Artyom",
+      "GROUP": "CIE18-28"
+    },
+    {
+      "ID": "U1810275",
+      "SURNAME": "Botirov",
+      "NAME": "Ulugbek",
+      "GROUP": "CIE18-5"
+    },
+    {
+      "ID": "U1810276",
+      "SURNAME": "Davronbekov",
+      "NAME": "Abbosbek",
+      "GROUP": "CIE18-10"
+    },
+    {
+      "ID": "U1810277",
+      "SURNAME": "Abrolov",
+      "NAME": "Mirsolikh",
+      "GROUP": "CIE18-5"
+    },
+    {
+      "ID": "U1810278",
+      "SURNAME": "Chinaliev",
+      "NAME": "Kamoliddin",
+      "GROUP": "CIE18-11"
+    },
+    {
+      "ID": "U1810279",
+      "SURNAME": "Alimukhamedov",
+      "NAME": "Abbos",
+      "GROUP": "CIE18-5"
+    },
+    {
+      "ID": "U1810280",
+      "SURNAME": "Utegenova",
+      "NAME": "Aygerim",
+      "GROUP": "CIE18-11"
+    },
+    {
+      "ID": "U1810281",
+      "SURNAME": "Djanibekov",
+      "NAME": "Amirbek",
+      "GROUP": "CIE18-28"
+    },
+    {
+      "ID": "U1810282",
+      "SURNAME": "Kholmuminov",
+      "NAME": "Sukhrobjon",
+      "GROUP": "CIE18-5"
+    },
+    {
+      "ID": "U1810283",
+      "SURNAME": "Mansurov",
+      "NAME": "Ibrokhim",
+      "GROUP": "CIE18-3"
+    },
+    {
+      "ID": "U1810284",
+      "SURNAME": "Ziyodullaeva",
+      "NAME": "Nargiza",
+      "GROUP": "CIE18-11"
+    },
+    {
+      "ID": "U1810285",
+      "SURNAME": "Kenjaeva",
+      "NAME": "Mekhriniso",
+      "GROUP": "CIE18-5"
+    },
+    {
+      "ID": "U1810286",
+      "SURNAME": "Tashpulatova",
+      "NAME": "Azizabonu",
+      "GROUP": "CIE18-5"
+    },
+    {
+      "ID": "U1810287",
+      "SURNAME": "Ruziev",
+      "NAME": "Dilshodjon",
+      "GROUP": "CIE18-5"
+    },
+    {
+      "ID": "U1810288",
+      "SURNAME": "Azimov",
+      "NAME": "Alisher",
+      "GROUP": "CIE18-11"
+    },
+    {
+      "ID": "U1810289",
+      "SURNAME": "Latipov",
+      "NAME": "Latifboy",
+      "GROUP": "CIE18-3"
+    },
+    {
+      "ID": "U1810290",
+      "SURNAME": "Azizov",
+      "NAME": "Abdurakhmon",
+      "GROUP": "CIE18-6"
+    },
+    {
+      "ID": "U1810291",
+      "SURNAME": "Rizakulov",
+      "NAME": "Otabek",
+      "GROUP": "CIE18-6"
+    },
+    {
+      "ID": "U1810292",
+      "SURNAME": "Abdulloev",
+      "NAME": "Saidjon",
+      "GROUP": "CIE18-3"
+    },
+    {
+      "ID": "U1810293",
+      "SURNAME": "Nuriddinov",
+      "NAME": "Jamoliddin",
+      "GROUP": "CIE18-28"
+    },
+    {
+      "ID": "U1810294",
+      "SURNAME": "Nasrulloev",
+      "NAME": "Rustam",
+      "GROUP": "CIE18-3"
+    },
+    {
+      "ID": "U1810295",
+      "SURNAME": "Khomitova",
+      "NAME": "Shakhzoda",
+      "GROUP": "CIE18-6"
+    },
+    {
+      "ID": "U1810296",
+      "SURNAME": "Ollokulov",
+      "NAME": "Sherzod",
+      "GROUP": "CIE18-11"
+    }
+  ],
+  "Freshman SOL": [
+    {
+      "ID": "U1811001",
+      "SURNAME": "Sheraliev",
+      "NAME": "Shokhzod",
+      "GROUP": "SOL18-1"
+    },
+    {
+      "ID": "U1811002",
+      "SURNAME": "Yusupkhujaev",
+      "NAME": "Khusankhon",
+      "GROUP": "SOL18-1"
+    },
+    {
+      "ID": "U1811003",
+      "SURNAME": "Akhmedova",
+      "NAME": "Dilfuza",
+      "GROUP": "SOL18-1"
+    },
+    {
+      "ID": "U1811004",
+      "SURNAME": "Rahmonkulova",
+      "NAME": "Dilnoza",
+      "GROUP": "SOL18-1"
+    },
+    {
+      "ID": "U1811005",
+      "SURNAME": "Kim",
+      "NAME": "Violetta",
+      "GROUP": "SOL18-1"
+    },
+    {
+      "ID": "U1811006",
+      "SURNAME": "Abdulazizova",
+      "NAME": "Shakhrizoda",
+      "GROUP": "SOL18-1"
+    },
+    {
+      "ID": "U1811007",
+      "SURNAME": "Karimov",
+      "NAME": "Mukhammad",
+      "GROUP": "SOL18-1"
+    },
+    {
+      "ID": "U1811008",
+      "SURNAME": "Yusupkhujaev",
+      "NAME": "Khasankhon",
+      "GROUP": "SOL18-1"
+    },
+    {
+      "ID": "U1811009",
+      "SURNAME": "Umarov",
+      "NAME": "Ansorjon",
+      "GROUP": "SOL18-1"
+    },
+    {
+      "ID": "U1811010",
+      "SURNAME": "Imomaliev",
+      "NAME": "Ziyoviddin",
+      "GROUP": "SOL18-1"
+    },
+    {
+      "ID": "U1811011",
+      "SURNAME": "Naimova",
+      "NAME": "Shakhruza",
+      "GROUP": "SOL18-1"
+    },
+    {
+      "ID": "U1811012",
+      "SURNAME": "Shakarimova",
+      "NAME": "Ekaterina",
+      "GROUP": "SOL18-1"
+    },
+    {
+      "ID": "U1811013",
+      "SURNAME": "Murodiljonov",
+      "NAME": "Bekhzod",
+      "GROUP": "SOL18-1"
+    },
+    {
+      "ID": "U1811014",
+      "SURNAME": "Hyunjung",
+      "NAME": "Kim",
+      "GROUP": "SOL18-1"
+    },
+    {
+      "ID": "U1811015",
+      "SURNAME": "Rasulov",
+      "NAME": "Shukurulla",
+      "GROUP": "SOL18-1"
+    },
+    {
+      "ID": "U1811016",
+      "SURNAME": "Nigmonova",
+      "NAME": "Mukhabbat",
+      "GROUP": "SOL18-1"
+    },
+    {
+      "ID": "U1811017",
+      "SURNAME": "Muzaffarov",
+      "NAME": "Adkhambek",
+      "GROUP": "SOL18-1"
+    },
+    {
+      "ID": "U1811018",
+      "SURNAME": "Khasanova",
+      "NAME": "Azizakhon",
+      "GROUP": "SOL18-1"
+    },
+    {
+      "ID": "U1811019",
+      "SURNAME": "Khasanov",
+      "NAME": "Azamat",
+      "GROUP": "SOL18-1"
+    },
+    {
+      "ID": "U1811020",
+      "SURNAME": "Sabirov",
+      "NAME": "Salayjon",
+      "GROUP": "SOL18-1"
+    },
+    {
+      "ID": "U1811021",
+      "SURNAME": "Hasanov",
+      "NAME": "Sardorjon",
+      "GROUP": "SOL18-1"
+    },
+    {
+      "ID": "U1811022",
+      "SURNAME": "Abdirakhmatov",
+      "NAME": "Farrukh",
+      "GROUP": "SOL18-1"
+    },
+    {
+      "ID": "U1811023",
+      "SURNAME": "Khudaykulova",
+      "NAME": "Nilufar",
+      "GROUP": "SOL18-1"
+    },
+    {
+      "ID": "U1811024",
+      "SURNAME": "Saidmuradov",
+      "NAME": "Saidazim",
+      "GROUP": "SOL18-2"
+    },
+    {
+      "ID": "U1811025",
+      "SURNAME": "Shavkatbekov",
+      "NAME": "Shokhnur",
+      "GROUP": "SOL18-2"
+    },
+    {
+      "ID": "U1811026",
+      "SURNAME": "Azamov",
+      "NAME": "Mirfayzulla",
+      "GROUP": "SOL18-2"
+    },
+    {
+      "ID": "U1811027",
+      "SURNAME": "Ortikov",
+      "NAME": "Sardor",
+      "GROUP": "SOL18-2"
+    },
+    {
+      "ID": "U1811028",
+      "SURNAME": "Juraev",
+      "NAME": "Bekzod",
+      "GROUP": "SOL18-2"
+    },
+    {
+      "ID": "U1811029",
+      "SURNAME": "Orifjonov",
+      "NAME": "Bekhzodjon",
+      "GROUP": "SOL18-2"
+    },
+    {
+      "ID": "U1811030",
+      "SURNAME": "Khakimova",
+      "NAME": "Nafisa",
+      "GROUP": "SOL18-2"
+    },
+    {
+      "ID": "U1811031",
+      "SURNAME": "Shoakbarova",
+      "NAME": "Shakhnoza",
+      "GROUP": "SOL18-2"
+    },
+    {
+      "ID": "U1811032",
+      "SURNAME": "Mengziyoyeva",
+      "NAME": "Maftuna",
+      "GROUP": "SOL18-2"
+    },
+    {
+      "ID": "U1811033",
+      "SURNAME": "Faridunov",
+      "NAME": "Azizbek",
+      "GROUP": "SOL18-2"
+    },
+    {
+      "ID": "U1811034",
+      "SURNAME": "Komilov",
+      "NAME": "Salmonbek",
+      "GROUP": "SOL18-2"
+    },
+    {
+      "ID": "U1811035",
+      "SURNAME": "Kurbanova",
+      "NAME": "Vladlena",
+      "GROUP": "SOL18-2"
+    },
+    {
+      "ID": "U1811036",
+      "SURNAME": "Dosanov",
+      "NAME": "Farkhod",
+      "GROUP": "SOL18-3"
+    },
+    {
+      "ID": "U1811037",
+      "SURNAME": "Pak",
+      "NAME": "Anastasiya",
+      "GROUP": "SOL18-3"
+    },
+    {
+      "ID": "U1811038",
+      "SURNAME": "Urokov",
+      "NAME": "Sanjarbek",
+      "GROUP": "SOL18-3"
+    },
+    {
+      "ID": "U1811039",
+      "SURNAME": "Juraev",
+      "NAME": "Abror",
+      "GROUP": "SOL18-3"
+    },
+    {
+      "ID": "U1811040",
+      "SURNAME": "Obidova",
+      "NAME": "Shirinkhon",
+      "GROUP": "SOL18-3"
+    },
+    {
+      "ID": "U1811041",
+      "SURNAME": "Usmonov",
+      "NAME": "Otabek",
+      "GROUP": "SOL18-3"
+    },
+    {
+      "ID": "U1811042",
+      "SURNAME": "Juraev",
+      "NAME": "Yokubjon",
+      "GROUP": "SOL18-3"
+    },
+    {
+      "ID": "U1811043",
+      "SURNAME": "Bakhodirkhonov",
+      "NAME": "Timurkhon",
+      "GROUP": "SOL18-3"
+    },
+    {
+      "ID": "U1811044",
+      "SURNAME": "Dilshod",
+      "NAME": "Begimkulov",
+      "GROUP": "SOL18-3"
+    },
+    {
+      "ID": "U1811045",
+      "SURNAME": "Askarov",
+      "NAME": "Oybek",
+      "GROUP": "SOL18-3"
+    },
+    {
+      "ID": "U1811046",
+      "SURNAME": "Nurullakhujaeva",
+      "NAME": "Diyorakhon",
+      "GROUP": "SOL18-3"
+    },
+    {
+      "ID": "U1811047",
+      "SURNAME": "Sattorova",
+      "NAME": "Shakhzoda",
+      "GROUP": "SOL18-3"
+    },
+    {
+      "ID": "U1811048",
+      "SURNAME": "Vokhidov",
+      "NAME": "Aziz",
+      "GROUP": "SOL18-4"
+    },
+    {
+      "ID": "U1811049",
+      "SURNAME": "Shovkatov",
+      "NAME": "Sirojiddin",
+      "GROUP": "SOL18-4"
+    },
+    {
+      "ID": "U1811050",
+      "SURNAME": "Erkinov",
+      "NAME": "Oybek",
+      "GROUP": "SOL18-4"
+    },
+    {
+      "ID": "U1811051",
+      "SURNAME": "Kosimova",
+      "NAME": "Diyora",
+      "GROUP": "SOL18-4"
+    },
+    {
+      "ID": "U1811052",
+      "SURNAME": "Hafizov",
+      "NAME": "Abdurauf",
+      "GROUP": "SOL18-4"
+    },
+    {
+      "ID": "U1811053",
+      "SURNAME": "Sharopov",
+      "NAME": "Ilkhomjon",
+      "GROUP": "SOL18-4"
+    },
+    {
+      "ID": "U1811054",
+      "SURNAME": "Khashimova",
+      "NAME": "Donokhon",
+      "GROUP": "SOL18-4"
+    },
+    {
+      "ID": "U1811055",
+      "SURNAME": "Ibodov",
+      "NAME": "Dilshodbek",
+      "GROUP": "SOL18-4"
+    },
+    {
+      "ID": "U1811056",
+      "SURNAME": "Saidov",
+      "NAME": "Olimjon",
+      "GROUP": "SOL18-4"
+    },
+    {
+      "ID": "U1811057",
+      "SURNAME": "Guseynova",
+      "NAME": "Daniela",
+      "GROUP": "SOL18-4"
+    },
+    {
+      "ID": "U1811058",
+      "SURNAME": "Khayrullaev",
+      "NAME": "Ulugbek",
+      "GROUP": "SOL18-4"
+    },
+    {
+      "ID": "U1811059",
+      "SURNAME": "Turakhujaev",
+      "NAME": "Khumoyun",
+      "GROUP": "SOL18-4"
+    },
+    {
+      "ID": "U1811060",
+      "SURNAME": "Mardonov",
+      "NAME": "Javoxir",
+      "GROUP": "SOL18-4"
+    },
+    {
+      "ID": "U1811061",
+      "SURNAME": "Kobilova",
+      "NAME": "Khalima",
+      "GROUP": "SOL18-4"
+    },
+    {
+      "ID": "U1811062",
+      "SURNAME": "Mirakhmedova",
+      "NAME": "Nozanin",
+      "GROUP": "SOL18-4"
+    },
+    {
+      "ID": "U1811063",
+      "SURNAME": "Khamrakhodjaev",
+      "NAME": "Khuzayfa",
+      "GROUP": "SOL18-4"
+    },
+    {
+      "ID": "U1811064",
+      "SURNAME": "Zarifov",
+      "NAME": "Kamronbek",
+      "GROUP": "SOL18-4"
+    },
+    {
+      "ID": "U1811065",
+      "SURNAME": "Muminov",
+      "NAME": "Sardorbek",
+      "GROUP": "SOL18-4"
+    },
+    {
+      "ID": "U1811066",
+      "SURNAME": "Shukurova",
+      "NAME": "Surayyakhan",
+      "GROUP": "SOL18-4"
+    },
+    {
+      "ID": "U1811067",
+      "SURNAME": "Baratova",
+      "NAME": "Madina",
+      "GROUP": "SOL18-4"
+    },
+    {
+      "ID": "U1811068",
+      "SURNAME": "Komilova",
+      "NAME": "Maryamkhon",
+      "GROUP": "SOL18-4"
+    },
+    {
+      "ID": "U1811069",
+      "SURNAME": "Tursunbaeva",
+      "NAME": "Sevara",
+      "GROUP": "SOL18-4"
+    },
+    {
+      "ID": "U1811070",
+      "SURNAME": "Juraboev",
+      "NAME": "Bakhtiyor",
+      "GROUP": "SOL18-4"
+    }
+  ],
+  "Sophomore CSE": [
+    {
+      "ID": "U1610106",
+      "SURNAME": "Karimov",
+      "NAME": "Khojiakbar",
+      "GROUP": "CSE17-10"
+    },
+    {
+      "ID": "U1610128",
+      "SURNAME": "Osmanova",
+      "NAME": "Madina",
+      "GROUP": "CSE17-10"
+    },
+    {
+      "ID": "U1710001",
+      "SURNAME": "Nazarov",
+      "NAME": "Javokhirbek",
+      "GROUP": "CSE17-12"
+    },
+    {
+      "ID": "U1710002",
+      "SURNAME": "Turdiev",
+      "NAME": "Ismoil",
+      "GROUP": "CSE17-3"
+    },
+    {
+      "ID": "U1710003",
+      "SURNAME": "Gayratov",
+      "NAME": "Sukhrobbek",
+      "GROUP": "CSE17-4"
+    },
+    {
+      "ID": "U1710004",
+      "SURNAME": "Shukrullaev",
+      "NAME": "Ibrokhim",
+      "GROUP": "CSE17-8"
+    },
+    {
+      "ID": "U1710005",
+      "SURNAME": "Rakhimberdiev",
+      "NAME": "Javlonbek",
+      "GROUP": "CSE17-13"
+    },
+    {
+      "ID": "U1710006",
+      "SURNAME": "Sadirbaeva",
+      "NAME": "Saodat",
+      "GROUP": "CSE17-12"
+    },
+    {
+      "ID": "U1710008",
+      "SURNAME": "Abdullaev",
+      "NAME": "Azamat",
+      "GROUP": "CSE17-10"
+    },
+    {
+      "ID": "U1710009",
+      "SURNAME": "Shodmonov",
+      "NAME": "Musobek",
+      "GROUP": "CSE17-12"
+    },
+    {
+      "ID": "U1710010",
+      "SURNAME": "Tagoev",
+      "NAME": "Ozod",
+      "GROUP": "CSE17-1"
+    },
+    {
+      "ID": "U1710011",
+      "SURNAME": "Nurullaev",
+      "NAME": "Azam",
+      "GROUP": "CSE17-4"
+    },
+    {
+      "ID": "U1710013",
+      "SURNAME": "Elmurodov",
+      "NAME": "Olimjon",
+      "GROUP": "CSE17-12"
+    },
+    {
+      "ID": "U1710015",
+      "SURNAME": "Kholikov",
+      "NAME": "Khamidullokh",
+      "GROUP": "CSE17-7"
+    },
+    {
+      "ID": "U1710016",
+      "SURNAME": "Bakhtiyorov",
+      "NAME": "Dilshod",
+      "GROUP": "CSE17-11"
+    },
+    {
+      "ID": "U1710017",
+      "SURNAME": "Abdusodikov",
+      "NAME": "Jamshid",
+      "GROUP": "CSE17-6"
+    },
+    {
+      "ID": "U1710018",
+      "SURNAME": "Abduganiev",
+      "NAME": "Abdumalik",
+      "GROUP": "CSE17-12"
+    },
+    {
+      "ID": "U1710019",
+      "SURNAME": "Menadjiev",
+      "NAME": "Enver",
+      "GROUP": "CSE17-12"
+    },
+    {
+      "ID": "U1710020",
+      "SURNAME": "Mamatov",
+      "NAME": "Eratbek",
+      "GROUP": "CSE17-4"
+    },
+    {
+      "ID": "U1710021",
+      "SURNAME": "Abdukhalilov",
+      "NAME": "Akhadjon",
+      "GROUP": "CSE17-7"
+    },
+    {
+      "ID": "U1710022",
+      "SURNAME": "Urazboev",
+      "NAME": "Abdurakhmon",
+      "GROUP": "CSE17-6"
+    },
+    {
+      "ID": "U1710023",
+      "SURNAME": "Rizaev",
+      "NAME": "Saidrakhmon",
+      "GROUP": "CSE17-4"
+    },
+    {
+      "ID": "U1710024",
+      "SURNAME": "Sattorov",
+      "NAME": "Murodjon",
+      "GROUP": "CSE17-4"
+    },
+    {
+      "ID": "U1710025",
+      "SURNAME": "Ortikov",
+      "NAME": "Dadakhon",
+      "GROUP": "CSE17-1"
+    },
+    {
+      "ID": "U1710026",
+      "SURNAME": "Khamraev",
+      "NAME": "Izzatbek",
+      "GROUP": "CSE17-4"
+    },
+    {
+      "ID": "U1710027",
+      "SURNAME": "Shekhboev",
+      "NAME": "Dilmurod",
+      "GROUP": "CSE17-4"
+    },
+    {
+      "ID": "U1710028",
+      "SURNAME": "Mavlonov",
+      "NAME": "Oybek",
+      "GROUP": "CSE17-8"
+    },
+    {
+      "ID": "U1710029",
+      "SURNAME": "Tuyeva",
+      "NAME": "Mekhribon",
+      "GROUP": "CSE17-7"
+    },
+    {
+      "ID": "U1710030",
+      "SURNAME": "Yangiboev",
+      "NAME": "Dilmurod",
+      "GROUP": "CSE17-13"
+    },
+    {
+      "ID": "U1710031",
+      "SURNAME": "Khotambekov",
+      "NAME": "Zafarbek",
+      "GROUP": "CSE17-11"
+    },
+    {
+      "ID": "U1710032",
+      "SURNAME": "Boymurodov",
+      "NAME": "Nurbek",
+      "GROUP": "CSE17-13"
+    },
+    {
+      "ID": "U1710033",
+      "SURNAME": "Khamidov",
+      "NAME": "Abror",
+      "GROUP": "CSE17-4"
+    },
+    {
+      "ID": "U1710034",
+      "SURNAME": "Zayniyev",
+      "NAME": "Ravshan",
+      "GROUP": "CSE17-12"
+    },
+    {
+      "ID": "U1710035",
+      "SURNAME": "Urunov",
+      "NAME": "Ulugbek",
+      "GROUP": "CSE17-12"
+    },
+    {
+      "ID": "U1710036",
+      "SURNAME": "Soliev",
+      "NAME": "Komroniddin",
+      "GROUP": "CSE17-7"
+    },
+    {
+      "ID": "U1710039",
+      "SURNAME": "Abdusattorov",
+      "NAME": "Oyatillo",
+      "GROUP": "CSE17-13"
+    },
+    {
+      "ID": "U1710040",
+      "SURNAME": "Isroilova",
+      "NAME": "Azizabonu",
+      "GROUP": "CSE17-4"
+    },
+    {
+      "ID": "U1710041",
+      "SURNAME": "Shakarov",
+      "NAME": "Ulugmurod",
+      "GROUP": "CSE17-4"
+    },
+    {
+      "ID": "U1710043",
+      "SURNAME": "Kayumov",
+      "NAME": "Anvar",
+      "GROUP": "CSE17-12"
+    },
+    {
+      "ID": "U1710044",
+      "SURNAME": "Ganiev",
+      "NAME": "Aziz",
+      "GROUP": "CSE17-7"
+    },
+    {
+      "ID": "U1710045",
+      "SURNAME": "Ikromov",
+      "NAME": "Mirzokhidjon",
+      "GROUP": "CSE17-13"
+    },
+    {
+      "ID": "U1710046",
+      "SURNAME": "Buvanazarov",
+      "NAME": "Javokhir",
+      "GROUP": "CSE17-4"
+    },
+    {
+      "ID": "U1710047",
+      "SURNAME": "Inadullaev",
+      "NAME": "Makhmudjon",
+      "GROUP": "CSE17-11"
+    },
+    {
+      "ID": "U1710048",
+      "SURNAME": "Sherbaev",
+      "NAME": "Javokhir",
+      "GROUP": "CSE17-5"
+    },
+    {
+      "ID": "U1710050",
+      "SURNAME": "Morshnev",
+      "NAME": "Aleksey",
+      "GROUP": "CSE17-1"
+    },
+    {
+      "ID": "U1710051",
+      "SURNAME": "Isroilov",
+      "NAME": "Ibrokhim",
+      "GROUP": "CSE17-11"
+    },
+    {
+      "ID": "U1710052",
+      "SURNAME": "Musyaev",
+      "NAME": "Ruslan",
+      "GROUP": "CSE17-8"
+    },
+    {
+      "ID": "U1710053",
+      "SURNAME": "Melikuziev",
+      "NAME": "Sardorbek",
+      "GROUP": "CSE17-4"
+    },
+    {
+      "ID": "U1710054",
+      "SURNAME": "Pardayev",
+      "NAME": "Karim",
+      "GROUP": "CSE17-6"
+    },
+    {
+      "ID": "U1710056",
+      "SURNAME": "Isroilov",
+      "NAME": "Ulugbek",
+      "GROUP": "CSE17-12"
+    },
+    {
+      "ID": "U1710057",
+      "SURNAME": "Adkhamjonov",
+      "NAME": "Ganijon",
+      "GROUP": "CSE17-7"
+    },
+    {
+      "ID": "U1710059",
+      "SURNAME": "Abdullaeva",
+      "NAME": "Sevara",
+      "GROUP": "CSE17-5"
+    },
+    {
+      "ID": "U1710060",
+      "SURNAME": "Makhamatdjanov",
+      "NAME": "Khojiakbar",
+      "GROUP": "CSE17-8"
+    },
+    {
+      "ID": "U1710061",
+      "SURNAME": "Muradov",
+      "NAME": "Farkhod",
+      "GROUP": "CSE17-4"
+    },
+    {
+      "ID": "U1710063",
+      "SURNAME": "Yuldoshev",
+      "NAME": "Jasurbek",
+      "GROUP": "CSE17-13"
+    },
+    {
+      "ID": "U1710065",
+      "SURNAME": "Bakhodirov",
+      "NAME": "Oybek",
+      "GROUP": "CSE17-2"
+    },
+    {
+      "ID": "U1710066",
+      "SURNAME": "Aliev",
+      "NAME": "Asilbek",
+      "GROUP": "CSE17-7"
+    },
+    {
+      "ID": "U1710067",
+      "SURNAME": "Khodjaev",
+      "NAME": "Shokhrukhkhon",
+      "GROUP": "CSE17-1"
+    },
+    {
+      "ID": "U1710069",
+      "SURNAME": "Karimova",
+      "NAME": "Laylo",
+      "GROUP": "CSE17-8"
+    },
+    {
+      "ID": "U1710070",
+      "SURNAME": "Mukhamedjanov",
+      "NAME": "Ulugbek",
+      "GROUP": "CSE17-7"
+    },
+    {
+      "ID": "U1710071",
+      "SURNAME": "Abdukhalilov",
+      "NAME": "Azizjon",
+      "GROUP": "CSE17-11"
+    },
+    {
+      "ID": "U1710072",
+      "SURNAME": "Shokirjonov",
+      "NAME": "Shokhrukh",
+      "GROUP": "CSE17-2"
+    },
+    {
+      "ID": "U1710073",
+      "SURNAME": "Makhmudkhujaev",
+      "NAME": "Saidakbar",
+      "GROUP": "CSE17-11"
+    },
+    {
+      "ID": "U1710074",
+      "SURNAME": "Toshpulatov",
+      "NAME": "Doston",
+      "GROUP": "CSE17-7"
+    },
+    {
+      "ID": "U1710075",
+      "SURNAME": "Azizov",
+      "NAME": "Abdukuddus",
+      "GROUP": "CSE17-11"
+    },
+    {
+      "ID": "U1710076",
+      "SURNAME": "Fayziev",
+      "NAME": "Yodgor",
+      "GROUP": "CSE17-5"
+    },
+    {
+      "ID": "U1710078",
+      "SURNAME": "Tulkinov",
+      "NAME": "Bekzodjon",
+      "GROUP": "CSE17-8"
+    },
+    {
+      "ID": "U1710080",
+      "SURNAME": "Ashurov",
+      "NAME": "Doston",
+      "GROUP": "CSE17-4"
+    },
+    {
+      "ID": "U1710081",
+      "SURNAME": "Shoyokubov",
+      "NAME": "Yokubjon",
+      "GROUP": "CSE17-11"
+    },
+    {
+      "ID": "U1710082",
+      "SURNAME": "Mutalliboev",
+      "NAME": "Javod",
+      "GROUP": "CSE17-13"
+    },
+    {
+      "ID": "U1710083",
+      "SURNAME": "Khamroev",
+      "NAME": "Jonibek",
+      "GROUP": "CSE17-7"
+    },
+    {
+      "ID": "U1710084",
+      "SURNAME": "Tokhirov",
+      "NAME": "Miravzal",
+      "GROUP": "CSE17-11"
+    },
+    {
+      "ID": "U1710085",
+      "SURNAME": "Tulaev",
+      "NAME": "Ulugbek",
+      "GROUP": "CSE17-4"
+    },
+    {
+      "ID": "U1710086",
+      "SURNAME": "Mullagoziev",
+      "NAME": "Fakhriddin",
+      "GROUP": "CSE17-5"
+    },
+    {
+      "ID": "U1710087",
+      "SURNAME": "Akbarov",
+      "NAME": "Javokhir",
+      "GROUP": "CSE17-2"
+    },
+    {
+      "ID": "U1710088",
+      "SURNAME": "Saydaliev",
+      "NAME": "Foziljon",
+      "GROUP": "CSE17-5"
+    },
+    {
+      "ID": "U1710089",
+      "SURNAME": "Toshtemirov",
+      "NAME": "Farrukh",
+      "GROUP": "CSE17-4"
+    },
+    {
+      "ID": "U1710090",
+      "SURNAME": "Mukhiddinov",
+      "NAME": "Ziyodilla",
+      "GROUP": "CSE17-1"
+    },
+    {
+      "ID": "U1710091",
+      "SURNAME": "Kobilov",
+      "NAME": "Mirobid",
+      "GROUP": "CSE17-7"
+    },
+    {
+      "ID": "U1710092",
+      "SURNAME": "Jumaev",
+      "NAME": "Jakhongir",
+      "GROUP": "CSE17-13"
+    },
+    {
+      "ID": "U1710093",
+      "SURNAME": "Yakhshilikov",
+      "NAME": "Komiljon",
+      "GROUP": "CSE17-13"
+    },
+    {
+      "ID": "U1710094",
+      "SURNAME": "Samandarov",
+      "NAME": "Khusniddin",
+      "GROUP": "CSE17-11"
+    },
+    {
+      "ID": "U1710095",
+      "SURNAME": "Yuldashev",
+      "NAME": "Jasur",
+      "GROUP": "CSE17-8"
+    },
+    {
+      "ID": "U1710096",
+      "SURNAME": "Sadullaev",
+      "NAME": "Bakhromjon",
+      "GROUP": "CSE17-11"
+    },
+    {
+      "ID": "U1710097",
+      "SURNAME": "Salimov",
+      "NAME": "Timur",
+      "GROUP": "CSE17-13"
+    },
+    {
+      "ID": "U1710098",
+      "SURNAME": "Jumaev",
+      "NAME": "Saidjon",
+      "GROUP": "CSE17-4"
+    },
+    {
+      "ID": "U1710099",
+      "SURNAME": "Mirzalieva",
+      "NAME": "Gulbakhor",
+      "GROUP": "CSE17-12"
+    },
+    {
+      "ID": "U1710100",
+      "SURNAME": "Farkhodov",
+      "NAME": "Shakhboz",
+      "GROUP": "CSE17-8"
+    },
+    {
+      "ID": "U1710101",
+      "SURNAME": "Tukhtavulov",
+      "NAME": "Feruzbek",
+      "GROUP": "CSE17-7"
+    },
+    {
+      "ID": "U1710104",
+      "SURNAME": "Durova",
+      "NAME": "Yuliya",
+      "GROUP": "CSE17-5"
+    },
+    {
+      "ID": "U1710105",
+      "SURNAME": "Shokirov",
+      "NAME": "Ismoil",
+      "GROUP": "CSE17-5"
+    },
+    {
+      "ID": "U1710106",
+      "SURNAME": "Begmurodov",
+      "NAME": "Azizbek",
+      "GROUP": "CSE17-2"
+    },
+    {
+      "ID": "U1710107",
+      "SURNAME": "Mukhammatjanov",
+      "NAME": "Akbarjon",
+      "GROUP": "CSE17-8"
+    },
+    {
+      "ID": "U1710109",
+      "SURNAME": "Sirojiddinov",
+      "NAME": "Ibrokhim",
+      "GROUP": "CSE17-7"
+    },
+    {
+      "ID": "U1710110",
+      "SURNAME": "Bektemirov",
+      "NAME": "Ilyos",
+      "GROUP": "CSE17-2"
+    },
+    {
+      "ID": "U1710111",
+      "SURNAME": "Abdurashidov",
+      "NAME": "Abbos",
+      "GROUP": "CSE17-12"
+    },
+    {
+      "ID": "U1710112",
+      "SURNAME": "Joraev",
+      "NAME": "Mukhammadyor",
+      "GROUP": "CSE17-2"
+    },
+    {
+      "ID": "U1710113",
+      "SURNAME": "Ergashev",
+      "NAME": "Nodirbek",
+      "GROUP": "CSE17-13"
+    },
+    {
+      "ID": "U1710114",
+      "SURNAME": "Ibrokhimov",
+      "NAME": "Jakhongirmirzo",
+      "GROUP": "CSE17-3"
+    },
+    {
+      "ID": "U1710115",
+      "SURNAME": "Murodova",
+      "NAME": "Nozima",
+      "GROUP": "CSE17-4"
+    },
+    {
+      "ID": "U1710116",
+      "SURNAME": "Sultonov",
+      "NAME": "Mirislom",
+      "GROUP": "CSE17-11"
+    },
+    {
+      "ID": "U1710117",
+      "SURNAME": "Zokirov",
+      "NAME": "Bobur",
+      "GROUP": "CSE17-13"
+    },
+    {
+      "ID": "U1710118",
+      "SURNAME": "Suyunov",
+      "NAME": "Javlonbek",
+      "GROUP": "CSE17-11"
+    },
+    {
+      "ID": "U1710119",
+      "SURNAME": "Dolimov",
+      "NAME": "Khumoyunmirzo",
+      "GROUP": "CSE17-2"
+    },
+    {
+      "ID": "U1710121",
+      "SURNAME": "Dilshodbekov",
+      "NAME": "Islombek",
+      "GROUP": "CSE17-7"
+    },
+    {
+      "ID": "U1710122",
+      "SURNAME": "Ibodullaev",
+      "NAME": "Fazliddin",
+      "GROUP": "CSE17-13"
+    },
+    {
+      "ID": "U1710123",
+      "SURNAME": "Bakhtiyorov",
+      "NAME": "Shoaziz",
+      "GROUP": "CSE17-8"
+    },
+    {
+      "ID": "U1710124",
+      "SURNAME": "Marifkhonov",
+      "NAME": "Shakhriyorkhon",
+      "GROUP": "CSE17-11"
+    },
+    {
+      "ID": "U1710125",
+      "SURNAME": "Urinbaev",
+      "NAME": "Azizjon",
+      "GROUP": "CSE17-7"
+    },
+    {
+      "ID": "U1710126",
+      "SURNAME": "Saidov",
+      "NAME": "Saidalo",
+      "GROUP": "CSE17-13"
+    },
+    {
+      "ID": "U1710127",
+      "SURNAME": "Yuldosheva",
+      "NAME": "Ummatoy",
+      "GROUP": "CSE17-12"
+    },
+    {
+      "ID": "U1710129",
+      "SURNAME": "Kayumiy",
+      "NAME": "Shakhzoda",
+      "GROUP": "CSE17-5"
+    },
+    {
+      "ID": "U1710130",
+      "SURNAME": "Yorkinov",
+      "NAME": "Mukhammadjon",
+      "GROUP": "CSE17-8"
+    },
+    {
+      "ID": "U1710132",
+      "SURNAME": "Bakhodirov",
+      "NAME": "Khumoyun",
+      "GROUP": "CSE17-8"
+    },
+    {
+      "ID": "U1710134",
+      "SURNAME": "Ismoilov",
+      "NAME": "Dilmurod",
+      "GROUP": "CSE17-8"
+    },
+    {
+      "ID": "U1710135",
+      "SURNAME": "Karshiboev",
+      "NAME": "Khurshid",
+      "GROUP": "CSE17-13"
+    },
+    {
+      "ID": "U1710136",
+      "SURNAME": "Bektemirov",
+      "NAME": "Nasriddinbek",
+      "GROUP": "CSE17-3"
+    },
+    {
+      "ID": "U1710137",
+      "SURNAME": "Toshniyozov",
+      "NAME": "Shokhrukh",
+      "GROUP": "CSE17-8"
+    },
+    {
+      "ID": "U1710138",
+      "SURNAME": "Musulmonov",
+      "NAME": "Safarmurod",
+      "GROUP": "CSE17-2"
+    },
+    {
+      "ID": "U1710139",
+      "SURNAME": "Matyakubov",
+      "NAME": "Maruf",
+      "GROUP": "CSE17-13"
+    },
+    {
+      "ID": "U1710140",
+      "SURNAME": "Narzulloev",
+      "NAME": "Anvar",
+      "GROUP": "CSE17-11"
+    },
+    {
+      "ID": "U1710141",
+      "SURNAME": "Tulkinova",
+      "NAME": "Gulizabonu",
+      "GROUP": "CSE17-12"
+    },
+    {
+      "ID": "U1710143",
+      "SURNAME": "Nigmatov",
+      "NAME": "Murodjon",
+      "GROUP": "CSE17-5"
+    },
+    {
+      "ID": "U1710144",
+      "SURNAME": "Jumaev",
+      "NAME": "Nuriddin",
+      "GROUP": "CSE17-2"
+    },
+    {
+      "ID": "U1710147",
+      "SURNAME": "Tulaganova",
+      "NAME": "Sevinch",
+      "GROUP": "CSE17-8"
+    },
+    {
+      "ID": "U1710149",
+      "SURNAME": "Azamjonov",
+      "NAME": "Islombek",
+      "GROUP": "CSE17-3"
+    },
+    {
+      "ID": "U1710150",
+      "SURNAME": "Narkhabilov",
+      "NAME": "Aziz",
+      "GROUP": "CSE17-3"
+    },
+    {
+      "ID": "U1710151",
+      "SURNAME": "Shukhratov",
+      "NAME": "Mirislom",
+      "GROUP": "CSE17-8"
+    },
+    {
+      "ID": "U1710152",
+      "SURNAME": "Muslimov",
+      "NAME": "Akhmadjon",
+      "GROUP": "CSE17-4"
+    },
+    {
+      "ID": "U1710154",
+      "SURNAME": "Urazbaev",
+      "NAME": "Akbar",
+      "GROUP": "CSE17-5"
+    },
+    {
+      "ID": "U1710155",
+      "SURNAME": "Gulamov",
+      "NAME": "Rakhmatilla",
+      "GROUP": "CSE17-7"
+    },
+    {
+      "ID": "U1710156",
+      "SURNAME": "Kodirboev",
+      "NAME": "Jamshiddin",
+      "GROUP": "CSE17-2"
+    },
+    {
+      "ID": "U1710157",
+      "SURNAME": "Ibrokhimzoda",
+      "NAME": "Ayubkhon",
+      "GROUP": "CSE17-8"
+    },
+    {
+      "ID": "U1710158",
+      "SURNAME": "Tursunov",
+      "NAME": "Shokhzod",
+      "GROUP": "CSE17-8"
+    },
+    {
+      "ID": "U1710159",
+      "SURNAME": "Khalikov",
+      "NAME": "Shakhboz",
+      "GROUP": "CSE17-8"
+    },
+    {
+      "ID": "U1710161",
+      "SURNAME": "Khatamova",
+      "NAME": "Aziza",
+      "GROUP": "CSE17-4"
+    },
+    {
+      "ID": "U1710162",
+      "SURNAME": "Tozaboev",
+      "NAME": "Sardorbek",
+      "GROUP": "CSE17-5"
+    },
+    {
+      "ID": "U1710167",
+      "SURNAME": "Sobirov",
+      "NAME": "Bilol",
+      "GROUP": "CSE17-12"
+    },
+    {
+      "ID": "U1710168",
+      "SURNAME": "Zokhidjonova",
+      "NAME": "Nazokat",
+      "GROUP": "CSE17-5"
+    },
+    {
+      "ID": "U1710171",
+      "SURNAME": "Gazizova",
+      "NAME": "Dilyara",
+      "GROUP": "CSE17-8"
+    },
+    {
+      "ID": "U1710172",
+      "SURNAME": "Valiev",
+      "NAME": "Mukhammad",
+      "GROUP": "CSE17-3"
+    },
+    {
+      "ID": "U1710174",
+      "SURNAME": "Kodirova",
+      "NAME": "Maftuna",
+      "GROUP": "CSE17-13"
+    },
+    {
+      "ID": "U1710175",
+      "SURNAME": "Makhmudova",
+      "NAME": "Dinora",
+      "GROUP": "CSE17-2"
+    },
+    {
+      "ID": "U1710176",
+      "SURNAME": "Sokhibjonov",
+      "NAME": "Ozodbek",
+      "GROUP": "CSE17-8"
+    },
+    {
+      "ID": "U1710177",
+      "SURNAME": "Zoirova",
+      "NAME": "Oydin",
+      "GROUP": "CSE17-4"
+    },
+    {
+      "ID": "U1710178",
+      "SURNAME": "Ibragimova",
+      "NAME": "Makhsudakhon",
+      "GROUP": "CSE17-8"
+    },
+    {
+      "ID": "U1710180",
+      "SURNAME": "Abdurakhimov",
+      "NAME": "Fakhriddin",
+      "GROUP": "CSE17-13"
+    },
+    {
+      "ID": "U1710182",
+      "SURNAME": "Akhmadjanova",
+      "NAME": "Madina",
+      "GROUP": "CSE17-5"
+    },
+    {
+      "ID": "U1710183",
+      "SURNAME": "Ibadullayeva",
+      "NAME": "Shakhnoza",
+      "GROUP": "CSE17-5"
+    },
+    {
+      "ID": "U1710184",
+      "SURNAME": "Turdiev",
+      "NAME": "Bobobek",
+      "GROUP": "CSE17-8"
+    },
+    {
+      "ID": "U1710185",
+      "SURNAME": "Rakhmatkhujaev",
+      "NAME": "Odilkhon",
+      "GROUP": "CSE17-2"
+    },
+    {
+      "ID": "U1710186",
+      "SURNAME": "Tojiboyev",
+      "NAME": "Xusan",
+      "GROUP": "CSE17-12"
+    },
+    {
+      "ID": "U1710187",
+      "SURNAME": "Eshonkulov",
+      "NAME": "Nodirbek",
+      "GROUP": "CSE17-8"
+    },
+    {
+      "ID": "U1710189",
+      "SURNAME": "Artikkhodjaeva",
+      "NAME": "Zukhra",
+      "GROUP": "CSE17-5"
+    },
+    {
+      "ID": "U1710191",
+      "SURNAME": "Lim",
+      "NAME": "Denis",
+      "GROUP": "CSE17-8"
+    },
+    {
+      "ID": "U1710192",
+      "SURNAME": "Zayniddinov",
+      "NAME": "Shakhzod",
+      "GROUP": "CSE17-12"
+    },
+    {
+      "ID": "U1710193",
+      "SURNAME": "Kosimov",
+      "NAME": "Bunyodbek",
+      "GROUP": "CSE17-5"
+    },
+    {
+      "ID": "U1710195",
+      "SURNAME": "Murtazoev",
+      "NAME": "Fazliddin",
+      "GROUP": "CSE17-8"
+    },
+    {
+      "ID": "U1710196",
+      "SURNAME": "Rahimov",
+      "NAME": "Muhammadjon",
+      "GROUP": "CSE17-12"
+    },
+    {
+      "ID": "U1710197",
+      "SURNAME": "Rasulov",
+      "NAME": "Khisrav",
+      "GROUP": "CSE17-5"
+    },
+    {
+      "ID": "U1710199",
+      "SURNAME": "Mukhtorova",
+      "NAME": "Elyora",
+      "GROUP": "CSE17-3"
+    },
+    {
+      "ID": "U1710200",
+      "SURNAME": "Em",
+      "NAME": "Valeriy",
+      "GROUP": "CSE17-13"
+    },
+    {
+      "ID": "U1710202",
+      "SURNAME": "Djuraev",
+      "NAME": "Alisher",
+      "GROUP": "CSE17-3"
+    },
+    {
+      "ID": "U1710203",
+      "SURNAME": "Sultonov",
+      "NAME": "Bositkhon",
+      "GROUP": "CSE17-3"
+    },
+    {
+      "ID": "U1710204",
+      "SURNAME": "Li",
+      "NAME": "Valeriy",
+      "GROUP": "CSE17-7"
+    },
+    {
+      "ID": "U1710206",
+      "SURNAME": "Eshonkhujaev",
+      "NAME": "Javlonkhuja",
+      "GROUP": "CSE17-13"
+    },
+    {
+      "ID": "U1710208",
+      "SURNAME": "Adilov",
+      "NAME": "Mirsoip",
+      "GROUP": "CSE17-12"
+    },
+    {
+      "ID": "U1710209",
+      "SURNAME": "Kosimova",
+      "NAME": "Umriya",
+      "GROUP": "CSE17-9"
+    },
+    {
+      "ID": "U1710210",
+      "SURNAME": "Arifdjanov",
+      "NAME": "Sherzod",
+      "GROUP": "CSE17-12"
+    },
+    {
+      "ID": "U1710211",
+      "SURNAME": "Rikhsiboev",
+      "NAME": "Kamoliddin",
+      "GROUP": "CSE17-7"
+    },
+    {
+      "ID": "U1710213",
+      "SURNAME": "Ibrokhimov",
+      "NAME": "Iskandarbek",
+      "GROUP": "CSE17-4"
+    },
+    {
+      "ID": "U1710214",
+      "SURNAME": "Uzokov",
+      "NAME": "Mamurjon",
+      "GROUP": "CSE17-13"
+    },
+    {
+      "ID": "U1710215",
+      "SURNAME": "Kim",
+      "NAME": "Vadim",
+      "GROUP": "CSE17-6"
+    },
+    {
+      "ID": "U1710216",
+      "SURNAME": "Samigov",
+      "NAME": "Doniyor",
+      "GROUP": "CSE17-12"
+    },
+    {
+      "ID": "U1710217",
+      "SURNAME": "Khamdamov",
+      "NAME": "Tokhirjon",
+      "GROUP": "CSE17-8"
+    },
+    {
+      "ID": "U1710218",
+      "SURNAME": "Bakoev",
+      "NAME": "Nodirjon",
+      "GROUP": "CSE17-9"
+    },
+    {
+      "ID": "U1710220",
+      "SURNAME": "Ibrakhimjanov",
+      "NAME": "Ziyod",
+      "GROUP": "CSE17-3"
+    },
+    {
+      "ID": "U1710221",
+      "SURNAME": "Rasulov",
+      "NAME": "Rasul",
+      "GROUP": "CSE17-12"
+    },
+    {
+      "ID": "U1710222",
+      "SURNAME": "Ergasheva",
+      "NAME": "Khilola",
+      "GROUP": "CSE17-6"
+    },
+    {
+      "ID": "U1710223",
+      "SURNAME": "Nuraliev",
+      "NAME": "Islomali",
+      "GROUP": "CSE17-3"
+    },
+    {
+      "ID": "U1710224",
+      "SURNAME": "Kuchkarov",
+      "NAME": "Ozodbek",
+      "GROUP": "CSE17-7"
+    },
+    {
+      "ID": "U1710227",
+      "SURNAME": "Bakoyev",
+      "NAME": "Sardorbek",
+      "GROUP": "CSE17-9"
+    },
+    {
+      "ID": "U1710228",
+      "SURNAME": "Bekmurodova",
+      "NAME": "Sarafroz",
+      "GROUP": "CSE17-7"
+    },
+    {
+      "ID": "U1710229",
+      "SURNAME": "Nishonov",
+      "NAME": "Fayzulla",
+      "GROUP": "CSE17-6"
+    },
+    {
+      "ID": "U1710230",
+      "SURNAME": "Sharipkhonov",
+      "NAME": "Javokhirkhon",
+      "GROUP": "CSE17-3"
+    },
+    {
+      "ID": "U1710231",
+      "SURNAME": "Khabibullaev",
+      "NAME": "Mukhammadali",
+      "GROUP": "CSE17-7"
+    },
+    {
+      "ID": "U1710232",
+      "SURNAME": "Islomov",
+      "NAME": "Jasur",
+      "GROUP": "CSE17-6"
+    },
+    {
+      "ID": "U1710233",
+      "SURNAME": "Yokubov",
+      "NAME": "Komiljon",
+      "GROUP": "CSE17-6"
+    },
+    {
+      "ID": "U1710234",
+      "SURNAME": "Gaybullakhujaev",
+      "NAME": "Komronbek",
+      "GROUP": "CSE17-6"
+    },
+    {
+      "ID": "U1710236",
+      "SURNAME": "Abdullaev",
+      "NAME": "Abubakr",
+      "GROUP": "CSE17-12"
+    },
+    {
+      "ID": "U1710238",
+      "SURNAME": "Rustamova",
+      "NAME": "Munavvarkhon",
+      "GROUP": "CSE17-12"
+    },
+    {
+      "ID": "U1710239",
+      "SURNAME": "Juraeva",
+      "NAME": "Nasiba",
+      "GROUP": "CSE17-6"
+    },
+    {
+      "ID": "U1710240",
+      "SURNAME": "Sanakulov",
+      "NAME": "Akhmadjon",
+      "GROUP": "CSE17-4"
+    },
+    {
+      "ID": "U1710241",
+      "SURNAME": "Sharifjonova",
+      "NAME": "Zilola",
+      "GROUP": "CSE17-4"
+    },
+    {
+      "ID": "U1710242",
+      "SURNAME": "Ikromov",
+      "NAME": "Temurkhon",
+      "GROUP": "CSE17-3"
+    },
+    {
+      "ID": "U1710243",
+      "SURNAME": "Damanov",
+      "NAME": "Abror",
+      "GROUP": "CSE17-9"
+    },
+    {
+      "ID": "U1710245",
+      "SURNAME": "Ganiev",
+      "NAME": "Bobur",
+      "GROUP": "CSE17-12"
+    },
+    {
+      "ID": "U1710247",
+      "SURNAME": "Shukhratov",
+      "NAME": "Islomjon",
+      "GROUP": "CSE17-4"
+    },
+    {
+      "ID": "U1710249",
+      "SURNAME": "Rakhimov",
+      "NAME": "Marufjon",
+      "GROUP": "CSE17-13"
+    },
+    {
+      "ID": "U1710250",
+      "SURNAME": "Akmuratov",
+      "NAME": "Farkhod",
+      "GROUP": "CSE17-6"
+    },
+    {
+      "ID": "U1710252",
+      "SURNAME": "Baxodirov",
+      "NAME": "Nurilla",
+      "GROUP": "CSE17-12"
+    },
+    {
+      "ID": "U1710253",
+      "SURNAME": "Shavkatov",
+      "NAME": "Nusratillo",
+      "GROUP": "CSE17-12"
+    },
+    {
+      "ID": "U1710256",
+      "SURNAME": "Nurmukhamedov",
+      "NAME": "Elbek",
+      "GROUP": "CSE17-4"
+    },
+    {
+      "ID": "U1710258",
+      "SURNAME": "Ganiev",
+      "NAME": "Boburkhuja",
+      "GROUP": "CSE17-2"
+    },
+    {
+      "ID": "U1710261",
+      "SURNAME": "Islamov",
+      "NAME": "Davronbek",
+      "GROUP": "CSE17-7"
+    },
+    {
+      "ID": "U1710262",
+      "SURNAME": "Ruzimatov",
+      "NAME": "Olmosbek",
+      "GROUP": "CSE17-7"
+    },
+    {
+      "ID": "U1710263",
+      "SURNAME": "Kholmatov",
+      "NAME": "Siyavushkhon",
+      "GROUP": "CSE17-13"
+    },
+    {
+      "ID": "U1710264",
+      "SURNAME": "Davronbekov",
+      "NAME": "Otabek",
+      "GROUP": "CSE17-9"
+    },
+    {
+      "ID": "U1710265",
+      "SURNAME": "Sherbaev",
+      "NAME": "Dovron",
+      "GROUP": "CSE17-9"
+    },
+    {
+      "ID": "U1710266",
+      "SURNAME": "Vakhobov",
+      "NAME": "Azamat",
+      "GROUP": "CSE17-7"
+    },
+    {
+      "ID": "U1710267",
+      "SURNAME": "Stitsyuk",
+      "NAME": "Artyom",
+      "GROUP": "CSE17-3"
+    },
+    {
+      "ID": "U1710269",
+      "SURNAME": "Sadullaev",
+      "NAME": "Yunusbek",
+      "GROUP": "CSE17-13"
+    },
+    {
+      "ID": "U1710270",
+      "SURNAME": "Aliev",
+      "NAME": "Bekhzod",
+      "GROUP": "CSE17-13"
+    },
+    {
+      "ID": "U1710271",
+      "SURNAME": "Yunusov",
+      "NAME": "Mirkhayot",
+      "GROUP": "CSE17-6"
+    },
+    {
+      "ID": "U1710272",
+      "SURNAME": "Ganieva",
+      "NAME": "Dildorakhon",
+      "GROUP": "CSE17-7"
+    },
+    {
+      "ID": "U1710273",
+      "SURNAME": "Abdurazakov",
+      "NAME": "Shukhrat",
+      "GROUP": "CSE17-13"
+    },
+    {
+      "ID": "U1710274",
+      "SURNAME": "Khakimov",
+      "NAME": "Jasur",
+      "GROUP": "CSE17-2"
+    },
+    {
+      "ID": "U1710275",
+      "SURNAME": "Podkovyrkin",
+      "NAME": "Vladislav",
+      "GROUP": "CSE17-3"
+    },
+    {
+      "ID": "U1710277",
+      "SURNAME": "Turgunov",
+      "NAME": "Aziz",
+      "GROUP": "CSE17-9"
+    },
+    {
+      "ID": "U1710278",
+      "SURNAME": "Saitov",
+      "NAME": "Mirkomil",
+      "GROUP": "CSE17-13"
+    },
+    {
+      "ID": "U1710280",
+      "SURNAME": "Bakunts",
+      "NAME": "Stefaniya",
+      "GROUP": "CSE17-13"
+    },
+    {
+      "ID": "U1710281",
+      "SURNAME": "Yusupov",
+      "NAME": "Abdulkodir",
+      "GROUP": "CSE17-9"
+    },
+    {
+      "ID": "U1710282",
+      "SURNAME": "Kim",
+      "NAME": "Viktoriya",
+      "GROUP": "CSE17-2"
+    },
+    {
+      "ID": "U1710283",
+      "SURNAME": "Sadriddinov",
+      "NAME": "Sherzod",
+      "GROUP": "CSE17-8"
+    },
+    {
+      "ID": "U1710286",
+      "SURNAME": "Niyazmatova",
+      "NAME": "Kamila",
+      "GROUP": "CSE17-7"
+    },
+    {
+      "ID": "U1710287",
+      "SURNAME": "Rustamova",
+      "NAME": "Malika",
+      "GROUP": "CSE17-3"
+    },
+    {
+      "ID": "U1710288",
+      "SURNAME": "Mirzoev",
+      "NAME": "Akobir",
+      "GROUP": "CSE17-9"
+    },
+    {
+      "ID": "U1710289",
+      "SURNAME": "Samatova",
+      "NAME": "Ziyoda",
+      "GROUP": "CSE17-7"
+    },
+    {
+      "ID": "U1710290",
+      "SURNAME": "Salimov",
+      "NAME": "Bektosh",
+      "GROUP": "CSE17-9"
+    },
+    {
+      "ID": "U1710291",
+      "SURNAME": "Sulaymankulov",
+      "NAME": "Utkir",
+      "GROUP": "CSE17-12"
+    },
+    {
+      "ID": "U1710292",
+      "SURNAME": "Turgunov",
+      "NAME": "Aytmukhammad",
+      "GROUP": "CSE17-4"
+    },
+    {
+      "ID": "U1710294",
+      "SURNAME": "Khasanboev",
+      "NAME": "Boburbek",
+      "GROUP": "CSE17-7"
+    },
+    {
+      "ID": "U1710295",
+      "SURNAME": "Ilyasov",
+      "NAME": "Mirfotikh",
+      "GROUP": "CSE17-10"
+    },
+    {
+      "ID": "U1710297",
+      "SURNAME": "Lim",
+      "NAME": "Olga",
+      "GROUP": "CSE17-7"
+    },
+    {
+      "ID": "U1710298",
+      "SURNAME": "Yadgarova",
+      "NAME": "Aylisa",
+      "GROUP": "CSE17-12"
+    },
+    {
+      "ID": "U1710299",
+      "SURNAME": "Shakhzodbek",
+      "NAME": "Matlatipov",
+      "GROUP": "CSE17-10"
+    },
+    {
+      "ID": "U1710300",
+      "SURNAME": "Askarova",
+      "NAME": "Zarinabonu",
+      "GROUP": "CSE17-13"
+    },
+    {
+      "ID": "U1710301",
+      "SURNAME": "Nosirov",
+      "NAME": "Ilkhomjon",
+      "GROUP": "CSE17-4"
+    },
+    {
+      "ID": "U1710302",
+      "SURNAME": "Ismoilova",
+      "NAME": "Nargiza",
+      "GROUP": "CSE17-4"
+    },
+    {
+      "ID": "U1710303",
+      "SURNAME": "Shadmanov",
+      "NAME": "Shakhzod",
+      "GROUP": "CSE17-6"
+    },
+    {
+      "ID": "U1710304",
+      "SURNAME": "Sharipov",
+      "NAME": "Mukhammadalo",
+      "GROUP": "CSE17-12"
+    },
+    {
+      "ID": "U1710305",
+      "SURNAME": "Durjonova",
+      "NAME": "Sevinch",
+      "GROUP": "CSE17-10"
+    },
+    {
+      "ID": "U1710306",
+      "SURNAME": "Sadullaeva",
+      "NAME": "Madina",
+      "GROUP": "CSE17-4"
+    },
+    {
+      "ID": "U1710307",
+      "SURNAME": "Bekmurodov",
+      "NAME": "Sherali",
+      "GROUP": "CSE17-8"
+    },
+    {
+      "ID": "U1710308",
+      "SURNAME": "Azimov",
+      "NAME": "Azizjon",
+      "GROUP": "CSE17-13"
+    },
+    {
+      "ID": "U1710309",
+      "SURNAME": "Khudayberganov",
+      "NAME": "Yusufjon",
+      "GROUP": "CSE17-8"
+    },
+    {
+      "ID": "U1710310",
+      "SURNAME": "Rakhmatov",
+      "NAME": "Jamoliddin",
+      "GROUP": "CSE17-12"
+    },
+    {
+      "ID": "U1710312",
+      "SURNAME": "Sobirov",
+      "NAME": "Utkirbek",
+      "GROUP": "CSE17-7"
+    },
+    {
+      "ID": "U1710314",
+      "SURNAME": "Tulkunov",
+      "NAME": "Akobirkhuja",
+      "GROUP": "CSE17-13"
+    }
+  ],
+  "Sophomore ICE": [
+    {
+      "ID": "U1610173",
+      "SURNAME": "Gaybullaev",
+      "NAME": "Okhunjon",
+      "GROUP": "ICE-17-1"
+    },
+    {
+      "ID": "U1610235",
+      "SURNAME": "Raupjonov",
+      "NAME": "Sukhrob",
+      "GROUP": "ICE-17-1"
+    },
+    {
+      "ID": "U1710007",
+      "SURNAME": "Sobirjonov",
+      "NAME": "Okhunjon",
+      "GROUP": "ICE-17-2"
+    },
+    {
+      "ID": "U1710012",
+      "SURNAME": "Abdukaimov",
+      "NAME": "Ibrokhim",
+      "GROUP": "ICE-17-1"
+    },
+    {
+      "ID": "U1710037",
+      "SURNAME": "Shoymardonov",
+      "NAME": "Abdulla",
+      "GROUP": "ICE-17-1"
+    },
+    {
+      "ID": "U1710038",
+      "SURNAME": "Abdumalikov",
+      "NAME": "Bakhromjon",
+      "GROUP": "ICE-17-1"
+    },
+    {
+      "ID": "U1710042",
+      "SURNAME": "Shaykulov",
+      "NAME": "Elbek",
+      "GROUP": "ICE-17-1"
+    },
+    {
+      "ID": "U1710055",
+      "SURNAME": "Normurodov",
+      "NAME": "Khurshid",
+      "GROUP": "ICE-17-2"
+    },
+    {
+      "ID": "U1710058",
+      "SURNAME": "Ismoilov",
+      "NAME": "Rashidjon",
+      "GROUP": "ICE-17-2"
+    },
+    {
+      "ID": "U1710062",
+      "SURNAME": "Khanazarov",
+      "NAME": "Samir",
+      "GROUP": "ICE-17-2"
+    },
+    {
+      "ID": "U1710064",
+      "SURNAME": "Akhmedjanov",
+      "NAME": "Abdubosit",
+      "GROUP": "ICE-17-1"
+    },
+    {
+      "ID": "U1710079",
+      "SURNAME": "Pavlovskiy",
+      "NAME": "Ruslan",
+      "GROUP": "ICE-17-1"
+    },
+    {
+      "ID": "U1710102",
+      "SURNAME": "Inoyatov",
+      "NAME": "Akbarjon",
+      "GROUP": "ICE-17-1"
+    },
+    {
+      "ID": "U1710103",
+      "SURNAME": "Khonimov",
+      "NAME": "Ulugbek",
+      "GROUP": "ICE-17-1"
+    },
+    {
+      "ID": "U1710120",
+      "SURNAME": "Sunnatov",
+      "NAME": "Khikmatulla",
+      "GROUP": "ICE-17-2"
+    },
+    {
+      "ID": "U1710128",
+      "SURNAME": "Lutfilaeva",
+      "NAME": "Maftuna",
+      "GROUP": "ICE-17-1"
+    },
+    {
+      "ID": "U1710142",
+      "SURNAME": "Amirullaeva",
+      "NAME": "Sevara",
+      "GROUP": "ICE-17-1"
+    },
+    {
+      "ID": "U1710145",
+      "SURNAME": "Abdugafarov",
+      "NAME": "Shakhzod",
+      "GROUP": "ICE-17-2"
+    },
+    {
+      "ID": "U1710146",
+      "SURNAME": "Allaberdiev",
+      "NAME": "Mansurbek",
+      "GROUP": "ICE-17-1"
+    },
+    {
+      "ID": "U1710148",
+      "SURNAME": "Kambarov",
+      "NAME": "Shoakrom",
+      "GROUP": "ICE-17-2"
+    },
+    {
+      "ID": "U1710153",
+      "SURNAME": "Abduvaliev",
+      "NAME": "Shokhrukh",
+      "GROUP": "ICE-17-1"
+    },
+    {
+      "ID": "U1710160",
+      "SURNAME": "Kodirova",
+      "NAME": "Mukarramkhon",
+      "GROUP": "ICE-17-1"
+    },
+    {
+      "ID": "U1710164",
+      "SURNAME": "Khatamov",
+      "NAME": "Mukhammadxuja",
+      "GROUP": "ICE-17-1"
+    },
+    {
+      "ID": "U1710165",
+      "SURNAME": "Rakhmatov",
+      "NAME": "Bekzod",
+      "GROUP": "ICE-17-2"
+    },
+    {
+      "ID": "U1710166",
+      "SURNAME": "Aripov",
+      "NAME": "Rustam",
+      "GROUP": "ICE-17-1"
+    },
+    {
+      "ID": "U1710169",
+      "SURNAME": "Zukhurova",
+      "NAME": "Gulnoza",
+      "GROUP": "ICE-17-2"
+    },
+    {
+      "ID": "U1710170",
+      "SURNAME": "Mamasharifov",
+      "NAME": "Saidjon",
+      "GROUP": "ICE-17-2"
+    },
+    {
+      "ID": "U1710173",
+      "SURNAME": "Juraeva",
+      "NAME": "Dilobar",
+      "GROUP": "ICE-17-1"
+    },
+    {
+      "ID": "U1710179",
+      "SURNAME": "Mirkhalilov",
+      "NAME": "Mirolim",
+      "GROUP": "ICE-17-2"
+    },
+    {
+      "ID": "U1710188",
+      "SURNAME": "Ochilov",
+      "NAME": "Khumoyun",
+      "GROUP": "ICE-17-1"
+    },
+    {
+      "ID": "U1710190",
+      "SURNAME": "Khoshimov",
+      "NAME": "Kholid",
+      "GROUP": "ICE-17-2"
+    },
+    {
+      "ID": "U1710194",
+      "SURNAME": "Abdurasulova",
+      "NAME": "Khayitgul",
+      "GROUP": "ICE-17-2"
+    },
+    {
+      "ID": "U1710198",
+      "SURNAME": "Ochilov",
+      "NAME": "Sherzod",
+      "GROUP": "ICE-17-1"
+    },
+    {
+      "ID": "U1710201",
+      "SURNAME": "Sotimov",
+      "NAME": "Izzatbek",
+      "GROUP": "ICE-17-2"
+    },
+    {
+      "ID": "U1710205",
+      "SURNAME": "Sadullaev",
+      "NAME": "Abdulla",
+      "GROUP": "ICE-17-1"
+    },
+    {
+      "ID": "U1710207",
+      "SURNAME": "Farkhadov",
+      "NAME": "Khojiakbar",
+      "GROUP": "ICE-17-1"
+    },
+    {
+      "ID": "U1710212",
+      "SURNAME": "Kholmetov",
+      "NAME": "Khumoyun",
+      "GROUP": "ICE-17-2"
+    },
+    {
+      "ID": "U1710219",
+      "SURNAME": "Rashidov",
+      "NAME": "Javokhir",
+      "GROUP": "ICE-17-2"
+    },
+    {
+      "ID": "U1710225",
+      "SURNAME": "Dauletov",
+      "NAME": "Kuanishbay",
+      "GROUP": "ICE-17-2"
+    },
+    {
+      "ID": "U1710226",
+      "SURNAME": "Kodirov",
+      "NAME": "Bekzod",
+      "GROUP": "ICE-17-1"
+    },
+    {
+      "ID": "U1710235",
+      "SURNAME": "Fayzullaev",
+      "NAME": "Temurbek",
+      "GROUP": "ICE-17-2"
+    },
+    {
+      "ID": "U1710244",
+      "SURNAME": "Juraev",
+      "NAME": "Adkhamjon",
+      "GROUP": "ICE-17-2"
+    },
+    {
+      "ID": "U1710248",
+      "SURNAME": "Nigmonov",
+      "NAME": "Diyor",
+      "GROUP": "ICE-17-2"
+    },
+    {
+      "ID": "U1710251",
+      "SURNAME": "Mamadulloev",
+      "NAME": "Khamidullo",
+      "GROUP": "ICE-17-1"
+    },
+    {
+      "ID": "U1710254",
+      "SURNAME": "Asatilla",
+      "NAME": "Kosimbek",
+      "GROUP": "ICE-17-2"
+    },
+    {
+      "ID": "U1710257",
+      "SURNAME": "Mannonov",
+      "NAME": "Temur",
+      "GROUP": "ICE-17-2"
+    },
+    {
+      "ID": "U1710259",
+      "SURNAME": "Saydakhmatova",
+      "NAME": "Ziyoda",
+      "GROUP": "ICE-17-1"
+    },
+    {
+      "ID": "U1710260",
+      "SURNAME": "Khakimjonov",
+      "NAME": "Jamshidjon",
+      "GROUP": "ICE-17-1"
+    },
+    {
+      "ID": "U1710268",
+      "SURNAME": "Nadolenko",
+      "NAME": "Maksim",
+      "GROUP": "ICE-17-2"
+    },
+    {
+      "ID": "U1710276",
+      "SURNAME": "Maksudova",
+      "NAME": "Sarvinoz",
+      "GROUP": "ICE-17-1"
+    },
+    {
+      "ID": "U1710279",
+      "SURNAME": "Ozodjonov",
+      "NAME": "Mirabbosbek",
+      "GROUP": "ICE-17-1"
+    },
+    {
+      "ID": "U1710284",
+      "SURNAME": "Dosmukhamedov",
+      "NAME": "Avazbek",
+      "GROUP": "ICE-17-2"
+    },
+    {
+      "ID": "U1710285",
+      "SURNAME": "Kim",
+      "NAME": "Denis",
+      "GROUP": "ICE-17-2"
+    },
+    {
+      "ID": "U1710293",
+      "SURNAME": "Abdumajidov",
+      "NAME": "Shohnur",
+      "GROUP": "ICE-17-1"
+    },
+    {
+      "ID": "U1710296",
+      "SURNAME": "Shonazarov",
+      "NAME": "Davronbek",
+      "GROUP": "ICE-17-1"
+    },
+    {
+      "ID": "U1710311",
+      "SURNAME": "Asrorov",
+      "NAME": "Shamshod",
+      "GROUP": "ICE-17-2"
+    },
+    {
+      "ID": "U1710313",
+      "SURNAME": "Masharipova",
+      "NAME": "Farida",
+      "GROUP": "ICE-17-1"
+    }
+  ],
+  "Sophomore SOL": [
+    {
+      "ID": "U1711001",
+      "SURNAME": "Ibragimov",
+      "NAME": "Jasurbek",
+      "GROUP": "SOL17-1"
+    },
+    {
+      "ID": "U1711002",
+      "SURNAME": "Abdukayumov",
+      "NAME": "Abdulkhoris",
+      "GROUP": "SOL17-1"
+    },
+    {
+      "ID": "U1711003",
+      "SURNAME": "Amilov",
+      "NAME": "Mirkodir",
+      "GROUP": "SOL17-1"
+    },
+    {
+      "ID": "U1711004",
+      "SURNAME": "Safaraliev",
+      "NAME": "Javokhir",
+      "GROUP": "SOL17-1"
+    },
+    {
+      "ID": "U1711005",
+      "SURNAME": "Rakhimov",
+      "NAME": "Abrorbek",
+      "GROUP": "SOL17-1"
+    },
+    {
+      "ID": "U1711006",
+      "SURNAME": "Makhamadmusaev",
+      "NAME": "Alisherjon",
+      "GROUP": "SOL17-1"
+    },
+    {
+      "ID": "U1711007",
+      "SURNAME": "Narmatov",
+      "NAME": "Lazizbek",
+      "GROUP": "SOL17-1"
+    },
+    {
+      "ID": "U1711008",
+      "SURNAME": "Sultonova",
+      "NAME": "Feruza",
+      "GROUP": "SOL17-1"
+    },
+    {
+      "ID": "U1711009",
+      "SURNAME": "Khakimbaev",
+      "NAME": "Bakhrom",
+      "GROUP": "SOL17-1"
+    },
+    {
+      "ID": "U1711010",
+      "SURNAME": "Pirniyozov",
+      "NAME": "Sardor",
+      "GROUP": "SOL17-1"
+    },
+    {
+      "ID": "U1711011",
+      "SURNAME": "Juraev",
+      "NAME": "Bekzod",
+      "GROUP": "SOL17-1"
+    },
+    {
+      "ID": "U1711012",
+      "SURNAME": "Sharipov",
+      "NAME": "Sarvar",
+      "GROUP": "SOL17-1"
+    },
+    {
+      "ID": "U1711013",
+      "SURNAME": "Khajibaev",
+      "NAME": "Jakhongir",
+      "GROUP": "SOL17-1"
+    },
+    {
+      "ID": "U1711014",
+      "SURNAME": "Mavlyanov",
+      "NAME": "Abdulaziz",
+      "GROUP": "SOL17-1"
+    },
+    {
+      "ID": "U1711015",
+      "SURNAME": "Nizomov",
+      "NAME": "Shamshod",
+      "GROUP": "SOL17-1"
+    },
+    {
+      "ID": "U1711016",
+      "SURNAME": "Tuganov",
+      "NAME": "Rakhmatilla",
+      "GROUP": "SOL17-1"
+    },
+    {
+      "ID": "U1711017",
+      "SURNAME": "Ismatova",
+      "NAME": "Sevinch",
+      "GROUP": "SOL17-1"
+    },
+    {
+      "ID": "U1711018",
+      "SURNAME": "Mamadaliev",
+      "NAME": "Abdulaziz",
+      "GROUP": "SOL17-1"
+    },
+    {
+      "ID": "U1711019",
+      "SURNAME": "Rasulova",
+      "NAME": "Malika",
+      "GROUP": "SOL17-1"
+    },
+    {
+      "ID": "U1711020",
+      "SURNAME": "Ziyomukhamedov",
+      "NAME": "Pulatjon",
+      "GROUP": "SOL17-1"
+    },
+    {
+      "ID": "U1711021",
+      "SURNAME": "Akbaraliev",
+      "NAME": "Akhrorbek",
+      "GROUP": "SOL17-1"
+    },
+    {
+      "ID": "U1711022",
+      "SURNAME": "Bakhronov",
+      "NAME": "Abbos",
+      "GROUP": "SOL17-1"
+    },
+    {
+      "ID": "U1711023",
+      "SURNAME": "Sidikova",
+      "NAME": "Zebiniso",
+      "GROUP": "SOL17-1"
+    },
+    {
+      "ID": "U1711024",
+      "SURNAME": "Musaboeva",
+      "NAME": "Mukhlisa",
+      "GROUP": "SOL17-1"
+    },
+    {
+      "ID": "U1711025",
+      "SURNAME": "Allanazarov",
+      "NAME": "Sardor",
+      "GROUP": "SOL17-1"
+    },
+    {
+      "ID": "U1711026",
+      "SURNAME": "Barotov",
+      "NAME": "Jamshid",
+      "GROUP": "SOL17-2"
+    },
+    {
+      "ID": "U1711028",
+      "SURNAME": "Akhtamova",
+      "NAME": "Shakhzoda",
+      "GROUP": "SOL17-2"
+    },
+    {
+      "ID": "U1711029",
+      "SURNAME": "Sadirdinov",
+      "NAME": "Shamshiddin",
+      "GROUP": "SOL17-2"
+    },
+    {
+      "ID": "U1711030",
+      "SURNAME": "Khaydarov",
+      "NAME": "Mukhammad-Bobur",
+      "GROUP": "SOL17-2"
+    },
+    {
+      "ID": "U1711031",
+      "SURNAME": "Tursunova",
+      "NAME": "Gavkhar",
+      "GROUP": "SOL17-2"
+    },
+    {
+      "ID": "U1711032",
+      "SURNAME": "Turgunova",
+      "NAME": "Barchinoy",
+      "GROUP": "SOL17-2"
+    },
+    {
+      "ID": "U1711033",
+      "SURNAME": "Normurodov",
+      "NAME": "Javokhir",
+      "GROUP": "SOL17-2"
+    },
+    {
+      "ID": "U1711034",
+      "SURNAME": "Narziev",
+      "NAME": "Shokhzodbek",
+      "GROUP": "SOL17-2"
+    },
+    {
+      "ID": "U1711035",
+      "SURNAME": "Tulkinova",
+      "NAME": "Rukhsoraoy",
+      "GROUP": "SOL17-2"
+    },
+    {
+      "ID": "U1711036",
+      "SURNAME": "Saidova",
+      "NAME": "Laziza",
+      "GROUP": "SOL17-2"
+    },
+    {
+      "ID": "U1711037",
+      "SURNAME": "Boisov",
+      "NAME": "Aziz",
+      "GROUP": "SOL17-2"
+    },
+    {
+      "ID": "U1711038",
+      "SURNAME": "Obidova",
+      "NAME": "Marjona",
+      "GROUP": "SOL17-2"
+    },
+    {
+      "ID": "U1711039",
+      "SURNAME": "Gozieva",
+      "NAME": "Istora",
+      "GROUP": "SOL17-2"
+    },
+    {
+      "ID": "U1711040",
+      "SURNAME": "Donaboeva",
+      "NAME": "Firuza",
+      "GROUP": "SOL17-2"
+    },
+    {
+      "ID": "U1711041",
+      "SURNAME": "Karimov",
+      "NAME": "Saidazimkhoji",
+      "GROUP": "SOL17-2"
+    },
+    {
+      "ID": "U1711042",
+      "SURNAME": "Kosnazarov",
+      "NAME": "Arislanbek",
+      "GROUP": "SOL17-2"
+    },
+    {
+      "ID": "U1711043",
+      "SURNAME": "Madalieva",
+      "NAME": "Arofat",
+      "GROUP": "SOL17-2"
+    },
+    {
+      "ID": "U1711044",
+      "SURNAME": "Khamrakulov",
+      "NAME": "Jamshid",
+      "GROUP": "SOL17-2"
+    },
+    {
+      "ID": "U1711045",
+      "SURNAME": "Khudoynazarov",
+      "NAME": "Jakhongir",
+      "GROUP": "SOL17-2"
+    },
+    {
+      "ID": "U1711046",
+      "SURNAME": "Erkinova",
+      "NAME": "Gulnozakhon",
+      "GROUP": "SOL17-2"
+    },
+    {
+      "ID": "U1711047",
+      "SURNAME": "Kadamov",
+      "NAME": "Alisher",
+      "GROUP": "SOL17-2"
+    },
+    {
+      "ID": "U1711048",
+      "SURNAME": "Raimov",
+      "NAME": "Nodir",
+      "GROUP": "SOL17-2"
+    },
+    {
+      "ID": "U1711049",
+      "SURNAME": "Agzamkhodjaeva",
+      "NAME": "Azizakhon",
+      "GROUP": "SOL17-2"
+    },
+    {
+      "ID": "U1711050",
+      "SURNAME": "Omonov",
+      "NAME": "Yakhyobek",
+      "GROUP": "SOL17-2"
+    },
+    {
+      "ID": "U1711051",
+      "SURNAME": "Sarvarova",
+      "NAME": "Shakhlo",
+      "GROUP": "SOL17-2"
+    },
+    {
+      "ID": "U1711052",
+      "SURNAME": "Kim",
+      "NAME": "Viktoriya",
+      "GROUP": "SOL17-3"
+    },
+    {
+      "ID": "U1711053",
+      "SURNAME": "Nasirova",
+      "NAME": "Nurzada",
+      "GROUP": "SOL17-3"
+    },
+    {
+      "ID": "U1711054",
+      "SURNAME": "Nuriddinova",
+      "NAME": "Farangiz",
+      "GROUP": "SOL17-3"
+    },
+    {
+      "ID": "U1711055",
+      "SURNAME": "Kim",
+      "NAME": "Veronika",
+      "GROUP": "SOL17-3"
+    },
+    {
+      "ID": "U1711056",
+      "SURNAME": "Abdurakhmonov",
+      "NAME": "Akbar",
+      "GROUP": "SOL17-3"
+    },
+    {
+      "ID": "U1711057",
+      "SURNAME": "Khudoyberdiev",
+      "NAME": "Azizbek",
+      "GROUP": "SOL17-3"
+    },
+    {
+      "ID": "U1711058",
+      "SURNAME": "Olimov",
+      "NAME": "Shokhrukh",
+      "GROUP": "SOL17-3"
+    },
+    {
+      "ID": "U1711059",
+      "SURNAME": "Shermatov",
+      "NAME": "Khusanjon",
+      "GROUP": "SOL17-3"
+    },
+    {
+      "ID": "U1711060",
+      "SURNAME": "Toshpulatov",
+      "NAME": "Oyatillo",
+      "GROUP": "SOL17-3"
+    },
+    {
+      "ID": "U1711061",
+      "SURNAME": "Omonov",
+      "NAME": "Bunyod",
+      "GROUP": "SOL17-3"
+    },
+    {
+      "ID": "U1711062",
+      "SURNAME": "Nam",
+      "NAME": "Vladimir",
+      "GROUP": "SOL17-3"
+    },
+    {
+      "ID": "U1711063",
+      "SURNAME": "Abdullaev",
+      "NAME": "Nusratkhon",
+      "GROUP": "SOL17-3"
+    },
+    {
+      "ID": "U1711064",
+      "SURNAME": "Ibragimov",
+      "NAME": "Jakhongir",
+      "GROUP": "SOL17-3"
+    },
+    {
+      "ID": "U1711066",
+      "SURNAME": "Pardabekov",
+      "NAME": "Sarvarjon",
+      "GROUP": "SOL17-3"
+    },
+    {
+      "ID": "U1711067",
+      "SURNAME": "Sodikova",
+      "NAME": "Zakhro",
+      "GROUP": "SOL17-3"
+    },
+    {
+      "ID": "U1711068",
+      "SURNAME": "Khamroev",
+      "NAME": "Mukhamadamin",
+      "GROUP": "SOL17-3"
+    },
+    {
+      "ID": "U1711069",
+      "SURNAME": "Maksumov",
+      "NAME": "Sultonmurod",
+      "GROUP": "SOL17-3"
+    },
+    {
+      "ID": "U1711070",
+      "SURNAME": "Abdurakhimov",
+      "NAME": "Fayzulla",
+      "GROUP": "SOL17-3"
+    },
+    {
+      "ID": "U1711071",
+      "SURNAME": "Sobirov",
+      "NAME": "Nodir",
+      "GROUP": "SOL17-3"
+    },
+    {
+      "ID": "U1711072",
+      "SURNAME": "Mirzaev",
+      "NAME": "Saidakbarkhon",
+      "GROUP": "SOL17-3"
+    },
+    {
+      "ID": "U1711073",
+      "SURNAME": "Mirazimov",
+      "NAME": "Mirfozil",
+      "GROUP": "SOL17-3"
+    },
+    {
+      "ID": "U1711074",
+      "SURNAME": "Saidkamolov",
+      "NAME": "Saidislom",
+      "GROUP": "SOL17-3"
+    },
+    {
+      "ID": "U1711076",
+      "SURNAME": "Tulaganova",
+      "NAME": "Shirin",
+      "GROUP": "SOL17-3"
+    },
+    {
+      "ID": "U1711077",
+      "SURNAME": "Jumaeva",
+      "NAME": "Khusnora",
+      "GROUP": "SOL17-3"
+    },
+    {
+      "ID": "U1711078",
+      "SURNAME": "Olimov",
+      "NAME": "Azizbek",
+      "GROUP": "SOL17-3"
+    },
+    {
+      "ID": "U1711079",
+      "SURNAME": "Tursunmuratov",
+      "NAME": "Sherzod",
+      "GROUP": "SOL17-3"
+    },
+    {
+      "ID": "U1711080",
+      "SURNAME": "Ataullaev",
+      "NAME": "Abdulaziz",
+      "GROUP": "SOL17-4"
+    },
+    {
+      "ID": "U1711081",
+      "SURNAME": "Giyasova",
+      "NAME": "Irodakhon",
+      "GROUP": "SOL17-4"
+    },
+    {
+      "ID": "U1711082",
+      "SURNAME": "Lyan",
+      "NAME": "Maksim",
+      "GROUP": "SOL17-4"
+    },
+    {
+      "ID": "U1711084",
+      "SURNAME": "Yusupov",
+      "NAME": "Oybek",
+      "GROUP": "SOL17-4"
+    },
+    {
+      "ID": "U1711085",
+      "SURNAME": "Madraimov",
+      "NAME": "Ulugbek",
+      "GROUP": "SOL17-4"
+    },
+    {
+      "ID": "U1711086",
+      "SURNAME": "Yakubov",
+      "NAME": "Mardon",
+      "GROUP": "SOL17-4"
+    },
+    {
+      "ID": "U1711087",
+      "SURNAME": "Akhmadaliev",
+      "NAME": "Otabek",
+      "GROUP": "SOL17-4"
+    },
+    {
+      "ID": "U1711088",
+      "SURNAME": "Ishmukhamedov",
+      "NAME": "Bositkhon",
+      "GROUP": "SOL17-4"
+    },
+    {
+      "ID": "U1711089",
+      "SURNAME": "Toirova",
+      "NAME": "Manzurakhon",
+      "GROUP": "SOL17-4"
+    },
+    {
+      "ID": "U1711090",
+      "SURNAME": "Ismatillaev",
+      "NAME": "Farkhod",
+      "GROUP": "SOL17-4"
+    },
+    {
+      "ID": "U1711091",
+      "SURNAME": "Omonjonov",
+      "NAME": "Azizjon",
+      "GROUP": "SOL17-4"
+    },
+    {
+      "ID": "U1711092",
+      "SURNAME": "Abdurasulova",
+      "NAME": "Sitora",
+      "GROUP": "SOL17-4"
+    },
+    {
+      "ID": "U1711093",
+      "SURNAME": "Abdieva",
+      "NAME": "Kamola",
+      "GROUP": "SOL17-4"
+    },
+    {
+      "ID": "U1711094",
+      "SURNAME": "Said Mubosher",
+      "NAME": "Shirin",
+      "GROUP": "SOL17-4"
+    },
+    {
+      "ID": "U1711095",
+      "SURNAME": "Shukhratov",
+      "NAME": "Shokhrukh",
+      "GROUP": "SOL17-4"
+    },
+    {
+      "ID": "U1711096",
+      "SURNAME": "Yuldoshev",
+      "NAME": "Ulugbek",
+      "GROUP": "SOL17-4"
+    },
+    {
+      "ID": "U1711097",
+      "SURNAME": "Shamsiddinov",
+      "NAME": "Javohirbek",
+      "GROUP": "SOL17-4"
+    },
+    {
+      "ID": "U1711098",
+      "SURNAME": "Alikulova",
+      "NAME": "Nilufar",
+      "GROUP": "SOL17-4"
+    },
+    {
+      "ID": "U1711099",
+      "SURNAME": "Akhmedova",
+      "NAME": "Mokhinur",
+      "GROUP": "SOL17-4"
+    },
+    {
+      "ID": "U1711100",
+      "SURNAME": "Saburova",
+      "NAME": "Sarvinoz",
+      "GROUP": "SOL17-4"
+    },
+    {
+      "ID": "U1711101",
+      "SURNAME": "Yangiboev",
+      "NAME": "Adkham",
+      "GROUP": "SOL17-4"
+    },
+    {
+      "ID": "U1711102",
+      "SURNAME": "Jaloldinov",
+      "NAME": "Sarvarbek",
+      "GROUP": "SOL17-4"
+    },
+    {
+      "ID": "U1711103",
+      "SURNAME": "Fazliddinov",
+      "NAME": "Zavkiddin",
+      "GROUP": "SOL17-4"
+    },
+    {
+      "ID": "U1711104",
+      "SURNAME": "Urazova",
+      "NAME": "Kamila",
+      "GROUP": "SOL17-4"
+    },
+    {
+      "ID": "U1711105",
+      "SURNAME": "Khusenova",
+      "NAME": "Ozodabonu",
+      "GROUP": "SOL17-4"
+    }
+  ],
+  "Junior CSE": [
+    {
+      "ID": "U1410048",
+      "SURNAME": "Akhmadjonov",
+      "NAME": "Islomjon",
+      "GROUP": "CSE16-3"
+    },
+    {
+      "ID": "U1510303",
+      "SURNAME": "Jabborov",
+      "NAME": "Ahror",
+      "GROUP": "CSE16-1"
+    },
+    {
+      "ID": "U1510323",
+      "SURNAME": "Nematov",
+      "NAME": "Jakhongir",
+      "GROUP": "CSE16-4"
+    },
+    {
+      "ID": "U1510407",
+      "SURNAME": "Olimov",
+      "NAME": "Fakhriddin",
+      "GROUP": "CSE16-6"
+    },
+    {
+      "ID": "U1610002",
+      "SURNAME": "Salim",
+      "NAME": "Abdul Jamol",
+      "GROUP": "CSE16-1"
+    },
+    {
+      "ID": "U1610003",
+      "SURNAME": "Muhammadrafiqov",
+      "NAME": "Abdulazim",
+      "GROUP": "CSE16-2"
+    },
+    {
+      "ID": "U1610005",
+      "SURNAME": "Askarov",
+      "NAME": "Abdullokh",
+      "GROUP": "CSE16-4"
+    },
+    {
+      "ID": "U1610007",
+      "SURNAME": "Mamirov",
+      "NAME": "Abdulmalik",
+      "GROUP": "CSE16-4"
+    },
+    {
+      "ID": "U1610009",
+      "SURNAME": "Abdusamatov",
+      "NAME": "Abdumutal",
+      "GROUP": "CSE16-6"
+    },
+    {
+      "ID": "U1610010",
+      "SURNAME": "Abdurasulov",
+      "NAME": "Abdusaid",
+      "GROUP": "CSE16-2"
+    },
+    {
+      "ID": "U1610011",
+      "SURNAME": "Abduvokhidov",
+      "NAME": "Abduvokhid",
+      "GROUP": "CSE16-5"
+    },
+    {
+      "ID": "U1610012",
+      "SURNAME": "Jabbarov",
+      "NAME": "Abu-Bakr",
+      "GROUP": "CSE16-1"
+    },
+    {
+      "ID": "U1610013",
+      "SURNAME": "Mukhammadjonov",
+      "NAME": "Adkham",
+      "GROUP": "CSE16-5"
+    },
+    {
+      "ID": "U1610016",
+      "SURNAME": "Karimov",
+      "NAME": "Akmal",
+      "GROUP": "CSE16-2"
+    },
+    {
+      "ID": "U1610018",
+      "SURNAME": "Akhrolkhujaev",
+      "NAME": "Akmalkhon",
+      "GROUP": "CSE16-2"
+    },
+    {
+      "ID": "U1610019",
+      "SURNAME": "Begnayev",
+      "NAME": "Alibek",
+      "GROUP": "CSE16-6"
+    },
+    {
+      "ID": "U1610021",
+      "SURNAME": "Karimov",
+      "NAME": "Alisher",
+      "GROUP": "CSE16-6"
+    },
+    {
+      "ID": "U1610022",
+      "SURNAME": "Rakhimov",
+      "NAME": "Alisherbek",
+      "GROUP": "CSE16-5"
+    },
+    {
+      "ID": "U1610024",
+      "SURNAME": "Kurbanov",
+      "NAME": "Anodil",
+      "GROUP": "CSE16-1"
+    },
+    {
+      "ID": "U1610025",
+      "SURNAME": "Abdulsatarov",
+      "NAME": "Anvar",
+      "GROUP": "CSE16-5"
+    },
+    {
+      "ID": "U1610026",
+      "SURNAME": "Yusupov",
+      "NAME": "Anvarjon",
+      "GROUP": "CSE16-2"
+    },
+    {
+      "ID": "U1610027",
+      "SURNAME": "Kim",
+      "NAME": "Artyom",
+      "GROUP": "CSE16-5"
+    },
+    {
+      "ID": "U1610028",
+      "SURNAME": "Khalimov",
+      "NAME": "Asliddin",
+      "GROUP": "CSE16-1"
+    },
+    {
+      "ID": "U1610031",
+      "SURNAME": "Makhkamov",
+      "NAME": "Azamat",
+      "GROUP": "CSE16-5"
+    },
+    {
+      "ID": "U1610033",
+      "SURNAME": "Khudayberdiev",
+      "NAME": "Azimkhon",
+      "GROUP": "CSE16-1"
+    },
+    {
+      "ID": "U1610034",
+      "SURNAME": "Akhmedov",
+      "NAME": "Azimsher",
+      "GROUP": "CSE16-5"
+    },
+    {
+      "ID": "U1610035",
+      "SURNAME": "Abdulkhakov",
+      "NAME": "Aziz",
+      "GROUP": "CSE16-2"
+    },
+    {
+      "ID": "U1610036",
+      "SURNAME": "Bokhidjonov",
+      "NAME": "Aziz",
+      "GROUP": "CSE16-5"
+    },
+    {
+      "ID": "U1610039",
+      "SURNAME": "Aripova",
+      "NAME": "Aziza",
+      "GROUP": "CSE16-1"
+    },
+    {
+      "ID": "U1610040",
+      "SURNAME": "Asadov",
+      "NAME": "Azizbek",
+      "GROUP": "CSE16-2"
+    },
+    {
+      "ID": "U1610041",
+      "SURNAME": "Kobilov",
+      "NAME": "Azizbek",
+      "GROUP": "CSE16-2"
+    },
+    {
+      "ID": "U1610042",
+      "SURNAME": "Samatov",
+      "NAME": "Azizbek",
+      "GROUP": "CSE16-5"
+    },
+    {
+      "ID": "U1610046",
+      "SURNAME": "Shaymonov",
+      "NAME": "Bekhzod",
+      "GROUP": "CSE16-2"
+    },
+    {
+      "ID": "U1610047",
+      "SURNAME": "Makhkamov",
+      "NAME": "Bekhzodkhon",
+      "GROUP": "CSE16-2"
+    },
+    {
+      "ID": "U1610048",
+      "SURNAME": "Shavkatov",
+      "NAME": "Bekhzodkhuja",
+      "GROUP": "CSE16-2"
+    },
+    {
+      "ID": "U1610049",
+      "SURNAME": "Jo'raboev",
+      "NAME": "Bekmurod",
+      "GROUP": "CSE16-6"
+    },
+    {
+      "ID": "U1610052",
+      "SURNAME": "Bahodirov",
+      "NAME": "Boburjon",
+      "GROUP": "CSE16-2"
+    },
+    {
+      "ID": "U1610054",
+      "SURNAME": "Iskandarov",
+      "NAME": "Boburjon",
+      "GROUP": "CSE16-2"
+    },
+    {
+      "ID": "U1610057",
+      "SURNAME": "Shermukhammedov",
+      "NAME": "Davronbek",
+      "GROUP": "CSE16-2"
+    },
+    {
+      "ID": "U1610058",
+      "SURNAME": "Nasibullaev",
+      "NAME": "Dilmurod",
+      "GROUP": "CSE16-5"
+    },
+    {
+      "ID": "U1610059",
+      "SURNAME": "Ubaydullaev",
+      "NAME": "Dilmurod",
+      "GROUP": "CSE16-1"
+    },
+    {
+      "ID": "U1610060",
+      "SURNAME": "Valiev",
+      "NAME": "Dilmurod",
+      "GROUP": "CSE16-5"
+    },
+    {
+      "ID": "U1610061",
+      "SURNAME": "Alieva",
+      "NAME": "Dilorom",
+      "GROUP": "CSE16-2"
+    },
+    {
+      "ID": "U1610062",
+      "SURNAME": "Shin",
+      "NAME": "Dmitriy",
+      "GROUP": "CSE16-2"
+    },
+    {
+      "ID": "U1610064",
+      "SURNAME": "Suhrobov",
+      "NAME": "Dostonjon",
+      "GROUP": "CSE16-2"
+    },
+    {
+      "ID": "U1610065",
+      "SURNAME": "Ozodkhujaev",
+      "NAME": "Dostonkhon",
+      "GROUP": "CSE16-5"
+    },
+    {
+      "ID": "U1610066",
+      "SURNAME": "Keldiyorov",
+      "NAME": "Elyorjon",
+      "GROUP": "CSE16-5"
+    },
+    {
+      "ID": "U1610067",
+      "SURNAME": "Nurmukhamedova",
+      "NAME": "Farangiz",
+      "GROUP": "CSE16-7"
+    },
+    {
+      "ID": "U1610068",
+      "SURNAME": "Makhkamov",
+      "NAME": "Farrukh",
+      "GROUP": "CSE16-5"
+    },
+    {
+      "ID": "U1610069",
+      "SURNAME": "Tulkunov",
+      "NAME": "Farrukh",
+      "GROUP": "CSE16-5"
+    },
+    {
+      "ID": "U1610070",
+      "SURNAME": "Akramov",
+      "NAME": "Farrukhjon",
+      "GROUP": "CSE16-5"
+    },
+    {
+      "ID": "U1610071",
+      "SURNAME": "Zokirov",
+      "NAME": "Fazliddin",
+      "GROUP": "CSE16-5"
+    },
+    {
+      "ID": "U1610072",
+      "SURNAME": "Latipova",
+      "NAME": "Feruza",
+      "GROUP": "CSE16-2"
+    },
+    {
+      "ID": "U1610073",
+      "SURNAME": "Zoirov",
+      "NAME": "Fuzayl",
+      "GROUP": "CSE16-2"
+    },
+    {
+      "ID": "U1610074",
+      "SURNAME": "Tulasheva",
+      "NAME": "Gulkhayokhon",
+      "GROUP": "CSE16-6"
+    },
+    {
+      "ID": "U1610075",
+      "SURNAME": "Abidov",
+      "NAME": "Ibrat",
+      "GROUP": "CSE16-5"
+    },
+    {
+      "ID": "U1610076",
+      "SURNAME": "Orifjonov",
+      "NAME": "Ibrokhim",
+      "GROUP": "CSE16-5"
+    },
+    {
+      "ID": "U1610077",
+      "SURNAME": "Tsoy",
+      "NAME": "Igor",
+      "GROUP": "CSE16-4"
+    },
+    {
+      "ID": "U1610078",
+      "SURNAME": "Rakhimov",
+      "NAME": "Ilkhom",
+      "GROUP": "CSE16-5"
+    },
+    {
+      "ID": "U1610079",
+      "SURNAME": "Akhmadjonov",
+      "NAME": "Ilkhomjon",
+      "GROUP": "CSE16-5"
+    },
+    {
+      "ID": "U1610080",
+      "SURNAME": "Ulmasboeva",
+      "NAME": "Iroda",
+      "GROUP": "CSE16-5"
+    },
+    {
+      "ID": "U1610081",
+      "SURNAME": "Babaev",
+      "NAME": "Islom",
+      "GROUP": "CSE16-5"
+    },
+    {
+      "ID": "U1610082",
+      "SURNAME": "Abdulakhatov",
+      "NAME": "Islombek",
+      "GROUP": "CSE16-5"
+    },
+    {
+      "ID": "U1610083",
+      "SURNAME": "Salimov",
+      "NAME": "Islombek",
+      "GROUP": "CSE16-5"
+    },
+    {
+      "ID": "U1610084",
+      "SURNAME": "Tokhirov",
+      "NAME": "Islombek",
+      "GROUP": "CSE16-5"
+    },
+    {
+      "ID": "U1610085",
+      "SURNAME": "Erkinhojiyev",
+      "NAME": "Islomjon",
+      "GROUP": "CSE16-2"
+    },
+    {
+      "ID": "U1610087",
+      "SURNAME": "Kanoatov",
+      "NAME": "Izzatullo",
+      "GROUP": "CSE16-2"
+    },
+    {
+      "ID": "U1610088",
+      "SURNAME": "Alimov",
+      "NAME": "Jakhongir",
+      "GROUP": "CSE16-5"
+    },
+    {
+      "ID": "U1610089",
+      "SURNAME": "Mirzo Umarov",
+      "NAME": "Jakhongir",
+      "GROUP": "CSE16-5"
+    },
+    {
+      "ID": "U1610090",
+      "SURNAME": "Gulomov",
+      "NAME": "Jaloliddin",
+      "GROUP": "CSE16-5"
+    },
+    {
+      "ID": "U1610091",
+      "SURNAME": "Alavitdinov",
+      "NAME": "Jamoliddin",
+      "GROUP": "CSE16-2"
+    },
+    {
+      "ID": "U1610092",
+      "SURNAME": "Odilkhujaev",
+      "NAME": "Jamoliddinkhuja",
+      "GROUP": "CSE16-1"
+    },
+    {
+      "ID": "U1610094",
+      "SURNAME": "Salimov",
+      "NAME": "Jasur",
+      "GROUP": "CSE16-5"
+    },
+    {
+      "ID": "U1610095",
+      "SURNAME": "Turaev",
+      "NAME": "Jasur",
+      "GROUP": "CSE16-5"
+    },
+    {
+      "ID": "U1610096",
+      "SURNAME": "Davronov",
+      "NAME": "Jasurbek",
+      "GROUP": "CSE16-1"
+    },
+    {
+      "ID": "U1610097",
+      "SURNAME": "Makhmutkhujaev",
+      "NAME": "Jasurkhon",
+      "GROUP": "CSE16-2"
+    },
+    {
+      "ID": "U1610099",
+      "SURNAME": "Isroilov",
+      "NAME": "Javlonbek",
+      "GROUP": "CSE16-5"
+    },
+    {
+      "ID": "U1610101",
+      "SURNAME": "Azimova",
+      "NAME": "Kamola",
+      "GROUP": "CSE16-1"
+    },
+    {
+      "ID": "U1610102",
+      "SURNAME": "Ochilov",
+      "NAME": "Kamoliddin",
+      "GROUP": "CSE16-6"
+    },
+    {
+      "ID": "U1610103",
+      "SURNAME": "Begmatov",
+      "NAME": "Kamronbek",
+      "GROUP": "CSE16-7"
+    },
+    {
+      "ID": "U1610104",
+      "SURNAME": "Egamov",
+      "NAME": "Khamidjon",
+      "GROUP": "CSE16-5"
+    },
+    {
+      "ID": "U1610105",
+      "SURNAME": "Abdurakhimov",
+      "NAME": "Khojiakbar",
+      "GROUP": "CSE16-6"
+    },
+    {
+      "ID": "U1610107",
+      "SURNAME": "Shamsutdinov",
+      "NAME": "Khojiakbar",
+      "GROUP": "CSE16-6"
+    },
+    {
+      "ID": "U1610108",
+      "SURNAME": "Mamarasulov",
+      "NAME": "Khokimjon",
+      "GROUP": "CSE16-6"
+    },
+    {
+      "ID": "U1610109",
+      "SURNAME": "Mirjalolov",
+      "NAME": "Khudoyarkhon",
+      "GROUP": "CSE16-4"
+    },
+    {
+      "ID": "U1610111",
+      "SURNAME": "Inoyatov",
+      "NAME": "Khumoyun",
+      "GROUP": "CSE16-6"
+    },
+    {
+      "ID": "U1610112",
+      "SURNAME": "Yakubov",
+      "NAME": "Khurshid",
+      "GROUP": "CSE16-7"
+    },
+    {
+      "ID": "U1610113",
+      "SURNAME": "Jumaboev",
+      "NAME": "Khurshidbek",
+      "GROUP": "CSE16-2"
+    },
+    {
+      "ID": "U1610115",
+      "SURNAME": "Yusufkhujaev",
+      "NAME": "Khusan",
+      "GROUP": "CSE16-7"
+    },
+    {
+      "ID": "U1610117",
+      "SURNAME": "Keldiboev",
+      "NAME": "Khushnidjon",
+      "GROUP": "CSE16-1"
+    },
+    {
+      "ID": "U1610119",
+      "SURNAME": "Botirov",
+      "NAME": "Komronbek",
+      "GROUP": "CSE16-7"
+    },
+    {
+      "ID": "U1610120",
+      "SURNAME": "Amirova",
+      "NAME": "Anora",
+      "GROUP": "CSE16-5"
+    },
+    {
+      "ID": "U1610123",
+      "SURNAME": "Saydamatova",
+      "NAME": "Latofatkhon",
+      "GROUP": "CSE16-7"
+    },
+    {
+      "ID": "U1610124",
+      "SURNAME": "Nasridinova",
+      "NAME": "Laziza",
+      "GROUP": "CSE16-5"
+    },
+    {
+      "ID": "U1610125",
+      "SURNAME": "Qaxorov",
+      "NAME": "Lazizjon",
+      "GROUP": "CSE16-4"
+    },
+    {
+      "ID": "U1610126",
+      "SURNAME": "Fayzullaeva",
+      "NAME": "Lobar",
+      "GROUP": "CSE16-7"
+    },
+    {
+      "ID": "U1610127",
+      "SURNAME": "Kurbanova",
+      "NAME": "Madina",
+      "GROUP": "CSE16-2"
+    },
+    {
+      "ID": "U1610129",
+      "SURNAME": "Mukhammadyusupova",
+      "NAME": "Madinabonu",
+      "GROUP": "CSE16-4"
+    },
+    {
+      "ID": "U1610130",
+      "SURNAME": "Raufova",
+      "NAME": "Madinakhon",
+      "GROUP": "CSE16-2"
+    },
+    {
+      "ID": "U1610131",
+      "SURNAME": "Abdukhashimov",
+      "NAME": "Madiyor",
+      "GROUP": "CSE16-4"
+    },
+    {
+      "ID": "U1610132",
+      "SURNAME": "Nurkhujaeva",
+      "NAME": "Maftunakhon",
+      "GROUP": "CSE16-7"
+    },
+    {
+      "ID": "U1610133",
+      "SURNAME": "Olimjonova",
+      "NAME": "Mahliyokhon",
+      "GROUP": "CSE16-1"
+    },
+    {
+      "ID": "U1610134",
+      "SURNAME": "Eshpulatova",
+      "NAME": "Malika",
+      "GROUP": "CSE16-1"
+    },
+    {
+      "ID": "U1610135",
+      "SURNAME": "Juraeva",
+      "NAME": "Malika",
+      "GROUP": "CSE16-2"
+    },
+    {
+      "ID": "U1610137",
+      "SURNAME": "Zarifjonov",
+      "NAME": "Mardon",
+      "GROUP": "CSE16-2"
+    },
+    {
+      "ID": "U1610139",
+      "SURNAME": "Kuchkaralieva",
+      "NAME": "Mavluadakhon",
+      "GROUP": "CSE16-7"
+    },
+    {
+      "ID": "U1610141",
+      "SURNAME": "Yuldoshev",
+      "NAME": "Mirfayoz",
+      "GROUP": "CSE16-7"
+    },
+    {
+      "ID": "U1610142",
+      "SURNAME": "Khamidov",
+      "NAME": "Mirkamol",
+      "GROUP": "CSE16-2"
+    },
+    {
+      "ID": "U1610143",
+      "SURNAME": "Shukurov",
+      "NAME": "Mirpulatjon",
+      "GROUP": "CSE16-4"
+    },
+    {
+      "ID": "U1610145",
+      "SURNAME": "Saitov",
+      "NAME": "Mirtolip",
+      "GROUP": "CSE16-2"
+    },
+    {
+      "ID": "U1610146",
+      "SURNAME": "Karshiev",
+      "NAME": "Mirzashomol",
+      "GROUP": "CSE16-4"
+    },
+    {
+      "ID": "U1610147",
+      "SURNAME": "Rakhmonova",
+      "NAME": "Mokhira",
+      "GROUP": "CSE16-7"
+    },
+    {
+      "ID": "U1610148",
+      "SURNAME": "Tuychiboeva",
+      "NAME": "Mokhlaroyim",
+      "GROUP": "CSE16-1"
+    },
+    {
+      "ID": "U1610149",
+      "SURNAME": "Farmonov",
+      "NAME": "Muhammad",
+      "GROUP": "CSE16-4"
+    },
+    {
+      "ID": "U1610150",
+      "SURNAME": "Naziraliev",
+      "NAME": "Mukhammadamin",
+      "GROUP": "CSE16-2"
+    },
+    {
+      "ID": "U1610152",
+      "SURNAME": "Pulatbekov",
+      "NAME": "Mukhammadjon",
+      "GROUP": "CSE16-7"
+    },
+    {
+      "ID": "U1610154",
+      "SURNAME": "Furkatov",
+      "NAME": "Mukhammadmirzo",
+      "GROUP": "CSE16-2"
+    },
+    {
+      "ID": "U1610156",
+      "SURNAME": "Mukhtorov",
+      "NAME": "Mukhammadrasul",
+      "GROUP": "CSE16-4"
+    },
+    {
+      "ID": "U1610157",
+      "SURNAME": "Tursunov",
+      "NAME": "Mukhammadyunus",
+      "GROUP": "CSE16-7"
+    },
+    {
+      "ID": "U1610158",
+      "SURNAME": "Rakhmatov",
+      "NAME": "Mukhriddin",
+      "GROUP": "CSE16-2"
+    },
+    {
+      "ID": "U1610159",
+      "SURNAME": "Ismatov",
+      "NAME": "Murodillo",
+      "GROUP": "CSE16-4"
+    },
+    {
+      "ID": "U1610160",
+      "SURNAME": "Mirzayev",
+      "NAME": "Murodjon",
+      "GROUP": "CSE16-7"
+    },
+    {
+      "ID": "U1610161",
+      "SURNAME": "Sadullaev",
+      "NAME": "Murodjon",
+      "GROUP": "CSE16-3"
+    },
+    {
+      "ID": "U1610163",
+      "SURNAME": "Choriev",
+      "NAME": "Muzaffarmirzo",
+      "GROUP": "CSE16-4"
+    },
+    {
+      "ID": "U1610164",
+      "SURNAME": "Elchieva",
+      "NAME": "Nasibakhon",
+      "GROUP": "CSE16-7"
+    },
+    {
+      "ID": "U1610165",
+      "SURNAME": "Halimov",
+      "NAME": "Navruz",
+      "GROUP": "CSE16-2"
+    },
+    {
+      "ID": "U1610166",
+      "SURNAME": "Noraliev",
+      "NAME": "Navruzbek",
+      "GROUP": "CSE16-4"
+    },
+    {
+      "ID": "U1610168",
+      "SURNAME": "Rakhimjonova",
+      "NAME": "Nodira",
+      "GROUP": "CSE16-7"
+    },
+    {
+      "ID": "U1610170",
+      "SURNAME": "Utkirov",
+      "NAME": "Nodirjon",
+      "GROUP": "CSE16-5"
+    },
+    {
+      "ID": "U1610171",
+      "SURNAME": "Juraeva",
+      "NAME": "Nozima",
+      "GROUP": "CSE16-4"
+    },
+    {
+      "ID": "U1610172",
+      "SURNAME": "Ruzimatov",
+      "NAME": "Obboskhon",
+      "GROUP": "CSE16-3"
+    },
+    {
+      "ID": "U1610174",
+      "SURNAME": "Allanazarov",
+      "NAME": "Otabek",
+      "GROUP": "CSE16-7"
+    },
+    {
+      "ID": "U1610175",
+      "SURNAME": "NAZRULLAEV",
+      "NAME": "OTABEK",
+      "GROUP": "CSE16-7"
+    },
+    {
+      "ID": "U1610176",
+      "SURNAME": "Amonov",
+      "NAME": "Oybek",
+      "GROUP": "CSE16-3"
+    },
+    {
+      "ID": "U1610179",
+      "SURNAME": "Khakimjanov",
+      "NAME": "Oybek",
+      "GROUP": "CSE16-4"
+    },
+    {
+      "ID": "U1610180",
+      "SURNAME": "Sayfullayev",
+      "NAME": "Oybek",
+      "GROUP": "CSE16-3"
+    },
+    {
+      "ID": "U1610181",
+      "SURNAME": "Khushnudov",
+      "NAME": "Ozod",
+      "GROUP": "CSE16-7"
+    },
+    {
+      "ID": "U1610182",
+      "SURNAME": "Topiboldiev",
+      "NAME": "Rakhmatillo",
+      "GROUP": "CSE16-7"
+    },
+    {
+      "ID": "U1610183",
+      "SURNAME": "Khasanov",
+      "NAME": "Rakhmatjon",
+      "GROUP": "CSE16-3"
+    },
+    {
+      "ID": "U1610185",
+      "SURNAME": "Islomova",
+      "NAME": "Rakhshona",
+      "GROUP": "CSE16-7"
+    },
+    {
+      "ID": "U1610186",
+      "SURNAME": "Kushakov",
+      "NAME": "Ramazon",
+      "GROUP": "CSE16-3"
+    },
+    {
+      "ID": "U1610187",
+      "SURNAME": "Mirsoatov",
+      "NAME": "Rasulbek",
+      "GROUP": "CSE16-4"
+    },
+    {
+      "ID": "U1610190",
+      "SURNAME": "Utkurova",
+      "NAME": "Risolat",
+      "GROUP": "CSE16-7"
+    },
+    {
+      "ID": "U1610191",
+      "SURNAME": "Akhmedov",
+      "NAME": "Rodion",
+      "GROUP": "CSE16-7"
+    },
+    {
+      "ID": "U1610192",
+      "SURNAME": "Tulanov",
+      "NAME": "Rustamjon",
+      "GROUP": "CSE16-3"
+    },
+    {
+      "ID": "U1610193",
+      "SURNAME": "Sadullaeva",
+      "NAME": "Malika",
+      "GROUP": "CSE16-4"
+    },
+    {
+      "ID": "U1610195",
+      "SURNAME": "Jasurbekov",
+      "NAME": "Saidazimkhon",
+      "GROUP": "CSE16-5"
+    },
+    {
+      "ID": "U1610197",
+      "SURNAME": "Maksumov",
+      "NAME": "Saidolim",
+      "GROUP": "CSE16-4"
+    },
+    {
+      "ID": "U1610198",
+      "SURNAME": "Zayniddinov",
+      "NAME": "Sakhobiddin",
+      "GROUP": "CSE16-7"
+    },
+    {
+      "ID": "U1610200",
+      "SURNAME": "Toshev",
+      "NAME": "Samoyiddin",
+      "GROUP": "CSE16-3"
+    },
+    {
+      "ID": "U1610201",
+      "SURNAME": "Kobilova",
+      "NAME": "Saodat",
+      "GROUP": "CSE16-7"
+    },
+    {
+      "ID": "U1610202",
+      "SURNAME": "Allabergenov",
+      "NAME": "Sardor",
+      "GROUP": "CSE16-3"
+    },
+    {
+      "ID": "U1610203",
+      "SURNAME": "Doniyorov",
+      "NAME": "Sardor",
+      "GROUP": "CSE16-7"
+    },
+    {
+      "ID": "U1610205",
+      "SURNAME": "Urdushev",
+      "NAME": "Sardor",
+      "GROUP": "CSE16-3"
+    },
+    {
+      "ID": "U1610206",
+      "SURNAME": "Abdupattoyev",
+      "NAME": "Sardorbek",
+      "GROUP": "CSE16-4"
+    },
+    {
+      "ID": "U1610207",
+      "SURNAME": "Rakhimov",
+      "NAME": "Sardorbek",
+      "GROUP": "CSE16-6"
+    },
+    {
+      "ID": "U1610208",
+      "SURNAME": "Rakhmonov",
+      "NAME": "Sardorbek",
+      "GROUP": "CSE16-7"
+    },
+    {
+      "ID": "U1610209",
+      "SURNAME": "Khujaev",
+      "NAME": "Sarvarkhon",
+      "GROUP": "CSE16-3"
+    },
+    {
+      "ID": "U1610211",
+      "SURNAME": "Akhbaeva",
+      "NAME": "Sevara",
+      "GROUP": "CSE16-3"
+    },
+    {
+      "ID": "U1610213",
+      "SURNAME": "Urinboev",
+      "NAME": "Shahzod",
+      "GROUP": "CSE16-3"
+    },
+    {
+      "ID": "U1610216",
+      "SURNAME": "Khayitboev",
+      "NAME": "Shakhzod",
+      "GROUP": "CSE16-7"
+    },
+    {
+      "ID": "U1610217",
+      "SURNAME": "Omonboev",
+      "NAME": "Shakhzod",
+      "GROUP": "CSE16-7"
+    },
+    {
+      "ID": "U1610218",
+      "SURNAME": "Yunusova",
+      "NAME": "Shakhzoda",
+      "GROUP": "CSE16-3"
+    },
+    {
+      "ID": "U1610219",
+      "SURNAME": "Isomiddinov",
+      "NAME": "Shakhzodbek",
+      "GROUP": "CSE16-4"
+    },
+    {
+      "ID": "U1610220",
+      "SURNAME": "Isamadinov",
+      "NAME": "Shakhzodbek",
+      "GROUP": "CSE16-7"
+    },
+    {
+      "ID": "U1610221",
+      "SURNAME": "Toshmirzaev",
+      "NAME": "Shamsiddin",
+      "GROUP": "CSE16-7"
+    },
+    {
+      "ID": "U1610226",
+      "SURNAME": "Murodov",
+      "NAME": "Shokhjakhon",
+      "GROUP": "CSE16-3"
+    },
+    {
+      "ID": "U1610227",
+      "SURNAME": "NISHONOV",
+      "NAME": "SHOKHJAKHON",
+      "GROUP": "CSE16-7"
+    },
+    {
+      "ID": "U1610228",
+      "SURNAME": "Shokhnazarov",
+      "NAME": "Shokhruh",
+      "GROUP": "CSE16-7"
+    },
+    {
+      "ID": "U1610229",
+      "SURNAME": "Salikhov",
+      "NAME": "Shokhrukh",
+      "GROUP": "CSE16-7"
+    },
+    {
+      "ID": "U1610231",
+      "SURNAME": "Shirinkulova",
+      "NAME": "Shokhsanam",
+      "GROUP": "CSE16-3"
+    },
+    {
+      "ID": "U1610232",
+      "SURNAME": "Zukhriddinov",
+      "NAME": "Shukhratbek",
+      "GROUP": "CSE16-3"
+    },
+    {
+      "ID": "U1610233",
+      "SURNAME": "Sharofiddinov",
+      "NAME": "Shukurkhon",
+      "GROUP": "CSE16-7"
+    },
+    {
+      "ID": "U1610234",
+      "SURNAME": "Mirzaev",
+      "NAME": "Solikh",
+      "GROUP": "CSE16-7"
+    },
+    {
+      "ID": "U1610236",
+      "SURNAME": "Kurbonov",
+      "NAME": "Sukhrobjon",
+      "GROUP": "CSE16-7"
+    },
+    {
+      "ID": "U1610237",
+      "SURNAME": "Sayfuddinov",
+      "NAME": "Sukhrobkhuja",
+      "GROUP": "CSE16-4"
+    },
+    {
+      "ID": "U1610238",
+      "SURNAME": "Bokijonov",
+      "NAME": "Sultonbek",
+      "GROUP": "CSE16-7"
+    },
+    {
+      "ID": "U1610239",
+      "SURNAME": "Makhmudov",
+      "NAME": "Sunnat",
+      "GROUP": "CSE16-3"
+    },
+    {
+      "ID": "U1610240",
+      "SURNAME": "Kholmurzaev",
+      "NAME": "Temurbek",
+      "GROUP": "CSE16-7"
+    },
+    {
+      "ID": "U1610241",
+      "SURNAME": "Makhmudov",
+      "NAME": "Timur",
+      "GROUP": "CSE16-4"
+    },
+    {
+      "ID": "U1610242",
+      "SURNAME": "Usmanov",
+      "NAME": "Timur",
+      "GROUP": "CSE16-7"
+    },
+    {
+      "ID": "U1610243",
+      "SURNAME": "Rakhmonov",
+      "NAME": "Tolib",
+      "GROUP": "CSE16-3"
+    },
+    {
+      "ID": "U1610244",
+      "SURNAME": "Rakhmatullaev",
+      "NAME": "Ulmasbek",
+      "GROUP": "CSE16-7"
+    },
+    {
+      "ID": "U1610245",
+      "SURNAME": "Khamdamov",
+      "NAME": "Ulugbek",
+      "GROUP": "CSE16-7"
+    },
+    {
+      "ID": "U1610246",
+      "SURNAME": "Orifov",
+      "NAME": "Umarbek",
+      "GROUP": "CSE16-3"
+    },
+    {
+      "ID": "U1610248",
+      "SURNAME": "Bokiev",
+      "NAME": "Umid",
+      "GROUP": "CSE16-7"
+    },
+    {
+      "ID": "U1610249",
+      "SURNAME": "Urinboev",
+      "NAME": "Bokhodir",
+      "GROUP": "CSE16-3"
+    },
+    {
+      "ID": "U1610250",
+      "SURNAME": "Ravshanov",
+      "NAME": "Usmonbek",
+      "GROUP": "CSE16-3"
+    },
+    {
+      "ID": "U1610251",
+      "SURNAME": "Kim",
+      "NAME": "Vadim",
+      "GROUP": "CSE16-7"
+    },
+    {
+      "ID": "U1610253",
+      "SURNAME": "Utepbergenov",
+      "NAME": "Yunus",
+      "GROUP": "CSE16-7"
+    },
+    {
+      "ID": "U1610254",
+      "SURNAME": "Ubaydullaev",
+      "NAME": "Zafar",
+      "GROUP": "CSE16-7"
+    },
+    {
+      "ID": "U1610256",
+      "SURNAME": "Dadajonova",
+      "NAME": "Zilola",
+      "GROUP": "CSE16-7"
+    },
+    {
+      "ID": "U1610257",
+      "SURNAME": "Mukhamedkhanov",
+      "NAME": "Diyorkhon",
+      "GROUP": "CSE16-7"
+    },
+    {
+      "ID": "U1610259",
+      "SURNAME": "Khalimov",
+      "NAME": "Sardorbek",
+      "GROUP": "CSE16-3"
+    },
+    {
+      "ID": "U1610261",
+      "SURNAME": "Juraev",
+      "NAME": "Kamronbek",
+      "GROUP": "CSE16-3"
+    },
+    {
+      "ID": "U1610262",
+      "SURNAME": "Yakhyaev",
+      "NAME": "Rasul",
+      "GROUP": "CSE16-7"
+    },
+    {
+      "ID": "U1610263",
+      "SURNAME": "Botirov",
+      "NAME": "Saidamir",
+      "GROUP": "CSE16-3"
+    }
+  ],
+  "Junior ICE": [
+    {
+      "ID": "U1510025",
+      "SURNAME": "Rakhimova",
+      "NAME": "Malika",
+      "GROUP": "ICE-16-1"
+    },
+    {
+      "ID": "U1510102",
+      "SURNAME": "Gulliev",
+      "NAME": "Shakhruz",
+      "GROUP": "ICE-16-1"
+    },
+    {
+      "ID": "U1610001",
+      "SURNAME": "Kudratov",
+      "NAME": "Abbosjon",
+      "GROUP": "ICE-16-1"
+    },
+    {
+      "ID": "U1610014",
+      "SURNAME": "Ismatov",
+      "NAME": "Akhmadjon",
+      "GROUP": "ICE-16-1"
+    },
+    {
+      "ID": "U1610017",
+      "SURNAME": "Abdullajonov",
+      "NAME": "Akmaljon",
+      "GROUP": "ICE-16-1"
+    },
+    {
+      "ID": "U1610023",
+      "SURNAME": "Jalilov",
+      "NAME": "Amalbek",
+      "GROUP": "ICE-16-1"
+    },
+    {
+      "ID": "U1610029",
+      "SURNAME": "Sirojiddinov",
+      "NAME": "Avazbek",
+      "GROUP": "ICE-16-1"
+    },
+    {
+      "ID": "U1610030",
+      "SURNAME": "Avazov",
+      "NAME": "Azizbek",
+      "GROUP": "ICE-16-1"
+    },
+    {
+      "ID": "U1610032",
+      "SURNAME": "Akhmadov",
+      "NAME": "Azimjon",
+      "GROUP": "ICE-16-1"
+    },
+    {
+      "ID": "U1610037",
+      "SURNAME": "Riskulov",
+      "NAME": "Aziz",
+      "GROUP": "ICE-16-1"
+    },
+    {
+      "ID": "U1610038",
+      "SURNAME": "Abdurakhmonova",
+      "NAME": "Aziza",
+      "GROUP": "ICE-16-1"
+    },
+    {
+      "ID": "U1610044",
+      "SURNAME": "Kushiev",
+      "NAME": "Bakhodir",
+      "GROUP": "ICE-16-1"
+    },
+    {
+      "ID": "U1610045",
+      "SURNAME": "Yarkulov",
+      "NAME": "Bekhruz",
+      "GROUP": "ICE-16-1"
+    },
+    {
+      "ID": "U1610050",
+      "SURNAME": "Erkinov",
+      "NAME": "Bekzod",
+      "GROUP": "ICE-16-1"
+    },
+    {
+      "ID": "U1610053",
+      "SURNAME": "Borataliev",
+      "NAME": "Boburjon",
+      "GROUP": "ICE-16-1"
+    },
+    {
+      "ID": "U1610056",
+      "SURNAME": "Kuliev",
+      "NAME": "Botir",
+      "GROUP": "ICE-16-1"
+    },
+    {
+      "ID": "U1610063",
+      "SURNAME": "Mardiev",
+      "NAME": "Doston",
+      "GROUP": "ICE-16-1"
+    },
+    {
+      "ID": "U1610086",
+      "SURNAME": "Juraev",
+      "NAME": "Islomjon",
+      "GROUP": "ICE-16-1"
+    },
+    {
+      "ID": "U1610093",
+      "SURNAME": "Akhmedov",
+      "NAME": "Jasur",
+      "GROUP": "ICE-16-1"
+    },
+    {
+      "ID": "U1610100",
+      "SURNAME": "Marufov",
+      "NAME": "Javokhir",
+      "GROUP": "ICE-16-1"
+    },
+    {
+      "ID": "U1610110",
+      "SURNAME": "Aminaddinov",
+      "NAME": "Khumoyun",
+      "GROUP": "ICE-16-1"
+    },
+    {
+      "ID": "U1610114",
+      "SURNAME": "Davlatov",
+      "NAME": "Khusan",
+      "GROUP": "ICE-16-1"
+    },
+    {
+      "ID": "U1610118",
+      "SURNAME": "Gaybullayev",
+      "NAME": "Komiljon",
+      "GROUP": "ICE-16-1"
+    },
+    {
+      "ID": "U1610122",
+      "SURNAME": "Bobokulov",
+      "NAME": "Kuvonchbek",
+      "GROUP": "ICE-16-1"
+    },
+    {
+      "ID": "U1610138",
+      "SURNAME": "Mamurov",
+      "NAME": "Maruf",
+      "GROUP": "ICE-16-1"
+    },
+    {
+      "ID": "U1610140",
+      "SURNAME": "Shamsiev",
+      "NAME": "Mirali",
+      "GROUP": "ICE-16-1"
+    },
+    {
+      "ID": "U1610144",
+      "SURNAME": "Ibrokhimov",
+      "NAME": "Mirshodjon",
+      "GROUP": "ICE-16-1"
+    },
+    {
+      "ID": "U1610155",
+      "SURNAME": "Komilov",
+      "NAME": "Mukhammadnazar",
+      "GROUP": "ICE-16-1"
+    },
+    {
+      "ID": "U1610162",
+      "SURNAME": "Sadullaev",
+      "NAME": "Murodulla",
+      "GROUP": "ICE-16-1"
+    },
+    {
+      "ID": "U1610167",
+      "SURNAME": "Sadullaev",
+      "NAME": "Nazrulla",
+      "GROUP": "ICE-16-1"
+    },
+    {
+      "ID": "U1610169",
+      "SURNAME": "Nabiev",
+      "NAME": "Nodirbek",
+      "GROUP": "ICE-16-1"
+    },
+    {
+      "ID": "U1610177",
+      "SURNAME": "Bijanov",
+      "NAME": "Oybek",
+      "GROUP": "ICE-16-1"
+    },
+    {
+      "ID": "U1610178",
+      "SURNAME": "Fayziev",
+      "NAME": "Oybek",
+      "GROUP": "ICE-16-1"
+    },
+    {
+      "ID": "U1610184",
+      "SURNAME": "Kadamboev",
+      "NAME": "Rakhmatulla",
+      "GROUP": "ICE-16-1"
+    },
+    {
+      "ID": "U1610196",
+      "SURNAME": "Saidnabiev",
+      "NAME": "Saidazimkhuja",
+      "GROUP": "ICE-16-1"
+    },
+    {
+      "ID": "U1610199",
+      "SURNAME": "Tursunaliev",
+      "NAME": "Salohiddin",
+      "GROUP": "ICE-16-1"
+    },
+    {
+      "ID": "U1610204",
+      "SURNAME": "Ibragimov",
+      "NAME": "Sardor",
+      "GROUP": "ICE-16-1"
+    },
+    {
+      "ID": "U1610210",
+      "SURNAME": "Makhmudov",
+      "NAME": "Sayidazim",
+      "GROUP": "ICE-16-1"
+    },
+    {
+      "ID": "U1610212",
+      "SURNAME": "Abdurakhimov",
+      "NAME": "Shahrukh",
+      "GROUP": "ICE-16-1"
+    },
+    {
+      "ID": "U1610215",
+      "SURNAME": "Amirov",
+      "NAME": "Shakhzod",
+      "GROUP": "ICE-16-1"
+    },
+    {
+      "ID": "U1610223",
+      "SURNAME": "Khaydarov",
+      "NAME": "Sherzod",
+      "GROUP": "ICE-16-1"
+    },
+    {
+      "ID": "U1610225",
+      "SURNAME": "Akhmedkhodjaeva",
+      "NAME": "Shirin",
+      "GROUP": "ICE-16-1"
+    },
+    {
+      "ID": "U1610230",
+      "SURNAME": "Mirzakhmedov",
+      "NAME": "Shokhrukhmirzo",
+      "GROUP": "ICE-16-1"
+    },
+    {
+      "ID": "U1610247",
+      "SURNAME": "Rajabov",
+      "NAME": "Umarjon",
+      "GROUP": "ICE-16-1"
+    },
+    {
+      "ID": "U1610255",
+      "SURNAME": "Botirova",
+      "NAME": "Zebo",
+      "GROUP": "ICE-16-1"
+    }
+  ],
+  "Junior SOL": [
+    {
+      "ID": "U1611002",
+      "SURNAME": "Kan",
+      "NAME": "Aleksey",
+      "GROUP": "SOL16-1"
+    },
+    {
+      "ID": "U1611005",
+      "SURNAME": "Abdusaidov",
+      "NAME": "Avazbek",
+      "GROUP": "SOL16-1"
+    },
+    {
+      "ID": "U1611006",
+      "SURNAME": "Karamatov",
+      "NAME": "Azamat",
+      "GROUP": "SOL16-1"
+    },
+    {
+      "ID": "U1611007",
+      "SURNAME": "Arzieva",
+      "NAME": "Aziza",
+      "GROUP": "SOL16-1"
+    },
+    {
+      "ID": "U1611009",
+      "SURNAME": "Ortikkhujaeva",
+      "NAME": "Azizakhon",
+      "GROUP": "SOL16-1"
+    },
+    {
+      "ID": "U1611010",
+      "SURNAME": "Jamolov",
+      "NAME": "Azizjon",
+      "GROUP": "SOL16-1"
+    },
+    {
+      "ID": "U1611011",
+      "SURNAME": "Shodiev",
+      "NAME": "Azizjon",
+      "GROUP": "SOL16-1"
+    },
+    {
+      "ID": "U1611012",
+      "SURNAME": "Kuziboev",
+      "NAME": "Bektemir",
+      "GROUP": "SOL16-1"
+    },
+    {
+      "ID": "U1611013",
+      "SURNAME": "Yuldoshev",
+      "NAME": "Bekzod",
+      "GROUP": "SOL16-1"
+    },
+    {
+      "ID": "U1611014",
+      "SURNAME": "Daminov",
+      "NAME": "Bobir",
+      "GROUP": "SOL16-1"
+    },
+    {
+      "ID": "U1611015",
+      "SURNAME": "Ibrokhimov",
+      "NAME": "Davron",
+      "GROUP": "SOL16-1"
+    },
+    {
+      "ID": "U1611017",
+      "SURNAME": "Musaev",
+      "NAME": "Doniyor",
+      "GROUP": "SOL16-1"
+    },
+    {
+      "ID": "U1611019",
+      "SURNAME": "Narzulloyev",
+      "NAME": "Fazliddin",
+      "GROUP": "SOL16-1"
+    },
+    {
+      "ID": "U1611021",
+      "SURNAME": "Teshaev",
+      "NAME": "Gamzat",
+      "GROUP": "SOL16-1"
+    },
+    {
+      "ID": "U1611022",
+      "SURNAME": "Irgasheva",
+      "NAME": "Gulnoza",
+      "GROUP": "SOL16-1"
+    },
+    {
+      "ID": "U1611023",
+      "SURNAME": "Abdumajidov",
+      "NAME": "Humoyunjon",
+      "GROUP": "SOL16-1"
+    },
+    {
+      "ID": "U1611024",
+      "SURNAME": "Farmonov",
+      "NAME": "Ibrokhim",
+      "GROUP": "SOL16-1"
+    },
+    {
+      "ID": "U1611025",
+      "SURNAME": "Isroilov",
+      "NAME": "Ibrokhim",
+      "GROUP": "SOL16-1"
+    },
+    {
+      "ID": "U1611026",
+      "SURNAME": "Abdullaev",
+      "NAME": "Ilyos",
+      "GROUP": "SOL16-1"
+    },
+    {
+      "ID": "U1611027",
+      "SURNAME": "Ismoilov",
+      "NAME": "Ilyos",
+      "GROUP": "SOL16-1"
+    },
+    {
+      "ID": "U1611028",
+      "SURNAME": "Nikolaeva",
+      "NAME": "Irina",
+      "GROUP": "SOL16-1"
+    },
+    {
+      "ID": "U1611029",
+      "SURNAME": "Boltaev",
+      "NAME": "Jaloliddin",
+      "GROUP": "SOL16-1"
+    },
+    {
+      "ID": "U1611030",
+      "SURNAME": "Azimov",
+      "NAME": "Jasur",
+      "GROUP": "SOL16-2"
+    },
+    {
+      "ID": "U1611031",
+      "SURNAME": "Toshtemirov",
+      "NAME": "Jasur",
+      "GROUP": "SOL16-2"
+    },
+    {
+      "ID": "U1611033",
+      "SURNAME": "Rakhimberdiev",
+      "NAME": "Kamronbek",
+      "GROUP": "SOL16-2"
+    },
+    {
+      "ID": "U1611036",
+      "SURNAME": "Zokirova",
+      "NAME": "Madina",
+      "GROUP": "SOL16-2"
+    },
+    {
+      "ID": "U1611037",
+      "SURNAME": "Asadova",
+      "NAME": "Mahtob",
+      "GROUP": "SOL16-2"
+    },
+    {
+      "ID": "U1611038",
+      "SURNAME": "Norkulov",
+      "NAME": "Masud",
+      "GROUP": "SOL16-2"
+    },
+    {
+      "ID": "U1611039",
+      "SURNAME": "Sharipov",
+      "NAME": "Mirfayzbek",
+      "GROUP": "SOL16-2"
+    },
+    {
+      "ID": "U1611040",
+      "SURNAME": "Zayniddin",
+      "NAME": "Mirfozil",
+      "GROUP": "SOL16-2"
+    },
+    {
+      "ID": "U1611043",
+      "SURNAME": "Safarova",
+      "NAME": "Nilufar",
+      "GROUP": "SOL16-2"
+    },
+    {
+      "ID": "U1611044",
+      "SURNAME": "Buranov",
+      "NAME": "Nozimbek",
+      "GROUP": "SOL16-2"
+    },
+    {
+      "ID": "U1611045",
+      "SURNAME": "Ristibaev",
+      "NAME": "Nurislom",
+      "GROUP": "SOL16-2"
+    },
+    {
+      "ID": "U1611046",
+      "SURNAME": "Nurbekov",
+      "NAME": "Nurjan",
+      "GROUP": "SOL16-2"
+    },
+    {
+      "ID": "U1611047",
+      "SURNAME": "Mirkhamidov",
+      "NAME": "Omonullo",
+      "GROUP": "SOL16-2"
+    },
+    {
+      "ID": "U1611049",
+      "SURNAME": "Boykulov",
+      "NAME": "Otajon",
+      "GROUP": "SOL16-2"
+    },
+    {
+      "ID": "U1611051",
+      "SURNAME": "Namozov",
+      "NAME": "Ravshan",
+      "GROUP": "SOL16-2"
+    },
+    {
+      "ID": "U1611052",
+      "SURNAME": "Tulaganov",
+      "NAME": "Ravshan",
+      "GROUP": "SOL16-2"
+    },
+    {
+      "ID": "U1611053",
+      "SURNAME": "Uktamova",
+      "NAME": "Rukhsorakhon",
+      "GROUP": "SOL16-2"
+    },
+    {
+      "ID": "U1611054",
+      "SURNAME": "Navruzov",
+      "NAME": "Rustamjon",
+      "GROUP": "SOL16-2"
+    },
+    {
+      "ID": "U1611055",
+      "SURNAME": "Saidmamatov",
+      "NAME": "Saidakmal",
+      "GROUP": "SOL16-2"
+    },
+    {
+      "ID": "U1611056",
+      "SURNAME": "Kayumov",
+      "NAME": "Sardor",
+      "GROUP": "SOL16-2"
+    },
+    {
+      "ID": "U1611057",
+      "SURNAME": "Kupaysinov",
+      "NAME": "Sarvar",
+      "GROUP": "SOL16-2"
+    },
+    {
+      "ID": "U1611059",
+      "SURNAME": "Yunusov",
+      "NAME": "Shakhzod",
+      "GROUP": "SOL16-2"
+    },
+    {
+      "ID": "U1611060",
+      "SURNAME": "Narzullaev",
+      "NAME": "Sherbek",
+      "GROUP": "SOL16-3"
+    },
+    {
+      "ID": "U1611061",
+      "SURNAME": "Nametova",
+      "NAME": "Shokhinur",
+      "GROUP": "SOL16-3"
+    },
+    {
+      "ID": "U1611062",
+      "SURNAME": "Anvarov",
+      "NAME": "Shokhrukh",
+      "GROUP": "SOL16-3"
+    },
+    {
+      "ID": "U1611063",
+      "SURNAME": "Abdulkhaev",
+      "NAME": "Shokhrukhmirzo",
+      "GROUP": "SOL16-3"
+    },
+    {
+      "ID": "U1611065",
+      "SURNAME": "Ibrogimov",
+      "NAME": "Sukhrob",
+      "GROUP": "SOL16-3"
+    },
+    {
+      "ID": "U1611066",
+      "SURNAME": "Ramazanov",
+      "NAME": "Sukhrobjon",
+      "GROUP": "SOL16-3"
+    },
+    {
+      "ID": "U1611067",
+      "SURNAME": "Saydaliev",
+      "NAME": "Sultonbek",
+      "GROUP": "SOL16-3"
+    },
+    {
+      "ID": "U1611068",
+      "SURNAME": "Mamaraimova",
+      "NAME": "Surayyo",
+      "GROUP": "SOL16-3"
+    },
+    {
+      "ID": "U1611069",
+      "SURNAME": "Nusratov",
+      "NAME": "Tolibjon",
+      "GROUP": "SOL16-3"
+    },
+    {
+      "ID": "U1611070",
+      "SURNAME": "Turgunboev",
+      "NAME": "Akbarjon",
+      "GROUP": "SOL16-3"
+    },
+    {
+      "ID": "U1611071",
+      "SURNAME": "Khudaybergenov",
+      "NAME": "Ulmasbek",
+      "GROUP": "SOL16-3"
+    },
+    {
+      "ID": "U1611072",
+      "SURNAME": "Mirmukhamedov",
+      "NAME": "Ulugbek",
+      "GROUP": "SOL16-3"
+    },
+    {
+      "ID": "U1611073",
+      "SURNAME": "Khoshimov",
+      "NAME": "Yakhyobek",
+      "GROUP": "SOL16-3"
+    },
+    {
+      "ID": "U1611074",
+      "SURNAME": "Yaminjonov",
+      "NAME": "Yusufjon",
+      "GROUP": "SOL16-3"
+    },
+    {
+      "ID": "U1611075",
+      "SURNAME": "Pulatova",
+      "NAME": "Zebo",
+      "GROUP": "SOL16-3"
+    },
+    {
+      "ID": "U1611076",
+      "SURNAME": "Otabekov",
+      "NAME": "Zokhidbek",
+      "GROUP": "SOL16-3"
+    },
+    {
+      "ID": "U1611077",
+      "SURNAME": "Abdurakhmonov",
+      "NAME": "Zukhriddin",
+      "GROUP": "SOL16-3"
+    },
+    {
+      "ID": "U1611078",
+      "SURNAME": "Abdukhalimov",
+      "NAME": "Abror",
+      "GROUP": "SOL16-3"
+    },
+    {
+      "ID": "U1611079",
+      "SURNAME": "Toirov",
+      "NAME": "Abubakr",
+      "GROUP": "SOL16-3"
+    },
+    {
+      "ID": "U1611080",
+      "SURNAME": "Usmanov",
+      "NAME": "Akbar",
+      "GROUP": "SOL16-3"
+    },
+    {
+      "ID": "U1611082",
+      "SURNAME": "Nasrieva",
+      "NAME": "Dilnozakhon",
+      "GROUP": "SOL16-3"
+    }
+  ],
+  "Senior": [
+    {
+      "ID": "U1410002",
+      "SURNAME": "Abdugafforov",
+      "NAME": "Abdurasul",
+      "GROUP": "CIE15-1"
+    },
+    {
+      "ID": "U1410007",
+      "SURNAME": "Askarov",
+      "NAME": "Jamshidjon",
+      "GROUP": "CIE15-1"
+    },
+    {
+      "ID": "U1410026",
+      "SURNAME": "Nortajiev",
+      "NAME": "Bakhtiyor",
+      "GROUP": "CIE15-1"
+    },
+    {
+      "ID": "U1410040",
+      "SURNAME": "Vakilov",
+      "NAME": "Dilmurod",
+      "GROUP": "CIE15-1"
+    },
+    {
+      "ID": "U1410042",
+      "SURNAME": "Yuldasheva",
+      "NAME": "Aziza",
+      "GROUP": "CIE15-1"
+    },
+    {
+      "ID": "U1410053",
+      "SURNAME": "Ergashev",
+      "NAME": "Ildar",
+      "GROUP": "CIE15-1"
+    },
+    {
+      "ID": "U1410054",
+      "SURNAME": "Erkinov",
+      "NAME": "Dilmurod",
+      "GROUP": "CIE15-1"
+    },
+    {
+      "ID": "U1410065",
+      "SURNAME": "Bekhzod",
+      "NAME": "Khamdamov",
+      "GROUP": "CIE15-1"
+    },
+    {
+      "ID": "U1410077",
+      "SURNAME": "Mamashokirov",
+      "NAME": "Shavkatjon",
+      "GROUP": "CIE15-1"
+    },
+    {
+      "ID": "U1410081",
+      "SURNAME": "Mukhammadaliev",
+      "NAME": "Nursulton",
+      "GROUP": "CIE15-1"
+    },
+    {
+      "ID": "U1410126",
+      "SURNAME": "Kodirov",
+      "NAME": "Valisher",
+      "GROUP": "CIE15-1"
+    },
+    {
+      "ID": "U1410128",
+      "SURNAME": "Nigmatov",
+      "NAME": "Azizjon",
+      "GROUP": "CIE15-1"
+    },
+    {
+      "ID": "U1510001",
+      "SURNAME": "Abdullaev",
+      "NAME": "Daler",
+      "GROUP": "CIE15-1"
+    },
+    {
+      "ID": "U1510002",
+      "SURNAME": "Umarov",
+      "NAME": "Abdullo",
+      "GROUP": "CIE15-1"
+    },
+    {
+      "ID": "U1510003",
+      "SURNAME": "Aminov",
+      "NAME": "Akbarkhon",
+      "GROUP": "CIE15-1"
+    },
+    {
+      "ID": "U1510004",
+      "SURNAME": "Akhmedov",
+      "NAME": "Shokhrukh",
+      "GROUP": "CIE15-1"
+    },
+    {
+      "ID": "U1510005",
+      "SURNAME": "Gaibnazarov",
+      "NAME": "Akhror",
+      "GROUP": "CIE15-1"
+    },
+    {
+      "ID": "U1510007",
+      "SURNAME": "Akbaraliev",
+      "NAME": "Alisher",
+      "GROUP": "CIE15-1"
+    },
+    {
+      "ID": "U1510008",
+      "SURNAME": "Umarova",
+      "NAME": "Asal",
+      "GROUP": "CIE15-1"
+    },
+    {
+      "ID": "U1510009",
+      "SURNAME": "Tursunov",
+      "NAME": "Azizbek",
+      "GROUP": "CIE15-1"
+    },
+    {
+      "ID": "U1510011",
+      "SURNAME": "Solikhov",
+      "NAME": "Bakhodir",
+      "GROUP": "CIE15-1"
+    },
+    {
+      "ID": "U1510012",
+      "SURNAME": "Abdukadirov",
+      "NAME": "Bekhruz",
+      "GROUP": "CIE15-1"
+    },
+    {
+      "ID": "U1510013",
+      "SURNAME": "Zaitov",
+      "NAME": "Bobur",
+      "GROUP": "CIE15-1"
+    },
+    {
+      "ID": "U1510014",
+      "SURNAME": "Tokhirova",
+      "NAME": "Dilnurakhon",
+      "GROUP": "CIE15-1"
+    },
+    {
+      "ID": "U1510015",
+      "SURNAME": "Yusupov",
+      "NAME": "Doniyor",
+      "GROUP": "CIE15-1"
+    },
+    {
+      "ID": "U1510016",
+      "SURNAME": "Klichov",
+      "NAME": "Faridun",
+      "GROUP": "CIE15-1"
+    },
+    {
+      "ID": "U1510017",
+      "SURNAME": "Badirov",
+      "NAME": "Fatkhullo",
+      "GROUP": "CIE15-1"
+    },
+    {
+      "ID": "U1510018",
+      "SURNAME": "Rakhimov",
+      "NAME": "Iskandar",
+      "GROUP": "CIE15-1"
+    },
+    {
+      "ID": "U1510019",
+      "SURNAME": "Abdunabiev",
+      "NAME": "Isomiddin",
+      "GROUP": "CIE15-1"
+    },
+    {
+      "ID": "U1510020",
+      "SURNAME": "Urolboev",
+      "NAME": "Jasurbek",
+      "GROUP": "CIE15-1"
+    },
+    {
+      "ID": "U1510021",
+      "SURNAME": "Ataboev",
+      "NAME": "Javokhir",
+      "GROUP": "CIE15-1"
+    },
+    {
+      "ID": "U1510022",
+      "SURNAME": "Hao",
+      "NAME": "Haorui",
+      "GROUP": "CIE15-1"
+    },
+    {
+      "ID": "U1510023",
+      "SURNAME": "Komiljonova",
+      "NAME": "Lobarkhon",
+      "GROUP": "CIE15-1"
+    },
+    {
+      "ID": "U1510024",
+      "SURNAME": "Kholmatova",
+      "NAME": "Madinabonu",
+      "GROUP": "CIE15-1"
+    },
+    {
+      "ID": "U1510026",
+      "SURNAME": "Suvonberdiyev",
+      "NAME": "Mirzo-Golib",
+      "GROUP": "CIE15-1"
+    },
+    {
+      "ID": "U1510027",
+      "SURNAME": "Adulkhofizov",
+      "NAME": "Mukhammadali",
+      "GROUP": "CIE15-1"
+    },
+    {
+      "ID": "U1510028",
+      "SURNAME": "Askarov",
+      "NAME": "Mukhammadjon",
+      "GROUP": "CIE15-1"
+    },
+    {
+      "ID": "U1510029",
+      "SURNAME": "Khusanboeva",
+      "NAME": "Mukhlisakhon",
+      "GROUP": "CIE15-1"
+    },
+    {
+      "ID": "U1510030",
+      "SURNAME": "Abdumannabova",
+      "NAME": "Munisa",
+      "GROUP": "CIE15-1"
+    },
+    {
+      "ID": "U1510031",
+      "SURNAME": "Murodullaev",
+      "NAME": "Muslimbek",
+      "GROUP": "CIE15-1"
+    },
+    {
+      "ID": "U1510032",
+      "SURNAME": "Anvarov",
+      "NAME": "Nigmatjon",
+      "GROUP": "CIE15-2"
+    },
+    {
+      "ID": "U1510033",
+      "SURNAME": "Shokirov",
+      "NAME": "Nuriddin",
+      "GROUP": "CIE15-2"
+    },
+    {
+      "ID": "U1510034",
+      "SURNAME": "Mardonov",
+      "NAME": "Odiljon",
+      "GROUP": "CIE15-2"
+    },
+    {
+      "ID": "U1510035",
+      "SURNAME": "Abdullaev",
+      "NAME": "Ozodrukh",
+      "GROUP": "CIE15-2"
+    },
+    {
+      "ID": "U1510036",
+      "SURNAME": "Rustamov",
+      "NAME": "Rakhimjon",
+      "GROUP": "CIE15-2"
+    },
+    {
+      "ID": "U1510037",
+      "SURNAME": "Makhmadaliev",
+      "NAME": "Ravshan",
+      "GROUP": "CIE15-2"
+    },
+    {
+      "ID": "U1510038",
+      "SURNAME": "Tadjibaev",
+      "NAME": "Rustam",
+      "GROUP": "CIE15-2"
+    },
+    {
+      "ID": "U1510039",
+      "SURNAME": "Akbarova",
+      "NAME": "Sabinakhon",
+      "GROUP": "CIE15-2"
+    },
+    {
+      "ID": "U1510040",
+      "SURNAME": "Juraev",
+      "NAME": "Shakhboz",
+      "GROUP": "CIE15-2"
+    },
+    {
+      "ID": "U1510041",
+      "SURNAME": "Malikov",
+      "NAME": "Sherzodbek",
+      "GROUP": "CIE15-2"
+    },
+    {
+      "ID": "U1510042",
+      "SURNAME": "Kholmurodov",
+      "NAME": "Shokhrukh",
+      "GROUP": "CIE15-2"
+    },
+    {
+      "ID": "U1510043",
+      "SURNAME": "Akhmadkhonov",
+      "NAME": "Shokhrukhbek",
+      "GROUP": "CIE15-2"
+    },
+    {
+      "ID": "U1510044",
+      "SURNAME": "Gaybullaev",
+      "NAME": "Turabek",
+      "GROUP": "CIE15-2"
+    },
+    {
+      "ID": "U1510045",
+      "SURNAME": "Tojiev",
+      "NAME": "Tursunboy",
+      "GROUP": "CIE15-2"
+    },
+    {
+      "ID": "U1510046",
+      "SURNAME": "Zaribov",
+      "NAME": "Umidjon",
+      "GROUP": "CIE15-2"
+    },
+    {
+      "ID": "U1510047",
+      "SURNAME": "Ganikhujaev",
+      "NAME": "Voriskhon",
+      "GROUP": "CIE15-2"
+    },
+    {
+      "ID": "U1510048",
+      "SURNAME": "Aktamov",
+      "NAME": "Zokhidjon",
+      "GROUP": "CIE15-2"
+    },
+    {
+      "ID": "U1510049",
+      "SURNAME": "Yusupov",
+      "NAME": "Afzal",
+      "GROUP": "CIE15-2"
+    },
+    {
+      "ID": "U1510050",
+      "SURNAME": "Joniev",
+      "NAME": "Abror",
+      "GROUP": "CIE15-2"
+    },
+    {
+      "ID": "U1510051",
+      "SURNAME": "Shamsuddinov",
+      "NAME": "Akhmadjon",
+      "GROUP": "CIE15-2"
+    },
+    {
+      "ID": "U1510052",
+      "SURNAME": "Muminov",
+      "NAME": "Anvar",
+      "GROUP": "CIE15-2"
+    },
+    {
+      "ID": "U1510053",
+      "SURNAME": "Kulmatov",
+      "NAME": "Arslonbek",
+      "GROUP": "CIE15-2"
+    },
+    {
+      "ID": "U1510054",
+      "SURNAME": "Khanazarov",
+      "NAME": "Aziz",
+      "GROUP": "CIE15-2"
+    },
+    {
+      "ID": "U1510055",
+      "SURNAME": "Tojiev",
+      "NAME": "Bakhtiyor",
+      "GROUP": "CIE15-2"
+    },
+    {
+      "ID": "U1510056",
+      "SURNAME": "Suloymonov",
+      "NAME": "Barkamol",
+      "GROUP": "CIE15-2"
+    },
+    {
+      "ID": "U1510057",
+      "SURNAME": "Mirtursinov",
+      "NAME": "Bekhruz",
+      "GROUP": "CIE15-2"
+    },
+    {
+      "ID": "U1510058",
+      "SURNAME": "Obidov",
+      "NAME": "Bobirjon",
+      "GROUP": "CIE15-2"
+    },
+    {
+      "ID": "U1510059",
+      "SURNAME": "Pulatova",
+      "NAME": "Dilorom",
+      "GROUP": "CIE15-2"
+    },
+    {
+      "ID": "U1510060",
+      "SURNAME": "Botirov",
+      "NAME": "Erkinboy",
+      "GROUP": "CIE15-2"
+    },
+    {
+      "ID": "U1510062",
+      "SURNAME": "Vafaev",
+      "NAME": "Jamoliddin",
+      "GROUP": "CIE15-2"
+    },
+    {
+      "ID": "U1510063",
+      "SURNAME": "Abdirashidov",
+      "NAME": "Javokhir",
+      "GROUP": "CIE15-2"
+    },
+    {
+      "ID": "U1510064",
+      "SURNAME": "Abdusattarov",
+      "NAME": "Khondamirbek",
+      "GROUP": "CIE15-2"
+    },
+    {
+      "ID": "U1510065",
+      "SURNAME": "Bakhtiyorkhujaeva",
+      "NAME": "Khurshidakhon",
+      "GROUP": "CIE15-2"
+    },
+    {
+      "ID": "U1510066",
+      "SURNAME": "Bozarova",
+      "NAME": "Maftuna",
+      "GROUP": "CIE15-2"
+    },
+    {
+      "ID": "U1510067",
+      "SURNAME": "Sharabbaeva",
+      "NAME": "Maftuna",
+      "GROUP": "CIE15-2"
+    },
+    {
+      "ID": "U1510068",
+      "SURNAME": "Giyosov",
+      "NAME": "Mirshodjon",
+      "GROUP": "CIE15-2"
+    },
+    {
+      "ID": "U1510069",
+      "SURNAME": "Anvarova",
+      "NAME": "Mukhlisa",
+      "GROUP": "CIE15-2"
+    },
+    {
+      "ID": "U1510070",
+      "SURNAME": "Khoshimova",
+      "NAME": "Nodira",
+      "GROUP": "CIE15-2"
+    },
+    {
+      "ID": "U1510071",
+      "SURNAME": "Ibrokhimov",
+      "NAME": "Omonjon",
+      "GROUP": "CIE15-2"
+    },
+    {
+      "ID": "U1510073",
+      "SURNAME": "Ozodova",
+      "NAME": "Shakhnoza",
+      "GROUP": "CIE15-2"
+    },
+    {
+      "ID": "U1510074",
+      "SURNAME": "Khidoyatov",
+      "NAME": "Shukhrat",
+      "GROUP": "CIE15-3"
+    },
+    {
+      "ID": "U1510075",
+      "SURNAME": "Jumaev",
+      "NAME": "Sirojiddin",
+      "GROUP": "CIE15-3"
+    },
+    {
+      "ID": "U1510076",
+      "SURNAME": "Saidov",
+      "NAME": "Jahongir",
+      "GROUP": "CIE15-3"
+    },
+    {
+      "ID": "U1510077",
+      "SURNAME": "Usmonova",
+      "NAME": "Kamola",
+      "GROUP": "CIE15-3"
+    },
+    {
+      "ID": "U1510078",
+      "SURNAME": "Mamataliev",
+      "NAME": "Gayrat",
+      "GROUP": "CIE15-3"
+    },
+    {
+      "ID": "U1510079",
+      "SURNAME": "Musaeva",
+      "NAME": "Mokhira",
+      "GROUP": "CIE15-3"
+    },
+    {
+      "ID": "U1510081",
+      "SURNAME": "Ibragimov",
+      "NAME": "Timur",
+      "GROUP": "CIE15-3"
+    },
+    {
+      "ID": "U1510082",
+      "SURNAME": "Abdullaev",
+      "NAME": "Ulugbek",
+      "GROUP": "CIE15-3"
+    },
+    {
+      "ID": "U1510083",
+      "SURNAME": "Bakhtiyorov",
+      "NAME": "Bakhromjon",
+      "GROUP": "CIE15-3"
+    },
+    {
+      "ID": "U1510084",
+      "SURNAME": "Tursunov",
+      "NAME": "Fayzullo",
+      "GROUP": "CIE15-3"
+    },
+    {
+      "ID": "U1510085",
+      "SURNAME": "Ismoilova",
+      "NAME": "Gulnora",
+      "GROUP": "CIE15-3"
+    },
+    {
+      "ID": "U1510086",
+      "SURNAME": "Musaboyeva",
+      "NAME": "Nozimakhon",
+      "GROUP": "CIE15-3"
+    },
+    {
+      "ID": "U1510087",
+      "SURNAME": "Egamberdiev",
+      "NAME": "Saidakbar",
+      "GROUP": "CIE15-3"
+    },
+    {
+      "ID": "U1510088",
+      "SURNAME": "Tuygunkhujaev",
+      "NAME": "Yunuskhuja",
+      "GROUP": "CIE15-3"
+    },
+    {
+      "ID": "U1510089",
+      "SURNAME": "Akmalkhujaev",
+      "NAME": "Akbarkhon",
+      "GROUP": "CIE15-3"
+    },
+    {
+      "ID": "U1510091",
+      "SURNAME": "Movlonov",
+      "NAME": "Ibrokhim",
+      "GROUP": "CIE15-3"
+    },
+    {
+      "ID": "U1510092",
+      "SURNAME": "Abdul-Kodir",
+      "NAME": "Khasanboy",
+      "GROUP": "CIE15-3"
+    },
+    {
+      "ID": "U1510093",
+      "SURNAME": "Tuychiboev",
+      "NAME": "Khumoyun",
+      "GROUP": "CIE15-3"
+    },
+    {
+      "ID": "U1510094",
+      "SURNAME": "Abdul-Kodir",
+      "NAME": "Khusanboy",
+      "GROUP": "CIE15-3"
+    },
+    {
+      "ID": "U1510095",
+      "SURNAME": "Olimjonova",
+      "NAME": "Maftunakhon",
+      "GROUP": "CIE15-3"
+    },
+    {
+      "ID": "U1510097",
+      "SURNAME": "Khusniddinova",
+      "NAME": "Munavvara",
+      "GROUP": "CIE15-3"
+    },
+    {
+      "ID": "U1510098",
+      "SURNAME": "Abdullaeva",
+      "NAME": "Rukhsorakhon",
+      "GROUP": "CIE15-3"
+    },
+    {
+      "ID": "U1510099",
+      "SURNAME": "Mamanazarov",
+      "NAME": "Ruzimukhammad",
+      "GROUP": "CIE15-3"
+    },
+    {
+      "ID": "U1510100",
+      "SURNAME": "Allaberganov",
+      "NAME": "Sadulla",
+      "GROUP": "CIE15-3"
+    },
+    {
+      "ID": "U1510103",
+      "SURNAME": "Abdukakhkhorov",
+      "NAME": "Zhavokhir",
+      "GROUP": "CIE15-3"
+    },
+    {
+      "ID": "U1510104",
+      "SURNAME": "Norkuziev",
+      "NAME": "Beknazar",
+      "GROUP": "CIE15-3"
+    },
+    {
+      "ID": "U1510105",
+      "SURNAME": "Azizov",
+      "NAME": "Abdulaziz",
+      "GROUP": "CIE15-3"
+    },
+    {
+      "ID": "U1510106",
+      "SURNAME": "Kakhramonova",
+      "NAME": "Shakhzoda",
+      "GROUP": "CIE15-3"
+    },
+    {
+      "ID": "U1510301",
+      "SURNAME": "Abdukakhkharov",
+      "NAME": "Abdulaziz",
+      "GROUP": "CIE15-3"
+    },
+    {
+      "ID": "U1510302",
+      "SURNAME": "Umarov",
+      "NAME": "Abdusaid",
+      "GROUP": "CIE15-3"
+    },
+    {
+      "ID": "U1510304",
+      "SURNAME": "Arifkhanov",
+      "NAME": "Amir Said",
+      "GROUP": "CIE15-3"
+    },
+    {
+      "ID": "U1510306",
+      "SURNAME": "Yusupov",
+      "NAME": "Amirjon",
+      "GROUP": "CIE15-3"
+    },
+    {
+      "ID": "U1510307",
+      "SURNAME": "Kim",
+      "NAME": "Andrey",
+      "GROUP": "CIE15-3"
+    },
+    {
+      "ID": "U1510308",
+      "SURNAME": "Davronov",
+      "NAME": "Asilbek",
+      "GROUP": "CIE15-3"
+    },
+    {
+      "ID": "U1510309",
+      "SURNAME": "Majidov",
+      "NAME": "Azamat",
+      "GROUP": "CIE15-3"
+    },
+    {
+      "ID": "U1510310",
+      "SURNAME": "Mamarajabov",
+      "NAME": "Azamatbek",
+      "GROUP": "CIE15-3"
+    },
+    {
+      "ID": "U1510311",
+      "SURNAME": "Matchanov",
+      "NAME": "Azizbek",
+      "GROUP": "CIE15-3"
+    },
+    {
+      "ID": "U1510312",
+      "SURNAME": "Khamidov",
+      "NAME": "Bedilbek",
+      "GROUP": "CIE15-3"
+    },
+    {
+      "ID": "U1510313",
+      "SURNAME": "Aloev",
+      "NAME": "Damirkhon",
+      "GROUP": "CIE15-3"
+    },
+    {
+      "ID": "U1510314",
+      "SURNAME": "Najmiddinov",
+      "NAME": "Doniyor",
+      "GROUP": "CIE15-3"
+    },
+    {
+      "ID": "U1510315",
+      "SURNAME": "Toshbekov",
+      "NAME": "Doston",
+      "GROUP": "CIE15-4"
+    },
+    {
+      "ID": "U1510316",
+      "SURNAME": "Oripjonov",
+      "NAME": "Dostonbek",
+      "GROUP": "CIE15-4"
+    },
+    {
+      "ID": "U1510317",
+      "SURNAME": "Khoshimjonov",
+      "NAME": "Elbek",
+      "GROUP": "CIE15-4"
+    },
+    {
+      "ID": "U1510318",
+      "SURNAME": "Mirsaidov",
+      "NAME": "Elyor",
+      "GROUP": "CIE15-4"
+    },
+    {
+      "ID": "U1510319",
+      "SURNAME": "Ergashev",
+      "NAME": "Abdusoli",
+      "GROUP": "CIE15-4"
+    },
+    {
+      "ID": "U1510320",
+      "SURNAME": "Kamoliddinov",
+      "NAME": "Fazliddin",
+      "GROUP": "CIE15-4"
+    },
+    {
+      "ID": "U1510321",
+      "SURNAME": "Shorakhimova",
+      "NAME": "Feruza",
+      "GROUP": "CIE15-4"
+    },
+    {
+      "ID": "U1510322",
+      "SURNAME": "Juraev",
+      "NAME": "Firuz",
+      "GROUP": "CIE15-4"
+    },
+    {
+      "ID": "U1510324",
+      "SURNAME": "Shofiyev",
+      "NAME": "Jaloliddin",
+      "GROUP": "CIE15-4"
+    },
+    {
+      "ID": "U1510325",
+      "SURNAME": "Abdirozikov",
+      "NAME": "Jasurbek",
+      "GROUP": "CIE15-4"
+    },
+    {
+      "ID": "U1510326",
+      "SURNAME": "Nabijonov",
+      "NAME": "Jasurbek",
+      "GROUP": "CIE15-4"
+    },
+    {
+      "ID": "U1510327",
+      "SURNAME": "Jurakhonov",
+      "NAME": "Javokhir",
+      "GROUP": "CIE15-4"
+    },
+    {
+      "ID": "U1510328",
+      "SURNAME": "Salokhiddinov",
+      "NAME": "Khamidullokhon",
+      "GROUP": "CIE15-4"
+    },
+    {
+      "ID": "U1510329",
+      "SURNAME": "Bakhromov",
+      "NAME": "Khurshid",
+      "GROUP": "CIE15-4"
+    },
+    {
+      "ID": "U1510330",
+      "SURNAME": "Kamalova",
+      "NAME": "Khushnoza",
+      "GROUP": "CIE15-4"
+    },
+    {
+      "ID": "U1510331",
+      "SURNAME": "Kodirov",
+      "NAME": "Abdurakhmon",
+      "GROUP": "CIE15-4"
+    },
+    {
+      "ID": "U1510332",
+      "SURNAME": "Kim",
+      "NAME": "Leonid",
+      "GROUP": "CIE15-4"
+    },
+    {
+      "ID": "U1510333",
+      "SURNAME": "Kim",
+      "NAME": "Maksim",
+      "GROUP": "CIE15-4"
+    },
+    {
+      "ID": "U1510334",
+      "SURNAME": "Anvarjonova",
+      "NAME": "Malika",
+      "GROUP": "CIE15-4"
+    },
+    {
+      "ID": "U1510335",
+      "SURNAME": "Xolmatov",
+      "NAME": "Muhammad Aziz",
+      "GROUP": "CIE15-4"
+    },
+    {
+      "ID": "U1510336",
+      "SURNAME": "Jabborkhonov",
+      "NAME": "Mukhammadazizkhon",
+      "GROUP": "CIE15-4"
+    },
+    {
+      "ID": "U1510337",
+      "SURNAME": "Jandullaev",
+      "NAME": "Navruz",
+      "GROUP": "CIE15-4"
+    },
+    {
+      "ID": "U1510338",
+      "SURNAME": "Hasanboev",
+      "NAME": "Nodirbek",
+      "GROUP": "CIE15-4"
+    },
+    {
+      "ID": "U1510339",
+      "SURNAME": "Buzrukkhodjaev",
+      "NAME": "Nodirkhon",
+      "GROUP": "CIE15-4"
+    },
+    {
+      "ID": "U1510340",
+      "SURNAME": "Mamasoliev",
+      "NAME": "Normurod",
+      "GROUP": "CIE15-4"
+    },
+    {
+      "ID": "U1510341",
+      "SURNAME": "Salyamova",
+      "NAME": "Nozimakhon",
+      "GROUP": "CIE15-4"
+    },
+    {
+      "ID": "U1510342",
+      "SURNAME": "Iskhakova",
+      "NAME": "Odinakhon",
+      "GROUP": "CIE15-4"
+    },
+    {
+      "ID": "U1510343",
+      "SURNAME": "Karimov",
+      "NAME": "Otabek",
+      "GROUP": "CIE15-4"
+    },
+    {
+      "ID": "U1510344",
+      "SURNAME": "Khalmatov",
+      "NAME": "Rustamjon",
+      "GROUP": "CIE15-4"
+    },
+    {
+      "ID": "U1510345",
+      "SURNAME": "Yusupova",
+      "NAME": "Saida",
+      "GROUP": "CIE15-4"
+    },
+    {
+      "ID": "U1510346",
+      "SURNAME": "Islomov",
+      "NAME": "Sardor",
+      "GROUP": "CIE15-4"
+    },
+    {
+      "ID": "U1510347",
+      "SURNAME": "Bya",
+      "NAME": "Sergey",
+      "GROUP": "CIE15-4"
+    },
+    {
+      "ID": "U1510348",
+      "SURNAME": "Urmanov",
+      "NAME": "Shakhobiddin",
+      "GROUP": "CIE15-4"
+    },
+    {
+      "ID": "U1510349",
+      "SURNAME": "Niyazov",
+      "NAME": "Sherzod",
+      "GROUP": "CIE15-4"
+    },
+    {
+      "ID": "U1510350",
+      "SURNAME": "Rajabov",
+      "NAME": "Sherzod",
+      "GROUP": "CIE15-4"
+    },
+    {
+      "ID": "U1510351",
+      "SURNAME": "Tojimahammatov",
+      "NAME": "Sherzodbek",
+      "GROUP": "CIE15-4"
+    },
+    {
+      "ID": "U1510352",
+      "SURNAME": "Shomakhmudov",
+      "NAME": "Shokhrukh",
+      "GROUP": "CIE15-4"
+    },
+    {
+      "ID": "U1510353",
+      "SURNAME": "Rakhmatov",
+      "NAME": "Shokhruz",
+      "GROUP": "CIE15-4"
+    },
+    {
+      "ID": "U1510354",
+      "SURNAME": "Kodirov",
+      "NAME": "Temur",
+      "GROUP": "CIE15-4"
+    },
+    {
+      "ID": "U1510355",
+      "SURNAME": "Ashurov",
+      "NAME": "Timur",
+      "GROUP": "CIE15-4"
+    },
+    {
+      "ID": "U1510356",
+      "SURNAME": "Tojiev",
+      "NAME": "Nizomiddin",
+      "GROUP": "CIE15-5"
+    },
+    {
+      "ID": "U1510357",
+      "SURNAME": "Isakov",
+      "NAME": "Tulkinjon",
+      "GROUP": "CIE15-5"
+    },
+    {
+      "ID": "U1510358",
+      "SURNAME": "Samigjonov",
+      "NAME": "Ulugbek",
+      "GROUP": "CIE15-5"
+    },
+    {
+      "ID": "U1510359",
+      "SURNAME": "Khan",
+      "NAME": "Valery",
+      "GROUP": "CIE15-5"
+    },
+    {
+      "ID": "U1510360",
+      "SURNAME": "Mukhitdinov",
+      "NAME": "Abdulrakhmon",
+      "GROUP": "CIE15-5"
+    },
+    {
+      "ID": "U1510361",
+      "SURNAME": "Nematov",
+      "NAME": "Ahadjon",
+      "GROUP": "CIE15-5"
+    },
+    {
+      "ID": "U1510362",
+      "SURNAME": "Karshiev",
+      "NAME": "Akbar",
+      "GROUP": "CIE15-5"
+    },
+    {
+      "ID": "U1510363",
+      "SURNAME": "Tuyakov",
+      "NAME": "Akhror",
+      "GROUP": "CIE15-5"
+    },
+    {
+      "ID": "U1510364",
+      "SURNAME": "Makhkamov",
+      "NAME": "Akmal",
+      "GROUP": "CIE15-5"
+    },
+    {
+      "ID": "U1510365",
+      "SURNAME": "Salokhiddinov",
+      "NAME": "Azizjon",
+      "GROUP": "CIE15-5"
+    },
+    {
+      "ID": "U1510366",
+      "SURNAME": "Omonov",
+      "NAME": "Doston",
+      "GROUP": "CIE15-5"
+    },
+    {
+      "ID": "U1510367",
+      "SURNAME": "Abdukhamidov",
+      "NAME": "Eldor",
+      "GROUP": "CIE15-5"
+    },
+    {
+      "ID": "U1510368",
+      "SURNAME": "Narzullaev",
+      "NAME": "Firdavsbek",
+      "GROUP": "CIE15-5"
+    },
+    {
+      "ID": "U1510369",
+      "SURNAME": "Bakhodirov",
+      "NAME": "Jakhongir",
+      "GROUP": "CIE15-5"
+    },
+    {
+      "ID": "U1510370",
+      "SURNAME": "Mamatkulov",
+      "NAME": "Jamshid",
+      "GROUP": "CIE15-5"
+    },
+    {
+      "ID": "U1510371",
+      "SURNAME": "Murtozoev",
+      "NAME": "Jasurbek",
+      "GROUP": "CIE15-5"
+    },
+    {
+      "ID": "U1510372",
+      "SURNAME": "Saidova",
+      "NAME": "Madina",
+      "GROUP": "CIE15-5"
+    },
+    {
+      "ID": "U1510373",
+      "SURNAME": "Bakunts",
+      "NAME": "Marine",
+      "GROUP": "CIE15-5"
+    },
+    {
+      "ID": "U1510374",
+      "SURNAME": "Raupov",
+      "NAME": "Mirshod",
+      "GROUP": "CIE15-5"
+    },
+    {
+      "ID": "U1510375",
+      "SURNAME": "Abduganiev",
+      "NAME": "Muslimbek",
+      "GROUP": "CIE15-5"
+    },
+    {
+      "ID": "U1510376",
+      "SURNAME": "Khudaykulova",
+      "NAME": "Nargiza",
+      "GROUP": "CIE15-5"
+    },
+    {
+      "ID": "U1510377",
+      "SURNAME": "Akhmadjonov",
+      "NAME": "Nasurullo",
+      "GROUP": "CIE15-5"
+    },
+    {
+      "ID": "U1510379",
+      "SURNAME": "Bekhnazarov",
+      "NAME": "Oybek",
+      "GROUP": "CIE15-5"
+    },
+    {
+      "ID": "U1510380",
+      "SURNAME": "Mirkhojieva",
+      "NAME": "Rukhsora",
+      "GROUP": "CIE15-5"
+    },
+    {
+      "ID": "U1510381",
+      "SURNAME": "Tojiev",
+      "NAME": "Sarvar",
+      "GROUP": "CIE15-5"
+    },
+    {
+      "ID": "U1510382",
+      "SURNAME": "Kim",
+      "NAME": "Sergey",
+      "GROUP": "CIE15-5"
+    },
+    {
+      "ID": "U1510383",
+      "SURNAME": "Kimsanov",
+      "NAME": "Shokhrukh",
+      "GROUP": "CIE15-5"
+    },
+    {
+      "ID": "U1510384",
+      "SURNAME": "Tulanov",
+      "NAME": "Sirojiddin",
+      "GROUP": "CIE15-5"
+    },
+    {
+      "ID": "U1510385",
+      "SURNAME": "Ikromov",
+      "NAME": "Sultonbek",
+      "GROUP": "CIE15-5"
+    },
+    {
+      "ID": "U1510386",
+      "SURNAME": "Ibrokhimov",
+      "NAME": "Temurbek",
+      "GROUP": "CIE15-5"
+    },
+    {
+      "ID": "U1510387",
+      "SURNAME": "Abdullaev",
+      "NAME": "Abbos",
+      "GROUP": "CIE15-5"
+    },
+    {
+      "ID": "U1510388",
+      "SURNAME": "Khamidov",
+      "NAME": "Abdulbosid",
+      "GROUP": "CIE15-5"
+    },
+    {
+      "ID": "U1510389",
+      "SURNAME": "Sadvakasov",
+      "NAME": "Farrukh",
+      "GROUP": "CIE15-5"
+    },
+    {
+      "ID": "U1510390",
+      "SURNAME": "Urmonov",
+      "NAME": "Jakhongir",
+      "GROUP": "CIE15-5"
+    },
+    {
+      "ID": "U1510391",
+      "SURNAME": "Bakhadirov",
+      "NAME": "Khikmet",
+      "GROUP": "CIE15-5"
+    },
+    {
+      "ID": "U1510392",
+      "SURNAME": "Tashpulatova",
+      "NAME": "Mukhayyo",
+      "GROUP": "CIE15-5"
+    },
+    {
+      "ID": "U1510394",
+      "SURNAME": "Kholjuraev",
+      "NAME": "Muslimjon",
+      "GROUP": "CIE15-5"
+    },
+    {
+      "ID": "U1510395",
+      "SURNAME": "Lutfullaeva",
+      "NAME": "Nasiba",
+      "GROUP": "CIE15-5"
+    },
+    {
+      "ID": "U1510396",
+      "SURNAME": "Kdirbaev",
+      "NAME": "Salauat",
+      "GROUP": "CIE15-5"
+    },
+    {
+      "ID": "U1510397",
+      "SURNAME": "Ibrokhimov",
+      "NAME": "Sardorkhuja",
+      "GROUP": "CIE15-5"
+    },
+    {
+      "ID": "U1510398",
+      "SURNAME": "Kholmurodov",
+      "NAME": "Shokhriyor",
+      "GROUP": "CIE15-6"
+    },
+    {
+      "ID": "U1510399",
+      "SURNAME": "Askarov",
+      "NAME": "Suhrob",
+      "GROUP": "CIE15-6"
+    },
+    {
+      "ID": "U1510400",
+      "SURNAME": "Yusupov",
+      "NAME": "Temur",
+      "GROUP": "CIE15-6"
+    },
+    {
+      "ID": "U1510401",
+      "SURNAME": "Khaydarova",
+      "NAME": "Umida",
+      "GROUP": "CIE15-6"
+    },
+    {
+      "ID": "U1510402",
+      "SURNAME": "Alimov",
+      "NAME": "Avaz",
+      "GROUP": "CIE15-6"
+    },
+    {
+      "ID": "U1510403",
+      "SURNAME": "Otakulov",
+      "NAME": "Bekmurod",
+      "GROUP": "CIE15-6"
+    },
+    {
+      "ID": "U1510405",
+      "SURNAME": "Norkuziev",
+      "NAME": "Bekzodjon",
+      "GROUP": "CIE15-6"
+    },
+    {
+      "ID": "U1510406",
+      "SURNAME": "Madrakhimov",
+      "NAME": "Dilmurod",
+      "GROUP": "CIE15-6"
+    },
+    {
+      "ID": "U1510408",
+      "SURNAME": "Kamolov",
+      "NAME": "Hojiakbar",
+      "GROUP": "CIE15-6"
+    },
+    {
+      "ID": "U1510409",
+      "SURNAME": "Ismailov",
+      "NAME": "Jamshiddin",
+      "GROUP": "CIE15-6"
+    },
+    {
+      "ID": "U1510410",
+      "SURNAME": "Murtazakulov",
+      "NAME": "Khamidjon",
+      "GROUP": "CIE15-6"
+    },
+    {
+      "ID": "U1510411",
+      "SURNAME": "Raupova",
+      "NAME": "Mokhinur",
+      "GROUP": "CIE15-6"
+    },
+    {
+      "ID": "U1510412",
+      "SURNAME": "Hakimov",
+      "NAME": "Murodjon",
+      "GROUP": "CIE15-6"
+    },
+    {
+      "ID": "U1510413",
+      "SURNAME": "Hudayberganov",
+      "NAME": "Nuraddin",
+      "GROUP": "CIE15-6"
+    },
+    {
+      "ID": "U1510414",
+      "SURNAME": "Rahimboev",
+      "NAME": "Ogabek",
+      "GROUP": "CIE15-6"
+    },
+    {
+      "ID": "U1510415",
+      "SURNAME": "Saidkhonov",
+      "NAME": "Saidmurod",
+      "GROUP": "CIE15-6"
+    },
+    {
+      "ID": "U1510416",
+      "SURNAME": "Yugay",
+      "NAME": "Vyacheslav",
+      "GROUP": "CIE15-6"
+    },
+    {
+      "ID": "U1510417",
+      "SURNAME": "Mirsobitov",
+      "NAME": "Abdulbositkhon",
+      "GROUP": "CIE15-6"
+    },
+    {
+      "ID": "U1510418",
+      "SURNAME": "Usmonov",
+      "NAME": "Akmaljon",
+      "GROUP": "CIE15-6"
+    },
+    {
+      "ID": "U1510419",
+      "SURNAME": "Rakhimjonov",
+      "NAME": "A'zamjon",
+      "GROUP": "CIE15-6"
+    },
+    {
+      "ID": "U1510421",
+      "SURNAME": "Yuldasheva",
+      "NAME": "Gulshad",
+      "GROUP": "CIE15-6"
+    },
+    {
+      "ID": "U1510422",
+      "SURNAME": "Shermamatov",
+      "NAME": "Mukhammadsher",
+      "GROUP": "CIE15-6"
+    },
+    {
+      "ID": "U1510423",
+      "SURNAME": "Aminov",
+      "NAME": "Shokhrukh",
+      "GROUP": "CIE15-6"
+    },
+    {
+      "ID": "U1510424",
+      "SURNAME": "Musurmanov",
+      "NAME": "Temur",
+      "GROUP": "CIE15-6"
+    },
+    {
+      "ID": "U1510425",
+      "SURNAME": "Sattarov",
+      "NAME": "Ulugbek",
+      "GROUP": "CIE15-6"
+    },
+    {
+      "ID": "U1510426",
+      "SURNAME": "Eshmuratov",
+      "NAME": "Yusupbek",
+      "GROUP": "CIE15-6"
+    },
+    {
+      "ID": "U1510427",
+      "SURNAME": "Khasanov",
+      "NAME": "Alisher",
+      "GROUP": "CIE15-6"
+    },
+    {
+      "ID": "U1510428",
+      "SURNAME": "Najmiddinov",
+      "NAME": "Azimjon",
+      "GROUP": "CIE15-6"
+    },
+    {
+      "ID": "U1510429",
+      "SURNAME": "Mamataliev",
+      "NAME": "Darkhonbek",
+      "GROUP": "CIE15-6"
+    },
+    {
+      "ID": "U1510430",
+      "SURNAME": "Bobokulova",
+      "NAME": "Dilbar",
+      "GROUP": "CIE15-6"
+    },
+    {
+      "ID": "U1510431",
+      "SURNAME": "Shavdillayev",
+      "NAME": "Farkhod",
+      "GROUP": "CIE15-6"
+    },
+    {
+      "ID": "U1510432",
+      "SURNAME": "Bagirov",
+      "NAME": "Firdavs",
+      "GROUP": "CIE15-6"
+    },
+    {
+      "ID": "U1510433",
+      "SURNAME": "Khushbakov",
+      "NAME": "Mukhammad",
+      "GROUP": "CIE15-6"
+    },
+    {
+      "ID": "U1510434",
+      "SURNAME": "Yuldashev",
+      "NAME": "Nodirbek",
+      "GROUP": "CIE15-6"
+    },
+    {
+      "ID": "U1510435",
+      "SURNAME": "Yalg'ashev",
+      "NAME": "Sanjar",
+      "GROUP": "CIE15-6"
+    },
+    {
+      "ID": "U1510436",
+      "SURNAME": "Yadgarov",
+      "NAME": "Shamshod",
+      "GROUP": "CIE15-6"
+    },
+    {
+      "ID": "U1510437",
+      "SURNAME": "Beknazarov",
+      "NAME": "Temur",
+      "GROUP": "CIE15-6"
+    },
+    {
+      "ID": "U1510438",
+      "SURNAME": "Jamolov",
+      "NAME": "Javohir",
+      "GROUP": "CIE15-6"
+    },
+    {
+      "ID": "U1510439",
+      "SURNAME": "Malikov",
+      "NAME": "Gulomjon",
+      "GROUP": "CIE15-6"
+    },
+    {
+      "ID": "U1510440",
+      "SURNAME": "Fatullayev",
+      "NAME": "Xolmurod",
+      "GROUP": "CIE15-6"
+    }
+  ]
+}

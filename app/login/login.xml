@@ -1,0 +1,27 @@
+<Page 
+    loaded="loaded" 
+    class="page" 
+    actionBarHidden="true" 
+    xmlns:fl="components/float-label"
+    xmlns="http://www.nativescript.org/tns.xsd">
+
+	<FlexboxLayout class="page">
+
+		<StackLayout class="form">
+
+			<Image class="logo" src="~/images/icon.png" />
+			<Label class="header" text="UNIVER LIFE" />
+
+			<ActivityIndicator busy="{{ isLoading }}" />
+
+			<StackLayout class="input-field">
+				<fl:FloatLabel placeholder="Student Email" />
+			</StackLayout>
+
+            <Button text="LOG IN" tap="signIn" id="loginBtn" isEnabled="{{ isEnabled }}" class="btn btn-primary m-t-20" />
+            
+		</StackLayout>
+
+
+	</FlexboxLayout>
+</Page>

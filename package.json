@@ -1,0 +1,36 @@
+{
+  "nativescript": {
+    "id": "org.nativescript.UniverLife",
+    "tns-android": {
+      "version": "5.2.1"
+    }
+  },
+  "description": "NativeScript Application",
+  "license": "SEE LICENSE IN <your-license-filename>",
+  "repository": "<fill-your-repository-here>",
+  "scripts": {
+    "lint": "eslint \"app/**/*.js\""
+  },
+  "dependencies": {
+    "nativescript-exit": "^1.0.1",
+    "nativescript-plugin-firebase": "^8.0.0",
+    "nativescript-theme-core": "~1.0.4",
+    "nativescript-ui-calendar": "^4.0.0",
+    "nativescript-ui-sidedrawer": "~5.1.0",
+    "nativescript-unit-test-runner": "^0.6.0",
+    "rxjs": "~6.3.0",
+    "tns-core-modules": "~5.2.0",
+    "ts-loader": "^5.3.3",
+    "typescript": "^3.3.4000"
+  },
+  "devDependencies": {
+    "eslint": "~5.8.0",
+    "karma": "4.0.1",
+    "karma-jasmine": "2.0.1",
+    "karma-nativescript-launcher": "0.4.0",
+    "nativescript-dev-sass": "~1.6.0",
+    "nativescript-dev-webpack": "~0.20.0"
+  },
+  "gitHead": "f548ec926e75201ab1b7c4a3a7ceefe7a4db15af",
+  "readme": "NativeScript Application"
+}
